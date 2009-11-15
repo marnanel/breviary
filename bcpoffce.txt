@@ -1,0 +1,6749 @@
+
+
+  The Book of Common Prayer:  E-text Edition (American, 1979)
+  Version 1.0
+  13 December 1993
+ 
+FILE 2 of 11 (BCPOFFCE.TXT)
+ 
+  BCPINFO  TXT  -- the "Readme" with duplicate Table of Contents
+  BCPOFFCE TXT  -- the Daily Office and front matter
+  BCPCOLCT TXT  -- the Collects
+  BCPSPECL TXT  -- Special services and Baptism
+  BCPEUCHR TXT  -- The Eucharist
+  BCPASTRL TXT  -- Pastoral Offices (Marriage, Burial)
+  BCPEPSCL TXT  -- Episcopal Offices (Confirmation, Ordination)
+ 
+  BCPSALT1 TXT  -- The Psalter, part 1
+  BCPSALT2 TXT  -- The Psalter, part 2
+  BCPPRAYR TXT  -- Prayers and Thanks., Catechism, Historical Docs., Tables
+ 
+  BCPLECTN TXT  -- Lectionary
+ 
+You may retrieve this file by sending the command:
+ 
+     GET BCPOFFCE TXT
+ 
+in the *body* of a message to "listserv@american.edu" (and similarly
+for the other files).
+ 
+This file is also available at FTP archives as a single file BCP10.TXT.
+FTP archives include:
+ 
+  mrcnext.cso.uiuc.edu
+ 
+  wiretap.spies.com
+ 
+  world.std.com
+ 
+ 
+If you are viewing this file with a word processor, we recommend you
+reformat it with a non-proportional, 10 point font, such as Courier 10.
+You should try to stop your program from automatically re-paragraphing
+the text, since line breaks are significant.
+ 
+This file, which should be called BCP10.TXT or bcp10.txt, is in the
+PUBLIC DOMAIN.  You may make copies, distribute them, produce derivative
+works, reformat, and make extracts from it.  If you do so, please do not
+distribute this header along with your altered E-text.
+ 
+In particular, if you remove this header, you may use this file in
+proprietary retrieval systems or embed the text in software that you
+sell.  We wish to encourage the production of hypertext systems, both
+public domain and proprietary, containing the text of the _Book of
+Common Prayer_, and also of commentaries in electronic format.
+ 
+This version of the 1979 American version of the _Book of Common Prayer_
+was edited by John E. Goodwin (jegoodwin@delphi.com).  The text was
+contributed by members of the Electronic Mailing list ANGLICAN, which is
+sponsored by American Methodist University, Washington, DC.  (The
+university has no connection with the E-text project).
+ 
+To subscribe to ANGLICAN, send the command "subscribe anglican" in the
+*body* of a message to "listserv@american.edu".  You may then send
+messages to "anglican@american.edu".  Notice that the addresses for
+sign-on and posting are different.
+ 
+Further details and acknowledgements are in file BCPINFO.TXT.
+ 
+ 
+-------------------(end of header)------------------
+ 
+<page 1>
+ 
+<page 2>
+ 
+<page 3>
+ 
+THE BOOK OF COMMON PRAYER
+ 
+and Administration of the Sacraments and Other Rites and Ceremonies of
+the Church
+ 
+Together with The Psalter or Psalms of David
+ 
+According to the use of
+ 
+The Episcopal Church
+ 
+THE SEABURY PRESS : NEW YORK
+ 
+<page 4>
+ 
+[The Certificate of the original.  Note that this electronic text is
+NOT approved by the Custodian of the Standard Book of Common Prayer.]
+ 
+<Certificate>
+ 
+I certify that this edition of The Book of Common Prayer
+has been compared with a certified copy of the Standard Book,
+as the Canon directs, and that it conforms thereto.
+ 
+Charles Mortimer Guilbert
+=Custodian of the Standard Book of Common Prayer=
+September, 1979
+ 
+<Page 5>
+ 
+ 
+ 
+<Table of Contents>
+ 
+The Ratification of the Book of Common Prayer   8
+ 
+The Preface   9
+ 
+Concerning the Service of the Church  13
+ 
+The Calendar of the Church Year  15
+ 
+ 
+<The Daily Office>
+ 
+Daily Morning Prayer: Rite One   37
+ 
+Daily Evening Prayer: Rite One   61
+ 
+Daily Morning Prayer: Rite Two   75
+ 
+Noonday Prayer   103
+ 
+Order of Worship for the Evening   108
+ 
+Daily Evening Prayer: Rite Two    115
+ 
+Compline   127
+ 
+Daily Devotions for Individuals and Families   137
+ 
+Table of Suggested Canticle   144
+ 
+ 
+<The Great Litany>   148
+ 
+ 
+<The Collects: Traditional>
+ 
+Seasons of the Year   159
+ 
+Holy Days   185
+ 
+Common of Saints   195
+ 
+Various Occasions   199
+ 
+<page 6>
+ 
+ 
+<The Collects: Contemporary>
+ 
+Seasons of the Year   211
+ 
+Holy Days   237
+ 
+Common of Saints   246
+ 
+Various Occasions   251
+ 
+ 
+<Proper Liturgies for Special Days>
+ 
+Ash Wednesday   264
+ 
+Palm Sunday   270
+ 
+Maundy Thursday   274
+ 
+Good Friday   276
+ 
+Holy Saturday   283
+ 
+The Great Vigil of Easter   285
+ 
+ 
+<Holy Baptism   299>
+ 
+ 
+<The Holy Eucharist>
+ 
+An Exhortation   316
+ 
+A Penitential Order:  Rite One   319
+ 
+The Holy Eucharist:  Rite One   323
+ 
+A Penitential Order:  Rite Two   351
+ 
+The Holy Eucharist:  Rite Two   355
+ 
+Prayers of the People   383
+ 
+Communion under Special Circumstances   396
+ 
+An Order for Celebrating the Holy Eucharist   400
+ 
+ 
+<Pastoral Offices>
+ 
+Confirmation   413
+ 
+A Form of Commitment to Christian Service   420
+ 
+Celebration and Blessing of a Marriage   423
+ 
+The Blessing of a Civil Marriage   433
+ 
+An Order for Marriage   435
+ 
+Thanksgiving for the Birth or Adoption of a Child   439
+ 
+Reconciliation of a Penitent   447
+ 
+Ministration to the Sick   453
+ 
+Ministration at the Time of Death   462
+ 
+<Page 7>
+ 
+Burial of the Dead: Rite One   469
+ 
+Burial of the Dead: Rite Two   491
+ 
+An Order for Burial   506
+ 
+ 
+<Episcopal Services>
+ 
+Ordination of a Bishop   511
+ 
+Ordination of a Priest   525
+ 
+Ordination of a Deacon   537
+ 
+Litany for Ordinations   548
+ 
+Celebration of a New Ministry   557
+ 
+Consecration of a Church or Chapel   567
+ 
+ 
+<The Psalter, or Psalms of David>   585
+ 
+ 
+<Prayers and Thanksgivings>   810
+ 
+ 
+<An Outline of the Faith, or Catechism>   845
+ 
+ 
+<Historical Documents of the Church>   864
+(including the Articles of Religion)
+ 
+ 
+<Tables for Finding the Date of Easter and other Holy Days>   880
+ 
+ 
+<The Lectionary>   888
+ 
+Year A   889
+ 
+Year B   900
+ 
+Year C   911
+ 
+Holy Days   921
+ 
+Common of Saints   925
+ 
+Various Occasions   927
+ 
+ 
+<Daily Office Lectionary>   934
+ 
+Seasons of the Year   936
+ 
+Holy Days   996
+ 
+Special Occasions   1000
+ 
+<page 8>
+ 
+ 
+ 
+<The Ratification of the Book of Common Prayer (1789)>
+ 
+By the Bishops, the Clergy, and the Laity of the Protestant Episcopal
+Church in the United States of America, in Convention, this Sixteenth
+Day of October, in the Year of Our Lord One Thousand Seven Hundred
+and Eighty-Nine.
+ 
+This Convention having, in their present session, set forth =A Book of
+Common Prayer, and Administration of the Sacraments, and other Rites
+and Ceremonies of the Church,= do hereby establish the said Book:  And
+they declare it to be the Liturgy of this Church: And require that it be
+received as such by all the members of the same:  And this Book shall be
+in use from and after the First Day of October, in the Year of Our Lord
+one thousand seven hundred and ninety.
+ 
+<page 9>
+ 
+ 
+ 
+<Preface>
+ 
+It is a most invaluable part of that blessed "liberty wherewith Christ
+hath made us free," that in his worship different forms and usages may
+without offense be allowed, provided the substance of the Faith be kept
+entire; and that, in every Church, what cannot be clearly determined to
+belong to Doctrine must be referred to Discipline; and therefore, by
+common consent and authority, may be altered, abridged, enlarged,
+amended, or otherwise disposed of, as may seem most convenient for the
+edification of the people, "according to the various exigency of times
+and occasions."
+ 
+The Church of England, to which the Protestant Episcopal Church in
+these States is indebted, under God, for her first foundation and a long
+continuance of nursing care and protection, hath, in the Preface of her
+Book of Common Prayer, laid it down as a rule, that "The particular
+Forms of Divine Worship, and the Rites and Ceremonies appointed to be
+used therein, being things in their own nature indifferent, and
+alterable, and so acknowledged; it is but reasonable that upon weighty
+and important considerations, according to the various exigency of times
+and occasions, such changes and alterations should be made therein, as
+to those that are in place of Authority should, from time to time, seem
+either necessary or expedient."
+ 
+The same Church hath not only in her Preface, but likewise in her
+Articles and Homilies, declared tho necessity and expediency of
+occasional alterations and amendments in her Forms of Public Worship;
+and we find accordingly, that, seeking to keep the happy mean between
+too much stiffness in refusing, and too much easiness in admitting
+variations in
+ 
+<page 10>
+ 
+things once advisedly established, she hath, in the reign of several
+Princes, since the first compiling of her Liturgy in the time of Edward
+the Sixth, upon just and weighty considerations her thereunto moving,
+yielded to make such alterations in some particulars, as in their
+respective times were thought convenient; yet so as that the main body
+and essential parts of the same (as well in the chiefest materials, as
+in the frame and order thereof) have still been continued firm and
+unshaken
+ 
+Her general aim in these different reviews and alterations hath been, as
+she further declares in her said Preface, to do that which, according to
+her best understanding, might most tend to the preservation of peace and
+unity in the Church; the procuring of reverence, and the exciting of
+piety and devotion in the worship of God; and, finally, the cutting off
+occasion, from them that seek occasion, of cavil or quarrel against her
+Liturgy.  And although, according to her judgment, there be not any
+thing in it contrary to the Word of God, or to sound doctrine, or which
+a godly man may not with a good conscience use and submit unto, or which
+is not fairly defensible, if allowed such just and favourable
+construction as in common equity ought to be allowed to all human
+writings; yet upon the principles already laid down, it cannot but be
+supposed that further alterations would be found expedient.
+Accordingly, a Commission for a review was issued in the year 1689:  but
+this great and good work miscarried at that time; and the Civil
+Authority has not since thought proper to revive it by any new
+Commission.
+ 
+But when in the course of Divine Providence, these American States
+became independent with respect to civil government, their
+ecclesiastical independence was necessarily included; and the different
+religious denominations of Christians in these States were left at full
+and equal liberty to model and organize their respective Churches, and
+forms of worship, and discipline, in such manner as they might judge
+most convenient for their future prosperity; consistently with the
+constitution and laws of their country.
+ 
+The attention of this Church was in the first place drawn to those
+alterations in the Liturgy which became necessary in the prayers for our
+Civil Rulers, in consequence of the Revolution.  And the principal care
+herein was to make them conformable to what ought to be the proper
+end of all such prayers, namely, that "Rulers may have grace, wisdom,
+<page 11>
+and understanding to execute justice, and to maintain truth;" and that
+the people "may lead quiet and peaceable lives, in all godliness and
+honesty."
+ 
+But while these alterations were in review before the Convention, they
+could not but, with gratitude to God, embrace the happy occasion which
+was offered to them (uninfluenced and unrestrained by any worldly
+authority whatsoever) to take a further review of the Public Service,
+and to establish such other alterations and amendments therein as might
+be deemed expedient.
+ 
+It seems unnecessary to enumerate all the different alterations and
+amendments.  They will appear, and it is to be hoped, the reasons of
+them also, upon a comparison of this with the Book of Common Prayer of
+the Church of England.  In which it will also appear that this Church is
+far from intending to depart from the Church of England in any essential
+point of doctrine, discipline, or worship; or further than local
+circumstances require.
+ 
+And now, this important work being brought to a conclusion, it is hoped
+the whole will be received and examined by every true member of our
+Church, and every sincere Christian, with a meek, candid, and charitable
+frame of mind; without prejudice or prepossessions; seriously
+considering what Christianity is, and what the truths of the Gospel are;
+and earnestly beseeching Almighty God to accompany with his blessing
+every endeavour for promulgating them to mankind in the clearest,
+plainest, most affecting and majestic manner, for the sake of Jesus
+Christ, our blessed Lord and Saviour.
+ 
+=Philadelphia, October, 1789=
+ 
+<page 12>
+ 
+<page 13>
+ 
+ 
+ 
+<Concerning the Service
+of the Church>
+ 
+The Holy Eucharist, the principal act of Christian worship on the Lord's
+Day and other major Feasts, and Daily Morning and Evening Prayer, as
+set forth in this Book, are the regular services appointed for public
+worship in the Church.
+ 
+In addition to these services and the other rites contained in this
+Book, other forms set forth by authority within this Church may be used.
+Also, subject to the direction of the bishop, special devotions taken
+from this Book, or from Holy Scripture, may be used when the needs of
+the  congregation so require.
+ 
+For special days of thanksgiving, appointed by civil or Church
+authority, and for other special occasions for which no service or
+prayer has been provided in this Book, the bishop may set forth such
+forms as are fitting to the occasion.
+ 
+In all services, the entire Christian assembly participates in such a
+way that the members of each order within the Church, lay persons,
+bishops, priests, and deacons, fulfull the functions proper to their
+respective orders, as set forth in the rubrical directions for each
+service.
+ 
+The leader of worship in a Christian assembly is normally a bishop or
+priest.  Deacons by virtue of their order do not exercise a presiding
+function; but, like lay persons, may officiate in the Liturgy of the
+Word, whether in the form provided in the Daily Office, or (when a
+bishop or priest is not present) in the form appointed at the Eucharist.
+Under exceptional circumstances, when the services of a priest cannot be
+obtained, the bishop may, at discretion, authorize a deacon to preside
+<page 14>
+at other rites also, subject to the limitations described in the
+directions for each service.
+ 
+In any of the Proper Liturgies for Special Days, and in other services
+contained within this Book celebrated in the context of a Rite One
+service, the contemporary idiom may be conformed to traditional
+language.
+ 
+Hymns referred to in the rubrics of this Book are understood as those
+authorized by this Church.  The words of anthems are to be from
+Holy Scripture, or from this Book, or from texts congruent with them.
+ 
+On occasion, and as appropriate, instrumental music may be substituted
+for a hymn or anthem.
+ 
+Where rubrics indicate that a part of a service is to be "said," it must
+be understood to include "or sung," and =vice versa.=
+ 
+When it is desired to use music composed for them, previously authorized
+liturgical texts may be used in place of the corresponding texts in this
+Book.
+ 
+Scriptural citations in this Book, except for the Psalms, follow the
+numeration of the Revised Standard Version of the Bible.
+ 
+<page 15>
+ 
+ 
+ 
+<The Calendar
+of the Church Year>
+ 
+The Church Year consists of two cycles of feasts and holy days:  one is
+dependent upon the movable date of the Sunday of the Resurrection or
+Easter Day; the other, upon the fixed date of December 25, the Feast of
+our Lord's Nativity or Christmas Day.
+ 
+Easter Day is always the first Sunday after the full moon that falls on
+or after March 21.  It cannot occur before March 22 or after April 25.
+ 
+The sequence of all Sundays of the Church Year depends upon the date of
+Easter Day.  But the Sundays of Advent are always the four Sundays
+before Christmas Day, whether it occurs on a Sunday or a weekday.  The
+date of Easter also determines the beginning of Lent on Ash Wednesday,
+and the feast of the Ascension on a Thursday forty days after Easter
+Day.
+ 
+ 
+<1.  Principal Feasts>
+ 
+The Principle Feasts observed in this Church are the following:
+ 
+Easter Day
+ 
+Ascension Day
+ 
+The Day of Pentecost
+ 
+Trinity Sunday
+ 
+ 
+All Saint's Day : November 1
+ 
+Christmas Day : December 25
+ 
+The Epiphany : January 6
+ 
+These feasts take precedence of any other day or observance.  All
+Saints' Day may always be observed on the Sunday following November 1,
+in addition to its observance on the fixed date.
+ 
+<page 16>
+ 
+ 
+<2. Sundays>
+ 
+All Sundays of the year are feasts of our Lord Jesus Christ.  In
+addition to the dated days listed above, only the following feasts,
+appointed on fixed days, take precedence of a Sunday:
+ 
+The Holy Name
+ 
+The Presentation
+ 
+The Transfiguration
+ 
+The feast of the Dedication of a Church, and the feast of its patron or
+title, may be observed on, or be transferred to, a Sunday, except in the
+seasons of Advent, Lent, and Easter.
+ 
+All other Feasts of our Lord, and all other Major Feasts appointed on
+fixed days in the Calendar, when they occur on a Sunday, are normally
+transferred to the first convenient open day within the week.  When
+desired, however, the Collect, Preface, and one or more of the Lessons
+appointed for the Feast may be substituted for those of the Sunday, but
+not from the Last Sunday after Pentecost through the First Sunday after
+the Epiphany, or from the Last Sunday after the Epiphany through
+Trinity Sunday.
+ 
+With the express permission of the bishop, and for urgent and sufficient
+reason, some other special occasion may be observed on a Sunday.
+ 
+ 
+<3. Holy Days>
+ 
+The following Holy Days are regularly observed throughout the year.
+Unless otherwise ordered in the preceding rules concerning Sundays, they
+have precedence over all other days of commemoration or of special
+observance:
+ 
+=Other Feasts of Our Lord=
+ 
+The Holy Name
+ 
+The Presentation
+ 
+The Annunciation
+ 
+The Visitation
+ 
+ 
+Saint John the Baptist
+ 
+The Transfiguration
+ 
+Holy Cross Day
+ 
+<page 17>
+ 
+ 
+=Other Major Feasts=
+ 
+All feasts of Apostles
+ 
+All feasts of Evangelists
+ 
+Saint Stephen
+ 
+The Holy Innocents
+ 
+Saint Joseph
+ 
+Saint Mary Magdalene
+ 
+ 
+Saint Mary the Virgin
+ 
+Saint Michael and All Angels
+ 
+Saint James of Jerusalem
+ 
+Independence Day
+ 
+Thanksgiving Day
+ 
+ 
+=Fasts=
+ 
+Ash Wednesday
+ 
+Good Friday
+ 
+ 
+Feasts appointed of fixed days in the Calendar are not observed on the
+days of Holy Week or of Easter Week.  Major Feasts falling in these
+weeks are transferred to the week following the Second Sunday of Easter,
+in the order of their occurrence.
+ 
+Feasts appointed on fixed days in the Calendar do not take precedence of
+Ash Wednesday.
+ 
+Feasts of our Lord and other Major Feasts appointed on fixed days,
+which fall upon or are transferred to a weekday, may be observed on any
+open day within the week.  This provision does not apply to Christmas
+Day, the Epiphany, and All Saints' Day.
+ 
+ 
+<4. Days of Special Devotion>
+ 
+The following days are observed by special acts of discipline and
+self-denial:
+ 
+Ash Wednesday and the other weekdays of Lent and of Holy Week,
+except the feast of the Annunciation.
+ 
+Good Friday and all other Fridays of the year, in commemoration of the
+Lord's crucifixion, except for Fridays in the Christmas and Easter
+seasons, and any Feasts of our Lord which occur on a Friday.
+ 
+ 
+<5. Days of Optional Observance>
+ 
+Subject to the rules of precedence governing Principal Feasts, Sundays,
+<page 18>
+and Holy Days, the following may be observed with the Collects, Psalms,
+and Lessons duly authorized by this Church:
+ 
+Commemorations listed in the Calendar
+ 
+Other Commemorations, using the Common of Saints
+ 
+The Ember Days, traditionally observed on the Wednesdays, Fridays, and
+Saturdays after the First Sunday in Lent, the Day of Pentecost, Holy
+Cross Day, and December 13.
+ 
+The Rogation Days, traditionally observed on Monday, Tuesday, and
+Wednesday before Ascension Day
+ 
+Various Occasions
+ 
+Provided, that there is no celebration of the Eucharist for any such
+occasion on Ash Wednesday, Maundy Thursday, Good Friday, and Holy
+Saturday; and provided further, that none of the Propers appointed for
+Various Occasions is used as a substitute for, or as an addition to, the
+Proper appointed for the Principal Feasts.
+ 
+<page 19>
+ 
+ 
+*January*
+ 
+   1  A : *The Holy Name of Our Lord Jesus Christ*
+ 
+   2  b
+ 
+   3  c
+ 
+   4  d
+ 
+   5  e
+ 
+   6  f : *The Epiphany of Our Lord Jesus Christ*
+ 
+   7  g
+ 
+   8  A
+ 
+   9  b
+ 
+   10 c : William Laud, Archbishop of Canterbury, 1645
+ 
+   11 d
+ 
+   12 e
+ 
+   13 f : Hilary, Bishop of Poitiers, 367
+ 
+   14 g
+ 
+   15 A
+ 
+   16 b
+ 
+   17 c : Antony, Abbot in Egypt, 356
+ 
+   18 d : *The Confession of Saint Peter the Apostle*
+ 
+   19 e : Wulfstan, Bishop of Worcester, 1095
+ 
+   20 f : Fabian, Bishop and Martyr of Rome, 250
+ 
+   21 g : Agnes, Martyr at Rome, 304
+ 
+   22 A : Vincent, Deacon of Saragossa, and Martyr, 304
+ 
+   23 b : Phillips Brooks, Bishop of Massachusetts, 1893
+ 
+   24 c
+ 
+   25 d : *The Conversion of Saint Paul the Apostle*
+ 
+   26 e : Timothy and Titus, Companions of Saint Paul
+ 
+   27 f : John Chrysostom, Bishop of Constantinople, 407
+ 
+   28 g : Thomas Aquinas, Priest and Friar, 1274
+ 
+   29 A
+ 
+   30 b
+ 
+   31 c
+ 
+ 
+<page 20>
+ 
+ 
+*February*
+ 
+   1  d
+ 
+   2  e : *The Presentation of Our Lord Jesus Christ in the Temple*
+ 
+   3  f : Anskar, Archbishop of Hamburg, Missionary to Denmark and
+Sweden, 865
+ 
+   4  g : Cornelius the Centurion
+ 
+   5  A : The Martyrs of Japan, 1597
+ 
+   6  b
+ 
+   7  c
+ 
+   8  d
+ 
+   9  e
+ 
+   10 f
+ 
+   11 g
+ 
+   12 A
+ 
+   13 b : Absalom Jones, Priest, 1818
+ 
+   14 c : Cyril, Monk, and Methodius, Bishop, Missionaries to the Slavs,
+869, 885
+ 
+   15 d : Thomas Bray, Priest and Missionary, 1730
+ 
+   16 e
+ 
+   17 f
+ 
+   18 g
+ 
+   19 A
+ 
+   20 b
+ 
+   21 c
+ 
+   22 d
+ 
+   23 e : Polycarp, Bishop and Martyr of Smyrna, 156
+ 
+   24 f : *Saint Matthias the Apostle*
+ 
+   25 g
+ 
+   26 A
+ 
+   27 b : George Herbert, Priest, 1633
+ 
+   28 c
+ 
+   29
+ 
+<page 21>
+ 
+ 
+*March*
+ 
+   1  d : David, Bishop of Menevia, Wales, c. 544
+ 
+   2  e : Chad, Bishop of Lichfield, 672
+ 
+   3  f : John and Charles Wesley, Priests, 1791, 1788
+ 
+   4  g
+ 
+   5  A
+ 
+   6  b
+ 
+   7  c : Perpetua and Her Companions, Martyrs at Carthage, 202
+ 
+   8  d
+ 
+   9  e : Gregory, Bishop of Nyssa, c. 394
+ 
+   10 f
+ 
+   11 g
+ 
+   12 A : Gregory the Great, Bishop of Rome, 604
+ 
+   13 b
+ 
+   14 c
+ 
+   15 d
+ 
+   16 e
+ 
+   17 f : Patrick, Bishop and Missionary of Ireland, 461
+ 
+   18 g : Cyril, Bishop of Jerusalem, 386
+ 
+   19 A : *Saint Joseph*
+ 
+   20 b : Cuthbert, Bishop of Lindisfarne, 687
+ 
+   21 c : Thomas Ken, Bishop of Bath and Wells, 1711
+ 
+14 22 d : James De Koven, Priest, 1879
+ 
+ 3 23 e : Gregory the Illuminator, Bishop and Missionary of Armenia, 332
+ 
+   24 f
+ 
+11 25 g : *The Annunciation of Our Lord Jesus Christ to the Blessed
+Virgin Mary*
+ 
+   26 A
+ 
+19 27 b : Charles Henry Brent, Bishop of the Philippines, and of Western
+New York, 1929
+ 
+ 8 28 c
+ 
+   29 d : John Keble, Priest, 1866
+ 
+16 30 e
+ 
+ 5 31 f : John Donne, Priest, 1631
+ 
+<page 22>
+ 
+ 
+*April*
+ 
+   1  g : Frederick Denison Maurice, Priest, 1872
+ 
+13 2  A : James Lloyd Breck, Priest, 1876
+ 
+ 2 3  b : Richard, Bishop of Chichester, 1253
+ 
+   4  c
+ 
+10 5  d
+ 
+   6  e
+ 
+18 7  f
+ 
+ 7 8  g : William Augustus Muhlenberg, Priest, 1877
+ 
+   9  A : William Law, Priest, 1761
+ 
+15 10 b
+ 
+ 4 11 c : George Augustus Selwyn, Bishop of New Zealand, and of
+Lichfield, 1878
+ 
+   12 d
+ 
+12 13 e
+ 
+ 1 14 f
+ 
+   15 g
+ 
+ 9 16 A
+ 
+17 17 b
+ 
+ 6 18 c
+ 
+   19 d : Alphege, Archbishop of Canterbury, and Martyr, 1012
+ 
+   20 e
+ 
+   21 f : Anselm, Archbishop of Canterbury, 1109
+ 
+   22 g
+ 
+   23 A
+ 
+   24 b
+ 
+   25 c : *Saint Mark the Evangelist*
+ 
+   26 d
+ 
+   27 e
+ 
+   28 f
+ 
+   29 g : Catherine of Siena, 1380
+ 
+   30 A
+ 
+ 
+<page 23>
+ 
+ 
+*May*
+ 
+   1  b : *Saint Philip and Saint James, Apostles*
+ 
+   2  c : Athanasius, Bishop of Alexandria, 373
+ 
+   3  d
+ 
+   4  e : Monnica, Mother of Augustine of Hippo, 387
+ 
+   5  f
+ 
+   6  g
+ 
+   7  A
+ 
+   8  b : Dame Julian of Norwich, c. 1417
+ 
+   9  c : Gregory of Nazianzus, Bishop of Constantinople, 389
+ 
+   10 d
+ 
+   11 e
+ 
+   12 f
+ 
+   13 g
+ 
+   14 A
+ 
+   15 b
+ 
+   16 c
+ 
+   17 d
+ 
+   18 e
+ 
+   19 f : Dunstan, Archbishop of Canterbury, 988
+ 
+   20 g : Alcuin, Deacon, and Abbot of Tours, 804
+ 
+   21 A
+ 
+   22 b
+ 
+   23 c
+ 
+   24 d : Jackson Kemper, First Missionary Bishop in the United States,
+1870
+ 
+   25 e : Bede, the Venerable, Priest, and Monk of Jarrow, 735
+ 
+   26 f : Augustine, First Archbishop of Canterbury, 605
+ 
+   27 g
+ 
+   28 A
+ 
+   29 b
+ 
+   30 c
+ 
+   31 d : *The Visitation of the Virgin Mary*
+ 
+*The First Book of Common Prayer, 1549, is appropriately observed on a
+weekday following the Day of Pentecost.*
+ 
+<page 24>
+ 
+ 
+*June*
+ 
+   1  e : Justin, Martyr at Rome, c. 167
+ 
+   2  f : The Martyrs of Lyons, 177
+ 
+   3  g : The Martyrs of Uganda, 1886
+ 
+   4  A
+ 
+   5  b : Boniface, Archbishop of Mainz, Missionary to Germany, and
+Martyr, 754
+ 
+   6  c
+ 
+   7  d
+ 
+   8  e
+ 
+   9  f : Columba, Abbot of Iona, 597
+ 
+   10 g : Ephrem of Edessa, Syria, Deacon, 373
+ 
+   11 A : *Saint Barnabas the Apostle
+ 
+   12 b
+ 
+   13 c
+ 
+   14 d : Basil the Great, Bishop of Caesarea, 379
+ 
+   15 e
+ 
+   16 f : Joseph Butler, Bishop of Durham, 1752
+ 
+   17 g
+ 
+   18 A : Bernard Mizeki, Catechist and Martyr in Rhodesia, 1896
+ 
+   19 b
+ 
+   20 c
+ 
+   21 d
+ 
+   22 e : Alban, First Martyr of Britain, c. 304
+ 
+   23 f
+ 
+   24 g : *The Nativity of Saint John the Baptist*
+ 
+   25 A
+ 
+   26 b
+ 
+   27 c
+ 
+   28 d : Irenaeus, Bishop of Lyons, c. 202
+ 
+   29 e : *Saint Peter and Saint Paul, Apostles*
+ 
+   30 f
+ 
+<page 25>
+ 
+ 
+*July*
+ 
+   1  g
+ 
+   2  A
+ 
+   3  b
+ 
+   4  c : *Independence Day*
+ 
+   5  d
+ 
+   6  e
+ 
+   7  f
+ 
+   8  g
+ 
+   9  A
+ 
+   10 b
+ 
+   11 c : Benedict of Nursia, Abbot of Monte Casino, c. 540
+ 
+   12 d
+ 
+   13 e
+ 
+   14 f
+ 
+   15 g
+ 
+   16 A
+ 
+   17 b : William White, Bishop of Pennsylvania, 1836
+ 
+   18 c
+ 
+   19 d
+ 
+   20 e
+ 
+   21 f
+ 
+   22 g : *Saint Mary Magdalene*
+ 
+   23 A
+ 
+   24 b : Thomas a Kempis, Priest, 1471
+ 
+   25 c : *Saint James the Apostle*
+ 
+   26 d : The Parents of the Blessed Virgin Mary
+ 
+   27 e : William Reed Huntington, Priest, 1909
+ 
+   28 f
+ 
+   29 g : Mary and Martha of Bethany
+ 
+   30 A : William Wilberforce, 1833
+ 
+   31 b : Joseph of Arimathaea
+ 
+ 
+<page 26>
+ 
+ 
+*August*
+ 
+   1  c
+ 
+   2  d
+ 
+   3  e
+ 
+   4  f
+ 
+   5  g
+ 
+   6  A : *The Transfiguration of Our Lord Jesus Christ*
+ 
+   7  b : John Mason Neale, Priest, 1866
+ 
+   8  c : Dominic, Priest and Friar, 1221
+ 
+   9  d
+ 
+   10 e : Lawrence, Deacon, and Martyr at Rome, 258
+ 
+   11 f : Clare, Abbess at Assisi, 1253
+ 
+   12 g
+ 
+   13 A : Jeremy Taylor, Bishop of Down, Connor, and Dromore, 1667
+ 
+   14 b
+ 
+   15 c : *Saint Mary the Virgin, Mother of Our Lord Jesus Christ*
+ 
+   16 d
+ 
+   17 e
+ 
+   18 f : William Porcher DuBose, Priest, 1918
+ 
+   19 g
+ 
+   20 A : Bernard, Abbot of Clairvaux, 1153
+ 
+   21 b
+ 
+   22 c
+ 
+   23 d
+ 
+   24 e : *Saint Bartholomew the Apostle*
+ 
+   25 f : Louis, King of France, 1270
+ 
+   26 g
+ 
+   27 A
+ 
+   28 b : Augustine, Bishop of Hippo, 430
+ 
+   29 c
+ 
+   30 d
+ 
+   31 e : Aidan, Bishop of Lindisfarne, 651
+ 
+<page 27>
+ 
+ 
+*September*
+ 
+   1  f
+ 
+   2  g : The Martyrs of New Guinea, 1942
+ 
+   3  A
+ 
+   4  b
+ 
+   5  c
+ 
+   6  d
+ 
+   7  e
+ 
+   8  f
+ 
+   9  g
+ 
+   10 A
+ 
+   11 b
+ 
+   12 c : John Henry Hobart, Bishop of New York, 1830
+ 
+   13 d : Cyprian, Bishop and Martyr of Carthage, 258
+ 
+   14 e : *Holy Cross Day*
+ 
+   15 f
+ 
+   16 g : Ninian, Bishop in Galloway, c. 430
+ 
+   17 A
+ 
+   18 b : Edward Bouverie Pusey, Priest, 1882
+ 
+   19 c : Theodore of Tarsus, Archbishop of Canterbury, 690
+ 
+   20 d : John Coleridge Patteson, Bishop of Melanesia, and his
+Companions, Martyrs, 1971
+ 
+   21 e : *Saint Matthew, Apostle and Evangelist*
+ 
+   22 f
+ 
+   23 g
+ 
+   24 A
+ 
+   25 b : Sergius, Abbot of Holy Trinity, Moscow, 1392
+ 
+   26 c : Lancelot Andrewes, Bishop of Winchester, 1626
+ 
+   27 d
+ 
+   28 e
+ 
+   29 f : *Saint Michael and All Angels*
+ 
+   30 g : Jerome, Priest, and Monk of Bethlehem, 420
+ 
+ 
+<page 28>
+ 
+ 
+*October*
+ 
+   1  A : Remigius, Bishop of Rheims, c. 530
+ 
+   2  b
+ 
+   3  c
+ 
+   4  d : Francis of Assisi, Friar, 1226
+ 
+   5  e
+ 
+   6  f : William Tyndale, Priest, 1536
+ 
+   7  g
+ 
+   8  A
+ 
+   9  b : Robert Grosseteste, Bishop of Lincoln
+ 
+   10 c
+ 
+   11 d
+ 
+   12 e
+ 
+   13 f
+ 
+   14 g
+ 
+   15 A : Samuel Isaac Joseph Schereschewsky, Bishop of Shanghai, 1906
+ 
+   16 b : Hugh Latimer and Nicholas Ridley, Bishops, 1555, and Thomas
+Cranmer, Archbishop of Canterbury, 1556
+ 
+   17 c : Ignatius, Bishop of Antioch, and Martyr, c. 115
+ 
+   18 d : *Saint Luke the Evangelist*
+ 
+   19 e : Henry Martyn, Priest and Missionary to India and Persia, 1812
+ 
+   20 f
+ 
+   21 g
+ 
+   22 A
+ 
+   23 b : *Saint James of Jerusalem, Brother of Our Lord Jesus Christ,
+and Martyr, c. 62*
+ 
+   24 c
+ 
+   25 d
+ 
+   26 e : Alfred the Great, King of the West Saxons, 899
+ 
+   27 f
+ 
+   28 g : *Saint Simon and Saint Jude, Apostles*
+ 
+   29 A : James Hannington, Bishop of Eastern Equatorial Africa, and his
+Companions, Martyrs, 1885
+ 
+   30 b
+ 
+   31 c
+ 
+<page 29>
+ 
+ 
+*November*
+ 
+   1  d : *All Saints*
+ 
+   2  e : Commemoration of All Faithful Departed
+ 
+   3  f : Richard Hooker, Priest, 1600
+ 
+   4  g
+ 
+   5  A
+ 
+   6  b
+ 
+   7  c : Willibrord, Archbishop of Utrecht, Missionary to Frisia, 739
+ 
+   8  d
+ 
+   9  e
+ 
+   10 f : Leo the Great, Bishop of Rome, 461
+ 
+   11 g : Martin, Bishop of Tours, 397
+ 
+   12 A : Charles Simeon, Priest, 1836
+ 
+   13 b
+ 
+   14 c : Consecration of Samuel Seabury, First American Bishop, 1784
+ 
+   15 d
+ 
+   16 e : Margaret, Queen of Scotland, 1093
+ 
+   17 f : Hugh, Bishop of Lincoln, 1200
+ 
+   18 g : Hilda, Abbess of Whitby, 680
+ 
+   19 A : Elizabeth, Princess of Hungary, 1231
+ 
+   20 b
+ 
+   21 c
+ 
+   22 d
+ 
+   23 e : Clement, Bishop of Rome, c. 100
+ 
+   24 f
+ 
+   25 g
+ 
+   26 A
+ 
+   27 b
+ 
+   28 c
+   29 d
+ 
+ 
+   30 e : *Saint Andrew the Apostle*
+ 
+ 
+<page 30>
+ 
+ 
+*December*
+ 
+   1  f : Nicholas Ferrar, Deacon, 1637
+ 
+   2  g : Channing Moore Williams, Missionary Bishop in China and Japan,
+1910
+ 
+   3  A
+ 
+   4  b : John of Damascus, Priest, c. 760
+ 
+   5  c : Clement of Alexandria, Priest, c. 210
+ 
+   6  d : Nicholas, Bishop of Myra, c. 342
+ 
+   7  e : Ambrose, Bishop of Milan, 397
+ 
+   8  f
+ 
+   9  g
+ 
+   10 A
+ 
+   11 b
+ 
+   12 c
+ 
+   13 d
+ 
+   14 e
+ 
+   15 f
+ 
+   16 g
+ 
+   17 A
+ 
+   18 b
+ 
+   19 c
+ 
+   20 d
+ 
+   21 e : *Saint Thomas the Apostle*
+ 
+   22 f
+ 
+   23 g
+ 
+   24 A
+ 
+   25 b : *The Nativity of Our Lord Jesus Christ*
+ 
+   26 c : *Saint Stephen, Deacon and Martyr*
+ 
+   27 d : *Saint John, Apostle and Evangelist*
+ 
+   28 e : *The Holy Innocents*
+ 
+   29 f
+ 
+   30 g
+ 
+   31 A
+ 
+ 
+<page 31>
+ 
+ 
+<The Titles of the Seasons
+Sundays and Major Holy Days
+observed in this Church throughout the Year>
+ 
+ 
+=Advent Season=
+ 
+The First Sunday of Advent
+ 
+The Second Sunday of Advent
+ 
+The Third Sunday of Advent
+ 
+The Fourth Sunday of Advent
+ 
+ 
+=Christmas Season=
+ 
+The Nativity of Our Lord Jesus Christ: Christmas Day, December 25
+ 
+The First Sunday after Christmas Day
+ 
+The Holy Name of Our Lord Jesus Christ, January 1
+ 
+The Second Sunday after Christmas Day
+ 
+ 
+=Epiphany Season=
+ 
+The Epiphany, or the Manifestation of Christ to the Gentiles,  January 6
+ 
+The First Sunday after the Epiphany: The Baptism of Our Lord
+ Jesus Christ
+ 
+The Second Sunday through the Eighth Sunday after the Epiphany
+ 
+The Last Sunday after the Epiphany
+ 
+ 
+=Lenten Season=
+ 
+The First Day of Lent, or Ash Wednesday
+ 
+The First Sunday in Lent
+ 
+The Second Sunday in Lent
+ 
+The Third Sunday in Lent
+ 
+The Fourth Sunday in Lent
+ 
+The Fifth Sunday in Lent
+ 
+ 
+=Holy Week=
+ 
+The Sunday of the Passion: Palm Sunday
+ 
+Monday in Holy Week
+ 
+<page 32>
+ 
+Tuesday in Holy Week
+ 
+Wednesday in Holy Week
+ 
+Maundy Thursday
+ 
+Good Friday
+ 
+Holy Saturday
+ 
+ 
+=Easter Season=
+ 
+Easter Eve
+ 
+The Sunday of the Resurrection, or Easter Day
+ 
+Monday in Easter Week
+ 
+Tuesday in Easter Week
+ 
+Wednesday in Easter Week
+ 
+Thursday in Easter Week
+ 
+Friday in Easter Week
+ 
+Saturday in Easter Week
+ 
+The Second Sunday of Easter
+ 
+The Third Sunday of Easter
+ 
+The Fourth Sunday of Easter
+ 
+The Fifth Sunday of Easter
+ 
+The Sixth Sunday of Easter
+ 
+Ascension Day
+ 
+The Seventh Sunday of Easter: The Sunday after Ascension Day
+ 
+The Day of Pentecost: Whitsunday
+ 
+ 
+=The Season After Pentecost=
+ 
+The First Sunday after Pentecost: Trinity Sunday
+ 
+The Second Sunday through the Twenty-Seventh Sunday after Pentecost
+ 
+The Last Sunday after Pentecost
+ 
+ 
+=Holy Days=
+ 
+Saint Andrew the Apostle, November 30
+ 
+Saint Thomas the Apostle, December 21
+ 
+Saint Stephen, Deacon and Martyr, December 26
+ 
+Saint John, Apostle and Evangelist, December 27
+ 
+The Holy Innocents, December 28
+ 
+The Confession of Saint Peter the Apostle, January 18
+ 
+<page 33>
+ 
+The Conversion of Saint Paul the Apostle, January 25
+ 
+The Presentation of Our Lord Jesus Christ in the Temple, also called
+ the Purification of Saint Mary the Virgin, February 2
+ 
+Saint Matthias the Apostle, February 24
+ 
+Saint Joseph, March 19
+ 
+The Annunciation of Our Lord Jesus Christ to the Blessed Virgin Mary,
+ March 25
+ 
+Saint Mark the Evangelist, April 25
+ 
+Saint Philip and Saint James, Apostles, May 1
+ 
+The Visitation of the Blessed Virgin Mary, May 31
+ 
+Saint Barnabas the Apostle, June 11
+ 
+The Nativity of Saint John the Baptist, June 24
+ 
+Saint Peter and Saint Paul, Apostles, June 29
+ 
+Saint Mary Magdalene, July 22
+ 
+Saint James the Apostle, July 25
+ 
+The Transfiguration of Our Lord Jesus Christ, August 6
+ 
+Saint Mary the Virgin, Mother of Our Lord Jesus Christ, August 15
+ 
+Saint Bartholomew the Apostle, August 24
+ 
+Holy Cross Day, September 14
+ 
+Saint Matthew, Apostle and Evangelist, September 21
+ 
+Saint Michael and All Angels, September 29
+ 
+Saint Luke the Evangelist, October 18
+ 
+Saint James of Jerusalem, Brother of Our Lord Jesus Christ, and
+ Martyr, October 23
+ 
+Saint Simon and Saint Jude, Apostles, October 28
+ 
+All Saints' Day, November 1
+ 
+ 
+=National Days=
+ 
+Independence Day, July 4
+ 
+Thanksgiving Day
+ 
+<page 34>
+ 
+<page 35>
+ 
+The Daily Office
+ 
+<page 36>
+ 
+ 
+<Concerning the Service>
+ 
+*In the Daily Office, the term "Officiant" is used to denote the person,
+clerical or lay, who leads the Office.*
+ 
+*It is appropriate taht others persons be assigned to read the Lessons,
+and to lead other parts of the service not assigned to the officiant.
+The bishop, when present, apporpriately concludes the Office with a
+blessing.*
+ 
+*At celebrations of the Holy Eucharist, the Order for Morning or Evening
+Prayer may be used in place of all that precedes the Offertory.*
+ 
+*Additional Directions are on page 141.*
+ 
+<page 37>
+ 
+ 
+ 
+<Daily Morning Prayer:
+Rite One>
+ 
+ 
+*The Officiant begins the service with one or more of these sentences of
+Scripture, or with the versicle "O Lord, open thou our lips" on page
+42.*
+ 
+ 
+=Advent=
+ 
+Watch ye , for ye know not when the master of the house
+cometh, at even, or at midnight, or at the cock-crowing, or in
+the morning; lest coming suddenly he find you sleeping.
+=Mark 13:35, 36=
+ 
+Prepare ye the way of the Lord, make straight in the desert a
+highway for our God.  =Isaiah 40:3=
+ 
+The glory of the Lord shall be revealed, and all flesh shall see
+it together.  =Isaiah 40:5=
+ 
+ 
+=Christmas=
+ 
+Behold, I bring you good tidings of a great joy, which shall be
+to all people.  For unto you is born this day in the city of
+David a Savior, which is Christ the Lord.  =Luke 2:10, 11=
+ 
+Behold, the tabernacle of God is with men, and he will dwell
+with them, and they shall be his people, and God himself
+shall be with them, and be their God.  =Revelation 21:3=
+ 
+<page 38>
+ 
+ 
+=Epiphany=
+ 
+The Gentiles shall come to thy light, and kings to the bright-
+ness of thy rising.  =Isaiah 60:3=
+ 
+I will give thee for a light to the Gentiles, that thou mayest be
+my salvation unto the end of the earth.  =Isaiah 49:6b=
+ 
+From the rising of the sun even unto the going down of the
+same my Name shall be great among the Gentiles, and in
+every place incense shall be offered unto my Name, and a
+pure offering: for my Name shall be great among the heathen,
+saith the Lord of hosts.  =Malachi 1:11=
+ 
+ 
+=Lent=
+ 
+If we say we have no sin, we deceive ourselves, and the
+truth is not in us, but if we confess our sins, God is faithful
+and just to forgive us our sins, and to cleanse us from all
+unrighteousness.  =1 John 1:8, 9=
+ 
+Rend your heart, and not your garments, and turn unto the
+Lord your God; for he is gracious and merciful, slow to
+anger and of great kindness, and repenteth him of evil.
+=Joel 2:13=
+ 
+I will arise and go to my father, and will say unto him,
+"Father, I have sinned against heaven, and before thee; and
+am no more worthy to be called thy son."  =Luke 15:18, 19=
+ 
+To the Lord our God belong mercies and forgivenesses,
+though we have rebelled against him; neither have we obeyed
+the voice of the Lord our God, to walk in his laws which he
+set before us.  =Daniel 9:9, 10=
+ 
+Jesus said, "Whosoever will come after me, let him deny
+himself, and take up his cross, and follow me."  =Mark 8:34=
+ 
+<page 38>
+ 
+ 
+=Holy Week=
+ 
+All we like sheep have gone astray; we have turned every one
+to his own way; and the Lord hath laid on him the iniquity of
+us all.  =Isaiah 53:6=
+ 
+Is it nothing to you, all ye that pass by?  Behold and see if
+there be any sorrow like unto my sorrow which is done unto
+me, wherewith the Lord hath afflicted me.  =Lamentations 1:12=
+ 
+ 
+=Easter Season, including Ascension Day and the Day of
+Pentecost=
+ 
+Alleluia! Christ is risen.
+=The Lord is risen indeed. Alleluia!=
+ 
+This is the day which the Lord hath made; we will rejoice and
+be glad in it.  =Psalm 118:24=
+ 
+Thanks be to God, which giveth us the victory through our
+Lord Jesus Christ.  =1 Corinthians 15:57=
+ 
+If ye then be risen with Christ, seek the things which are
+above, where Christ sitteth on the right hand of God.
+=Colossians 3:1=
+ 
+Christ is not entered into a the holy places made with hands,
+which are the figures of the true; but into heaven itself, now
+to appear in the presence of God for us.  =Hebrews 9:24=
+ 
+Ye shall receive power after the Holy Ghost is come
+upon you; and ye shall be witness unto me both in
+Jerusalem, and in all Judaea, and in Samaria, and unto the
+uttermost part of the earth.  =Acts 1:8=
+ 
+ 
+=Trinity Sunday=
+ 
+Holy, holy, holy, Lord God Almighty, which was, and is, and
+is to come.  =Revelation 4:8=
+ 
+<page 40>
+ 
+ 
+=All Saints and other Major Saints' Days=
+ 
+We give thanks unto the Father, which hath made us meet to
+be partakers of the inheritance of the saints in light.
+=Colossians 1:12=
+ 
+Ye are no more strangers and foreigners, but fellow-citizens
+with the saints and of the household of God.  =Ephesians 2:19=
+ 
+Their sound is gone out into all lands, and their words into
+the ends of the world.  =Psalm 19:4=
+ 
+ 
+=Occasions of Thanksgiving=
+ 
+O give thanks unto the Lord, and call upon his Name; tell the
+people what things he hath done.  =Psalm 105:1=
+ 
+ 
+=At any Time=
+ 
+Grace be unto you, and peace, from God our Father, and
+from the Lord Jesus Christ.  =Phillipians 1:2=
+ 
+I was glad when they said unto me, "We will go into the
+house of the Lord."  =Psalm 122:1=
+ 
+Let the words of my mouth, and the meditation of my heart,
+be alway acceptable in thy sight, O Lord, my strength and
+my redeemer.  =Psalm 19:14=
+ 
+O send out thy light and thy truth, that they may lead me,
+and bring me unto thy holy hill, and to thy dwelling.
+=Psalm 43:3=
+ 
+The Lord is in his holy temple; let all the earth keep silence
+before him.  =Habakkuk 2:20=
+ 
+The hour is cometh, and now is, when the true worshipers
+shall worship the Father in spirit and in truth, for the Father
+seeketh such to worship him.  =John 4:23=
+ 
+Thus saith the high and lofty One who inhabiteth eternity,
+<page 41>
+whose name is Holy, "I dwell in the high and holy place, with
+him also that is of a contrite and humble spirit, to revive the
+spirit of the humble, and to revive the heart of the contrite
+ones."  =Isaiah 57:15=
+ 
+ 
+*The following Confession of Sin may then be said; or the Office may
+continue at once with "O Lord, open thou our lips."
+ 
+ 
+<Confession of Sin>
+ 
+*The Officiant says to the people*
+ 
+Dearly beloved, we have come together in the presence of
+Almighty God our heavenly Father, to render thanks for the
+great benefits that we have received at his hands, to set forth
+his most worthy praise, to hear this holy Word, and to ask, for
+ourselves and on behalf of others, those things that are
+necessary for our life and our salvation.  And so that we may
+prepare ourselves in heart and mind to worship him, let us
+kneel in silence, and with penitent and obedient hearts
+confess our sins, that we may obtain forgiveness by his
+infinite goodness and mercy.
+ 
+*or this*
+ 
+Let us humbly confess our sins unto Almighty God.
+ 
+*Silence may be kept.*
+ 
+*Officiant and People together, all kneeling*
+ 
+Almighty and most merciful Father,
+we have erred and strayed from thy ways like lost sheep,
+we have followed too much the devices and desires of our
+/own hearts,
+we have offended against thy holy laws,
+we have left undone those things which we ought to
+/have done,
+<page 42>
+and we have done those things which we ought not to
+/have done.
+But thou, O Lord, have mercy upon us,
+spare thou those who confess their faults,
+restore thou those who are penitent,
+according to thy promises declared unto mankind
+in Christ Jesus our Lord;
+and grant, O most merciful Father, for his sake,
+that we may hereafter live a godly, righteous, and sober life,
+to the glory of thy holy Name.  Amen.
+ 
+ 
+*The Priest alone stands and says*
+ 
+The Almighty and merciful Lord grant you absolution and
+remission of all your sins, true repentance, amendment of
+life, and the grace and consolation of his Holy Spirit.  =Amen.=
+ 
+*A deacon or lay person using the preceding form remains kneeling, and
+substitutes "us" for "you" and "our" for "your."
+ 
+ 
+<The Invitatory and Psalter>
+ 
+*All stand*
+ 
+*Officiant* O Lord, open thou our lips.
+*People*  And our mouth shall show forth thy praise.
+ 
+ 
+*Officiant and People*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: as
+it was in the beginning, is now, and will be for ever.  Amen.
+ 
+*Except in Lent,*  Alleluia. *may be added.*
+ 
+ 
+*Then follows one of the Invitatory Psalms, Venite or Jubilate.*
+ 
+<page 43>
+ 
+*One of the following Antiphons may be sung or said with the Invitatory
+Psalm*
+ 
+*In Advent*
+ 
+Our King and Savior now draweth nigh:  O come, let us adore him.
+ 
+ 
+*On the Twelve Days of Christmas*
+ 
+Alleluia.  Unto us a child is born:  O come, let us adore him.
+Alleluia.
+ 
+ 
+*From the Epiphany through the Baptism of Christ, and on the Feasts of
+the Transfiguration and Holy Cross*
+ 
+The Lord hath manifested forth his glory:  O come, let us
+adore him.
+ 
+ 
+*In Lent*
+ 
+The Lord is full of compassion and mercy:  O come, let us
+adore him.
+ 
+ 
+*From Easter Day until the Ascension*
+ 
+Alleluia.  The Lord is risen indeed:  O come, let us adore him.
+Alleluia.
+ 
+ 
+*From Ascension Day until the Day of Pentecost*
+ 
+Alleluia.  Christ the Lord ascendedeth into heaven:  O come,
+ let us adore him. Alleluia.
+ 
+ 
+*On the Day of Pentecost*
+ 
+Alleluia.  The Spirit of the Lord filleth the world:  O come,
+let us adore him.  Alleluia.
+ 
+ 
+*On Trinity Sunday*
+ 
+Father, Son, and Holy Spirit, one God:  O come, let us
+adore him.
+ 
+<page 44>
+ 
+*On other Sundays and weekdays*
+ 
+The earth is the Lord's for he made it:  O come, let us
+adore him.
+ 
+*or this*
+ 
+Worship the Lord in the beauty of his holiness:  O come, let us
+adore him.
+ 
+*or this*
+ 
+The mercy of the Lord is everlasting:  O come, let us adore him.
+ 
+ 
+*The Alleluias in the following Antiphons are used only in Easter
+Season.*
+ 
+ 
+*On Feasts of the Incarnation*
+ 
+[Alleluia.] The Word was made flesh and dwelt among us:  O come, let us
+adore him. [Alleluia.]
+ 
+*On all Saints and other Major Saints' Days*
+ 
+[Alleluia.]  The Lord is glorious in his saints:  O come, let us
+adore him.  [Alleluia.]
+ 
+ 
+<Venite>  =Psalm 95:1-7=
+ 
+O come, let us sing unto the Lord; *
+ let us heartily rejoice in the strength of our salvation.
+ 
+Let us come before his presence with thanksgiving *
+ and show ourselves glad in him with psalms.
+ 
+ 
+For the Lord is a great God, *
+ and a great King above all gods.
+ 
+In his hand are the corners of the earth, *
+ and the strength of the hills is his also.
+ 
+The sea is his, and he made it, *
+ and his hands prepared the dry land.
+ 
+<page 45>
+ 
+O come, let us worship and fall down, *
+ and kneel before the Lord our Maker.
+ 
+For he is the Lord our God, *
+ and we are the people of his pasture
+ and the sheep of his hand.
+ 
+ 
+O worship the Lord in the beauty of holiness; *
+ let the whole earth stand in awe of him.
+ 
+For he cometh, for he cometh to judge the world
+ and with righteousness to judge the world
+ and the peoples with his truth.
+ 
+*or Psalm 95, page 146.*
+ 
+ 
+<Jubilate>  =Psalm 100=
+ 
+Be joyful in the Lord, all ye lands; *
+ serve the Lord with gladness
+ and come before his presence with a song.
+ 
+Be ye sure that the Lord he is God; *
+ it is he that hath made us and we ourselves;
+ we are his people and the sheep of his pasture.
+ 
+O go your way into his gates with thanksgiving
+and into his courts with praise; *
+ be thankful unto him and speak good of his Name.
+ 
+For the Lord is gracious;
+his mercy is everlasting; *
+ and his truth endureth from generation to generation.
+ 
+*In Easter Week, in place of an Invitatory Psalm, the following is sung
+or said.  It may also be used daily until the Day of Pentecost.*
+ 
+<page 46>
+ 
+ 
+<Christ our Passover>  =Pascha nostrum=
+ 
+=1 Corinthians 5:7-8; Romans 6:9-11; 1 Corinthians 15:20-22=
+ 
+Alleluia.
+Christ our Passover is sacrificed for us; *
+ therefore let us keep the feast,
+ 
+Not with old leaven,
+neither with the leaven of malice and wickedness, *
+ but with the unleavened bread of sincerity and truth.  Alleluia.
+ 
+ 
+Christ being raised from the dead dieth no more; *
+ death hath no more dominion over him.
+ 
+For in that he died, he died unto sin once; *
+ but in that he liveth, he liveth unto God.
+ 
+Likewise reckon ye also yourselves to be dead indeed unto sin, *
+ but alive unto God through Jesus Christ our Lord.  Alleluia.
+ 
+ 
+Christ is risen from the dead, *
+ and become the first fruits of them that slept.
+ 
+For since by man came death, *
+ by man came also the resurrection of the dead.
+ 
+For as in Adam all die, *
+ even so in Christ shall all be made alive.  Alleluia.
+ 
+ 
+*Then follows*
+ 
+ 
+<The Psalm or Psalms Appointed>
+ 
+*At the end of the Psalms is sung or said*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+<page 47>
+ 
+ 
+<The Lessons>
+ 
+*One or two lessons, as appointed, are read, the Reader first saying*
+ 
+A Reading (Lesson) from &mdash..
+ 
+*A citation giving chapter and verse may be added.*
+ 
+ 
+*After each Lesson the Reader may say*
+ 
+The Word of the Lord.
+ 
+*Answer* Thanks be to God.
+ 
+*Or the Reader may say* Here endeth the Lesson (Reading).
+ 
+*Silence may be kept after each Reading.  One of the following
+Canticles, or one of those on pages 85-95 (Canticles 8-21), is sung or
+said after each Reading.  If three Lessons are used, the Lesson from the
+Gospel is read after the second Canticle.*
+ 
+ 
+<Canticle 1>  A Song of Creation  =Benedicite, omnia opera Domini=
+ 
+=Song of the Three Young Men, 35-65=
+ 
+=I Invocation=
+ 
+O all ye works of the Lord, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+O ye angels of the Lord, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+=II The Cosmic Order=
+ 
+O ye heavens, bless ye the Lord; *
+ O ye waters that be above the firmament, bless ye the Lord;
+ 
+O all ye powers of the Lord, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+<page 48>
+ 
+O ye sun and moon, bless ye the Lord; *
+ O ye stars of heaven, bless ye the Lord;
+ 
+O ye showers and dew, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+O ye winds of God, bless ye the Lord; *
+ O ye fire and heat, bless ye the Lord;
+ 
+O ye winter and summer, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+O ye dews and frosts, bless ye the Lord; *
+ O ye frost and cold, bless ye the Lord;
+ 
+O ye ice and snow, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+O ye nights and days, bless ye the Lord; *
+ O ye light and darkness, bless ye the Lord;
+ 
+O ye lightnings and clouds, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+=III The Earth and its Creatures=
+ 
+O let the earth bless the Lord; *
+ O ye mountains and hills, bless ye the Lord;
+ 
+O all ye green things upon the earth, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+O all ye fowls of the air, bless ye the Lord; *
+ O all ye beasts and cattle, bless ye the Lord;
+ 
+O ye children of men, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+<page 49>
+ 
+=IV  The People of God=
+ 
+O ye people of God, bless ye the Lord; *
+ O ye priests of the Lord, bless ye the Lord;
+ 
+O ye servants of the Lord, bless ye the Lord; *
+ praise him and magnify him for ever.
+ 
+ 
+O ye spirits and souls of the righteous, bless ye the Lord; *
+ O ye holy and humble men of heart, bless ye the Lord.
+ 
+Let us bless the Father, the Son, and the Holy Spirit; *
+ praise him and magnify him for ever.
+ 
+ 
+<Canticle 2>  A Song of Praise  =Benedictus es, Domine=
+ 
+=Song of the Three Young Men, 29-34=
+ 
+Blessed art thou, O Lord God of our fathers; *
+ praised and exalted above all for ever.
+ 
+Blessed are thou for the name of thy Majesty; *
+ praised and exalted above all for ever.
+ 
+Blessed are thou in the temple of thy holiness; *
+ praised and exalted above all for ever.
+ 
+Blessed are thou that beholdest the depths,
+and dwellest between the Cherubim; *
+ praised and exalted above all for ever.
+ 
+Blessed art thou on the glorious throne of thy kingdom; *
+ praised and exalted above all for ever.
+ 
+Blessed are thou in the firmament of heaven; *
+ praised and exalted above all for ever.
+ 
+Blessed are thou, O Father, Son, and Holy Spirit; *
+ praised and exalted above all for ever.
+ 
+ 
+<Canticle 3>  The Song of Mary  =Magnificat=
+ 
+=Luke 1:46-55=
+ 
+My soul doth magnify the Lord, *
+ and my spirit hath rejoiced in God my Savior.
+ 
+For he hath regarded *
+ the lowliness of his handmaiden.
+ 
+For behold from henceforth *
+ all generations shall call me blessed.
+ 
+For he that is mighty hath magnified me, *
+ and holy is his Name.
+ 
+And his mercy is on them that fear him *
+ throughout all generations.
+ 
+He hath showed strength with his arm; *
+ he hath scattered the proud in the imagination of their hearts.
+ 
+He hath put down the mighty from their seat, *
+ and hath exalted the humble and meek.
+ 
+He hath filled the hungry with good things, *
+ and the rich he hath sent empty away.
+ 
+He remembering his mercy hath holpen his servant Israel, *
+ as he promised to our forefathers,
+ Abraham and his seed for ever.
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 4>  The Song of Zechariah  =Benedictus Dominus Deus=
+ 
+=Luke 1:68-79=
+ 
+Blessed be the Lord God of Israel, *
+ for he hath visited and redeemed his people;
+ 
+And hath raised up a mighty salvation for us *
+ in the house of his servant David,
+ 
+As he spake by the mouth of his holy prophets, *
+ which have been since the world began:
+ 
+<page 51>
+ 
+That we should be saved from our enemies, *
+ and from the hand of all that hate us;
+ 
+To perform the mercy promised to our forefathers, *
+ and to remember his holy covenant;
+ 
+To perform the oath which he sware to our forefather Abraham, *
+ that he would give us,
+ 
+That we being delivered out of the hand of our enemies *
+ might serve him without fear,
+ 
+In holiness and righteousness before him, *
+ all the days of our life.
+ 
+And thou, child, shalt be called the prophet of the Highest, *
+ for thou shalt go before the face of the Lord
+/to prepare his ways;
+ 
+To give knowledge of salvation unto his people *
+ for the remission of their sins,
+ 
+Through the tender mercy of our God, *
+ whereby the dayspring from on high hath visited us;
+ 
+To give light to them that sit in darkness
+and in the shadow of death, *
+ and to guide our feet into the way of peace.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 5>  The Song of Solomon  =Nunc dimittis=
+ 
+=Luke 2:29-32=
+ 
+Lord, now lettest thou thy servant depart in peace, *
+ according to thy word;
+ 
+For mine eyes have seen thy salvation, *
+ which thou hast prepared before the face of all people,
+ 
+To be a light to lighten the Gentiles, *
+ and to be the glory of thy people Israel.
+ 
+<page 51>
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 6>  Glory be to God  =Gloria in Excelsis=
+ 
+Glory be to God on high,
+ and on earth peace, good will towards mean.
+ 
+We praise thee, we bless thee,
+ we worship thee,
+ we glorify thee,
+ we give thanks to thee for thy great glory,
+ 
+O Lord God, heavenly King, God the Father Almighty.
+ 
+ 
+O Lord, the only-begotten Son, Jesus Christ;
+O Lord God, Lamb of God, Son of the Father,
+ that takest away the sins of the world,
+ have mercy upon us.
+ 
+Thou that takest away the sins of the world,
+ receive our prayer.
+ 
+Thou that sittest at the right hand of God the Father,
+ have mercy upon us.
+ 
+ 
+For thou only art holy,
+thou only art the Lord,
+thou only, O Christ,
+ with the Holy Ghost,
+ art most high in the glory of God the Father.  Amen.
+ 
+ 
+<Canticle 7>  We Praise Thee  =Te Deum laudamus=
+ 
+We praise thee, O God; we acknoledge thee to be the Lord.
+All the earth doth worship thee, the Father everlasting.
+To thee all Angels cry aloud,
+the Heavens and all the Powers therein.
+To thee Cherubim and Seraphim continually do cry:
+ Holy, holy, holy, Lord God of Sabaoth;
+ Heaven and earth are full of the majesty of thy glory.
+ 
+The glorious company of the apostles praise thee.
+The goodly fellowship of the prophets praise thee.
+The noble army of martyrs praise thee.
+The holy Church throughout all the world
+/doth acknowledge thee,
+ the Father, of an infinite majesty,
+ thine adorable, true, and only Son,
+ also the Holy Ghost the Comforter.
+ 
+ 
+Thou art the King of glory, O Christ.
+Thou art the everlasting Son of the Father.
+When thou tookest upon thee to deliver man,
+thou didst humble thyself to be born of a Virgin.
+When thou hadst overcome the sharpness of death,
+thou didst open the kingdom of heaven to all believers.
+Thou sittest at the right hand of God, in the glory of the Father.
+We believe that thou shalt come to be our judge.
+ We therefore pray thee, help thy servants,
+ whom thou hast redeemed with thy precious blood.
+ Make them to be numbered with thy saints,
+ in glory everlasting.
+ 
+ 
+<The Apostles' Creed>
+ 
+*Officiant and People together, all standing*
+ 
+I believe in God, the Father almighty,
+ maker of heaven and earth;
+ 
+And in Jesus Christ his only Son our Lord;
+ who was conceived by the Holy Ghost,
+ born of the Virgin Mary,
+ suffered under Pontius Pilate,
+ was crucified, dead, and buried.
+ He descended into hell.
+<page 54>
+ The third day he rose again from the dead.
+ He ascended into heaven,
+ and sitteth on the right hand of God the Father almighty.
+ From thence he shall come to judge the quick and the dead.
+ 
+I believe in the Holy Ghost,
+ the holy catholic Church,
+ the communion of saints,
+ the forgiveness of sins,
+ the resurrection of the body,
+ and the life everlasting.  Amen.
+ 
+*The text of the Creed on page 96 may be used instead.*
+ 
+ 
+<The Prayers>
+ 
+*The People stand or kneel*
+ 
+*Officiant*  The Lord be with you.
+ 
+*People*  And also with you.
+ 
+*Officiant*  Let us pray.
+ 
+*Officiant and People*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+ on earth as it is in heaven.
+ 
+Give us this day our daily bread.
+And forgive us our tresspasses,
+ as we forgive those
+ who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+ 
+*Then follows one of these sets of Suffrages*
+ 
+<Suffrages A>
+ 
+&V.  O Lord, show thy mercy upon us;
+ 
+&R.  And grant us thy salvation.
+ 
+&V.  Endue thy ministers with righteousness;
+ 
+&R.  And make thy chosen people joyful.
+ 
+&V.  Give peace, O Lord, in all the world;
+ 
+&R.  For only in thee can we live in safety.
+ 
+&V.  Lord, keep this nation under thy care;
+ 
+&R.  And guide us in the way of justice and truth.
+ 
+&V.  Let thy way be known upon earth;
+ 
+&R.  Thy saving health among all nations.
+ 
+&V.  Let not the needy, O Lord, be forgotten;
+ 
+&R.  Nor the hope of the poor be taken away.
+ 
+&V.  Create in us clean hearts, O God;
+ 
+&R.  And sustain us with your Holy Spirit.
+ 
+ 
+<Suffrages B>
+ 
+&V.  O Lord, save thy people and bless thine heritage;
+ 
+&R.  Govern them and lift them up for ever.
+ 
+&V.  Day by day we magnify thee;
+ 
+&R.  And we worship thy name for ever, world without end.
+ 
+&V.  Vouchsafe, O Lord, to keep us this day without sin;
+ 
+&R.  O Lord, have mercy upon us, hve mercy upon us.
+ 
+&V.  O Lord, let thy mercy be upon us;
+ 
+&R.  As our trust is in thee.
+ 
+&V.  O Lord, in thee have I trusted;
+ 
+&R.  Let me never be confounded.
+ 
+ 
+*The Officiant then says one or more of the following Collects*
+ 
+*The Collect of the Day*
+ 
+<page 55>
+ 
+ 
+*A Collect for Sundays*
+ 
+O God, who makest us glad with the weekly remembrance of
+the glorious resurrection of thy Son our Lord:  Grant us this
+day such blessing through our worship of thee, that the days
+to come may be spent in thy favor; through Jesus
+Christ our Lord.  =Amen.=
+ 
+ 
+*A Collect for Fridays*
+ 
+Almighty God, whose most dear Son went not up to joy but
+first he suffered pain, and entered not into glory before he
+was crucified:  Mercifully grant that we, walking in the way
+of the cross, may find it none other than the way of life and
+peace; through Jesus Christ your Son our Lord.  =Amen.=
+ 
+ 
+*A Collect for Saturdays*
+ 
+Almighty God, who after the creation of the world didst rest
+from all thy works and sanctify a day of rest for all thy
+creatures:  Grant that we, putting away all earthly anxieties,
+may be duly prepared for the service of thy sanctuary, and
+that our rest here upon earth may be a preparation for the
+eternal rest promised to thy people in heaven; through Jesus
+Christ our Lord.  =Amen.=
+ 
+ 
+*A Collect for the Renewal of Life*
+ 
+O God, the King eternal, who dividest the day from the
+night and turnest the shadow of death into the morning:
+Drive far from us all wrong desires, incline our hearts to keep
+thy law, and guide our feet into the way of peace; that,
+having done thy will with cheerfulness while it was day, we
+may, when night cometh, rejoice to give thee thanks;
+through Jesus Christ our Lord.  =Amen.=
+ 
+<page 57>
+ 
+ 
+*A Collect for Peace*
+ 
+O God, who art the author of peace and lover of concord,
+in knowledge of whom standeth our eternal life, whose service
+is perfect freedom:  Defend us, thy humble servants, in all
+assaults of our enemies; that we, surely trusting in thy
+defense, may not fear the power of any adversaries; through
+the might of Jesus Christ our Lord.  =Amen.=
+ 
+ 
+*A Collect for Grace*
+ 
+O Lord, our heavenly Father, almighty and everlasting God,
+who hast safely brought us to the beginning of this day:
+Defend us in the same with thy mighty power; and grant that
+this day we fall into no sin, neither run into any kind of
+danger; but that we, being ordered by thy governance, may
+do always what is righteous in thy sight; through Jesus Christ
+our Lord.  =Amen.=
+ 
+ 
+*A Collect for Guidance*
+ 
+O heavenly Father, in whom we live and move and have our
+being:  We humbly pray thee so to guide and govern us by thy
+Holy Spirit, that in all the cares and occupations of our life
+we may not forget thee, but may remember that we are ever
+walking in thy sight; through Jesus Christ our Lord.  =Amen.=
+ 
+*Then, unless the Eucharist or a form of general intercession is to
+follow, one of these prayers for mission is added*
+ 
+Almighty and everlasting God, by whose Spirit the whole
+body of thy faithful people is governed and sanctified:
+Receive our supplications and prayers which we offer before
+thee for all members of thy holy Church, that in their
+vocation and ministry they may truly and godly serve thee;
+through our Lord and Savior Jesus Christ.  =Amen.=
+ 
+*or the following*
+ 
+<page 58>
+ 
+O God, who hast made of one blood all the peoples of the
+earth, and didst send thy blessed Son to preach peace to those
+who are far off and to those who are near:  Grant that people
+everywhere may seek after thee and find thee; bring the
+nations into thy fold; pour out thy Spirit upon all flesh; and
+hasten the coming of thy kingdom; through the same thy
+Son Jesus Christ our Lord.  =Amen.=
+ 
+*or this*
+ 
+Lord Jesus Christ, who didst stretch out thine arms of love
+on the hard wood of the cross that everyone might come
+within the reach of thy saving embrace:  So clothe us in thy
+Spirit that we, reaching forth our hands in love, may bring
+those who do not know thee to the knowledge and love of
+you; for the honor of thy Name.  =Amen.=
+ 
+*Here may be sung a hymn or anthem.*
+ 
+*Authorized intercessions and thanksgivings may follow.*
+ 
+ 
+*Before the close of the Office one or both of the following may be
+used*
+ 
+ 
+*The General Thanksgiving*
+ 
+*Officiant and People*
+ 
+Almighty God, Father of all mercies,
+we thine unworthy servants
+do give thee most humble and hearty thanks
+for all thy goodness and loving-kindness
+to us and to all men.
+We bless thee for our creation, preservation,
+and all the blessings of this life;
+but above all for thine inestimable love
+in the redemption of the world by our Lord Jesus Christ;
+for the means of grace, and for the hope of glory.
+<page 59>
+And, we beseech thee,
+give us that due sense of all thy mercies,
+that our hearts may be unfaignedly thankful;
+and that we show forth thy praise,
+not only with our lips, but in our lives,
+by giving up our selves to thy service,
+and by walking before thee
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with thee and the Holy Spirit,
+be all honor and glory, world without end.  =Amen.=
+ 
+ 
+*A Prayer of St. Chrysostom*
+ 
+Almighty God, who hast given us grace at this time with one
+accord to make our common supplication unto thee; and
+hast promised through thy well-beloved Son that when two
+or three are gathered together in his Name thou wilt be in the
+midst of them:  Fulfill now, O Lord, our desires and petitions
+of thy servants as may be best for us; granting us in this
+world knowledge of thy truth, and in the world to come life
+everlasting.  =Amen.=
+ 
+ 
+*Then may be said*
+ 
+Let us bless the Lord.
+=Thanks be to God.=
+ 
+*From Easter Day through the Day of Pentecost "Alleluia, alleluia" may
+be added to the preceding versicle and response.*
+ 
+ 
+*The Officiant may then conclude with one of the following*
+ 
+The grace of our Lord Jesus Christ, and the love of God, and
+the fellowship of the Holy Ghost, be with us all evermore.
+=Amen.=  =2 Corinthians 13:14=
+ 
+<page 60>
+ 
+May the God of hope fill us with all joy and peace in
+believing through the power of the Holy Spirit.  =Amen.=
+=Romans 15:13=
+ 
+Glory to God whose power, working in us, can do infinitely
+more than we can ask or imagine:  Glory to him from
+generation to generation in the Church, and in Christ Jesus
+for ever and ever.  =Amen.=  =Ephesians 3:20,21=
+ 
+ 
+ 
+<Daily Evening Prayer:
+Rite One>
+ 
+*The Officiant begins the service with one or more of the following
+sentences of Scripture, or of those on pages 37-40;*
+ 
+*or with the Service of Light on pages 109-112, and continuing with the
+appointed Psalmody;*
+ 
+*or with the versicle "O God, make speed to save us" on page 63.
+ 
+Let my payer be set forth in thy sight as the incense, and let
+the lifting up of my hands be an evening sacrifice.
+=Psalm 141:2=
+ 
+Grace be unto you, and peace, from God our Father, and
+from the Lord Jesus Christ.  =Philippians 1:2=
+ 
+O worship the Lord in the beauty of holiness; let the whole
+earth stand in awe of him.  =Psalm 96:9=
+ 
+Thine is the day, O God, thine also the night; thou hast
+established the moon and the sun.  Thou hast fixed all the
+boundries of the earth; thou hast made summer and winter.
+=Psalm 74:15,16=
+ 
+I will bless the Lord, who giveth me counsel; my heart
+teacheth me, night after night.  I have set the Lord always
+before me; because he is at my right hand, I shall not fall.
+=Psalm 16:7,8=
+ 
+<page 62>
+ 
+Seek him that made the Pleides and Orion, that turneth deep
+darkness into the morning, and darkeneth the day into night;
+that calleth for the waters of the sea, and poureth them out
+upon the face of the earth:  The Lord is his Name.  =Amos 5:8=
+ 
+If I say, "Surely the darkness will cover me, and the light
+around me turn to night," darkness is not dark to thee, O Lord;
+the night is as bright as the day; darkness and light to thee
+are both alike.  =Psalm 139:10,11=
+ 
+Jesus said, "I am the light of the world; he that followeth me
+shall not walk in darkness, but shall have the light of life."
+=John 8:12=
+ 
+ 
+*The following Confession of Sin may then be said; or the Office may
+continue at once with "O God make speed to save us."
+ 
+ 
+<Confession of Sin>
+ 
+*The Officiant says to the people*
+ 
+Dear friends in Christ, here in the presence of Almighty God,
+let us kneel in silence, and with penitent and obedient hearts
+confess our sins, so that we may obtain forgiveness by his
+infinite goodness and mercy.
+ 
+*or this*
+ 
+Let us humbly confess our sins unto Almighty God.
+ 
+*Silence may be kept.*
+ 
+*Officiant and People together, all kneeling*
+ 
+Almighty and most merciful Father,
+we have erred and strayed from thy ways like lost sheep,
+we have followed too much the devices and desires of our
+/own hearts,
+we have offended against thy holy laws,
+we have left undone those things which we ought to
+/have done,
+and we have done those things which we ought not to
+/have done.
+But thou, O Lord, have mercy upon us,
+spare thou those who confess their faults,
+restore thou those who are penitent,
+according to thy promises declared unto mankind
+in Christ Jesus our Lord;
+and grant, O most merciful Father, for his sake,
+that we may hereafter live a godly, righteous, and sober life,
+to the glory of thy holy Name.  Amen.
+ 
+ 
+*The Priest alone stands and says*
+ 
+The Almighty and merciful Lord grant you absolution and
+remission of all your sins, true repentance, amendment of
+life, and the grace and consolation of his Holy Spirit.  =Amen.=
+ 
+*A deacon or lay person using the preceding form remains kneeling, and
+substitutes "us" for "you" and "our" for "your."
+ 
+ 
+<The Invitatory and Psalter>
+ 
+*All stand*
+ 
+*Officiant*  O God, make speed to save us.
+ 
+*People*  O Lord, make haste to help us.
+ 
+ 
+*Officiant and People*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit:  as
+it was in the beginning, is now, and will be for ever.  Amen.
+ 
+*Except in Lent,*  Alleluia *may be added.*
+ 
+<page 64>
+ 
+*The following, or some other suitable hymn, or an Invitatory Psalm, may
+be sung or said*
+ 
+ 
+<O Gracious Light>  =Phos hilaron=
+ 
+O gracious Light,
+pure brightness of the everliving Father in heaven,
+O Jesus Christ, holy and blessed!
+ 
+Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing thy praises, O God:  Father, Son, and Holy Spirit.
+ 
+Thou art worthy at all times to be praised by happy voices,
+O Son of God, O Giver of life,
+and to be glorified though all the worlds.
+ 
+*then follows*
+ 
+ 
+<The Psalm or Psalms Appointed>
+ 
+*At the end of the Psalms is sung or said*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<The Lessons>
+ 
+*One or two lessons, as appointed, are read, the Reader first saying*
+ 
+A Reading (Lesson) from &mdash..
+ 
+*A citation giving chapter and verse may be added.*
+ 
+<page 65>
+ 
+*After each Lesson the Reader may say*
+ 
+The Word of the Lord.
+ 
+*Answer* Thanks be to God.
+ 
+*Or the Reader may say* Here endeth the Lesson (Reading).
+ 
+*Silence may be kept after each Reading.  One of the following
+Canticles, or one of those on pages 47-52, or 85-95, is sung or said
+after each Reading.  If three Lessons are used, the Lesson from the
+Gospel is read after the second Canticle.*
+ 
+ 
+<The Song of Mary>  =Magnificat=
+=Luke 1:46-55=
+ 
+My soul doth magnify the Lord, *
+ and my spirit hath rejoiced in God my Savior.
+ 
+For he hath regarded *
+ the lowliness of his handmaiden.
+ 
+For behold from henceforth *
+ all generations shall call me blessed.
+ 
+For he that is mighty hath magnified me, *
+ and holy is his Name.
+ 
+And his mercy is on them that fear him *
+ throughout all generations.
+ 
+He hath showed strength with his arm; *
+ he hath scattered the proud in the imagination of their hearts.
+ 
+He hath put down the mighty from their seat, *
+ and hath exalted the humble and meek.
+ 
+He hath filled the hungry with good things, *
+ and the rich he hath sent empty away.
+ 
+He remembering his mercy hath holpen his servant Israel, *
+ as he promised to our forefathers,
+ Abraham and his seed for ever.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+<page 66>
+ 
+ 
+<The Song of Solomon>  =Nunc dimittis=
+=Luke 2:29-32=
+ 
+Lord, now lettest thou thy servant depart in peace, *
+ according to thy word;
+ 
+For mine eyes have seen thy salvation, *
+ which thou hast prepared before the face of all people,
+ 
+To be a light to lighten the Gentiles, *
+ and to be the glory of thy people Israel.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<The Apostle's Creed>
+ 
+*Officiant and People together, all standing*
+ 
+I believe in God, the Father almighty,
+ maker of heaven and earth;
+ 
+And in Jesus Christ his only Son our Lord;
+ who was conceived by the Holy Ghost,
+ born of the Virgin Mary,
+ suffered under Pontius Pilate,
+ was crucified, dead, and buried.
+ He descended into hell.
+ The third day he rose again from the dead.
+ He ascended into heaven,
+ and sitteth on the right hand of God the Father almighty.
+ From thence he shall come to judge the quick and the dead.
+ 
+I believe in the Holy Ghost,
+ the holy catholic Church,
+ the communion of saints,
+ the forgiveness of sins,
+ the resurrection of the body,
+ and the life everlasting.  Amen.
+ 
+*The text of the Creed on page 96 may be used instead.*
+ 
+<page 67>
+ 
+ 
+<The Prayers>
+ 
+*The People stand or kneel*
+ 
+*Officiant*  The Lord be with you.
+ 
+*People*  And also with you.
+ 
+*Officiant*  Let us pray.
+ 
+*Officiant and People*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+ on earth as it is in heaven.
+ 
+Give us this day our daily bread.
+And forgive us our tresspasses,
+ as we forgive those
+ who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+ 
+*Then follows one of these sets of Suffrages*
+ 
+ 
+<Suffrages A>
+ 
+&V.  O Lord, show thy mercy upon us;
+ 
+&R.  And grant us thy salvation.
+ 
+&V.  Endue thy ministers with righteousness;
+ 
+&R.  And make thy chosen people joyful.
+ 
+&V.  Give peace, O Lord, in all the world;
+ 
+&R.  For only in thee can we live in safety.
+ 
+&V.  Lord, keep this nation under thy care;
+ 
+&R.  And guide us in the way of justice and truth.
+ 
+<page 68>
+ 
+&V.  Let thy way be known upon earth;
+ 
+&R.  Thy saving health among all nations.
+ 
+&V.  Let not the needy, O Lord, be forgotten;
+ 
+&R.  Nor the hope of the poor be taken away.
+ 
+&V.  Create in us clean hearts, O God;
+ 
+&R.  And sustain us with your Holy Spirit.
+ 
+ 
+<Suffrages B>
+ 
+That this evening may be holy, good, and peaceful,
+=We entreat thee, O Lord.=
+ 
+That thy holy angels may lead us in paths of peace and
+goodwill,
+=We entreat thee, O Lord.=
+ 
+That we may be pardoned and forgiven for our sins
+and offenses,
+=We entreat thee, O Lord.=
+ 
+That there may be peace to thy Church and to the whole
+world,
+=We entreat thee, O Lord.=
+ 
+That we may depart this life in thy faith and fear, and
+not be condemned before the great judgment seat
+of Christ,
+=We entreat thee, O Lord.=
+ 
+That we may be bound together by thy Holy Spirit in
+the communion of [&mdash. and] all thy saints,
+entrusting one another and all our life to Christ,
+=We entreat thee, O Lord.=
+ 
+ 
+*The Officiant then says one or more of the following Collects*
+ 
+*The Collect of the Day*
+ 
+<page 69>
+ 
+*A Collect for Sundays*
+ 
+Lord God, whose Son our Savior Jesus Christ triumphed
+over the powers of death and prepared for us our place in the
+new Jerusalem:  Grant that we, who have this day given
+thanks for his resurrection, may praise thee in that City of
+which he is the light; and where he liveth and reigneth for ever
+and ever.  =Amen.=
+ 
+ 
+*A Collect for Fridays*
+ 
+O Lord Jesus Christ, who by thy death didst take away the
+sting of death:  Grant unto us thy servants so to follow in
+faith where thou hast led the way, that we may at length fall
+asleep peacefully in thee, and awake up after thy likeness; for
+thy tender mercies' sake.  =Amen.=
+ 
+ 
+*A Collect for Saturdays*
+ 
+O God, the source of eternal light:  Shed forth thine unending
+day upon us who watch for thee, that our lips may praise thee,
+our lives may bless thee, and our worship on the morrow may
+give thee glory; through Jesus Christ our Lord.  =Amen.=
+ 
+ 
+*A Collect for Peace*
+ 
+O God, from whom all holy desires, all good counsels, and
+all just works do proceed:  Give unto thy servants that peace
+which the world cannot give, that our hearts may be set to
+obey thy commandments, and also that by thee, we, being
+defended from the fear of all enemies, may pass our time in
+rest and quietness; through the merits of Jesus Christ our
+Savior.  =Amen.=
+ 
+<page 70>
+ 
+ 
+*A Collect for Aid against Perils*
+ 
+Lighten our darkness, we beseech thee, O Lord; and by thy
+great mercy defend us from all perils
+ 
+ 
+ 
+ 
+ 
+*Then, unless the Eucharist or a form of general intercession is to
+follow, one of these prayers for mission is added*
+ 
+ 
+ 
+*Here may be sung a hymn or anthem.*
+ 
+*Authorized intercessions and thanksgivings may follow.*
+ 
+ 
+*Before the close of the Office one or both of the following may be
+used*
+ 
+ 
+*The General Thanksgiving*
+ 
+*Officiant and People*
+ 
+Almighty God, Father of all mercies,
+we thine unworthy servants
+do give thee most humble and hearty thanks
+for all thy goodness and loving-kindness
+to us and to all men.
+We bless thee for our creation, preservation,
+and all the blessings of this life;
+but above all for thine inestimable love
+in the redemption of the world by our Lord Jesus Christ;
+for the means of grace, and for the hope of glory.
+And, we beseech thee,
+give us that due sense of all thy mercies,
+that our hearts may be unfaignedly thankful;
+<page 72>
+and that we show forth thy praise,
+not only with our lips, but in our lives,
+by giving up our selves to thy service,
+and by walking before thee
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with thee and the Holy Spirit,
+be all honor and glory, world without end.  =Amen.=
+ 
+ 
+*A Prayer of St. Chrysostom*
+ 
+Almighty God, who hast given us grace at this time with one
+accord to make our common supplication unto thee; and
+hast promised through thy well-beloved Son that when two
+or three are gathered together in his Name thou wilt be in the
+midst of them:  Fulfill now, O Lord, our desires and petitions
+of thy servants as may be best for us; granting us in this
+world knowledge of thy truth, and in the world to come life
+everlasting.  =Amen.=
+ 
+ 
+*Then may be said*
+ 
+Let us bless the Lord.
+=Thanks be to God.=
+ 
+*From Easter Day through the Day of Pentecost "Alleluia, alleluia" may
+be added to the preceding versicle and response.*
+ 
+ 
+*The Officiant may then conclude with one of the following*
+ 
+The grace of our Lord Jesus Christ, and the love of God, and
+the fellowship of the Holy Ghost, be with us all evermore.
+=Amen.=  =2 Corinthians 13:14=
+ 
+<page 73>
+ 
+May the God of hope fill us with all joy and peace in
+believing through the power of the Holy Spirit.  =Amen.=
+=Romans 15:13=
+ 
+Glory to God whose power, working in us, can do infinitely
+more than we can ask or imagine:  Glory to him from
+generation to generation in the Church, and in Christ Jesus
+for ever and ever.  =Amen.=  =Ephesians 3:20,21=
+ 
+<page 74>
+ 
+*Concerning the Service*
+ 
+*In the Daily Office, the term "Officiant" is used to denote the person,
+clerical or lay, who leads the Office.*
+ 
+*It is appropriate that other persons be assigned to read the Lessons,
+and to lead other parts of the service not assigned to the officiant.
+The bishop, when present, appropriately concludes the Office with a
+blessing.*
+ 
+*At celebrations of the Holy Eucharist, the Order for Morning or Evening
+Prayer may be used in place of all that precedes the Offeratory.*
+ 
+*Additional Directions are on page 141.*
+ 
+<page 75>
+ 
+ 
+ 
+<Daily Morning Prayer:
+Rite Two>
+ 
+*The Officiant begins the service with one or more of these sentences of
+Scripture, or with the versicle "Lord, open our lips" on page 80.*
+ 
+ 
+=Advent=
+ 
+Watch, for you do not know when the master of the house
+will come, in the evening, or at midnight, or at cockcrow, or
+in the morning, lest he come suddenly and find you asleep.
+=Mark 13:35, 36=
+ 
+In the wilderness prepare the way of the Lord, make straight
+in the desert a highway for our God.  =Isaiah 40:3=
+ 
+The glory of the Lord shall be revealed, and all flesh shall see
+it together.  =Isaiah 40:5=
+ 
+ 
+=Christmas=
+ 
+Behold, I bring you good news of a great joy which will come
+to all the people; for to you is born this day in the city of
+David, a Savior, who is Christ the Lord.  =Luke 2:10, 11=
+ 
+Behold, the dwelling of God is with mankind.  He will dwell
+with them, and they shall be his people, and God himself will
+be with them, and be their God.  =Revelation 21:3=
+ 
+<page 76>
+ 
+ 
+=Epiphany=
+ 
+Nations shall come to your light, and kings to the brightness
+of your rising.  =Isaiah 60:3=
+ 
+I will give you as a light to the nations, that my salvation may
+reach to the end of the earth.  =Isaiah 49:6b=
+ 
+From the rising of the sun to its setting my Name shall be great
+among the nations, and in every place incense shall be offered
+to my Name, and a pure offering; for my Name shall be great
+among the nations, says the Lord of hosts.  =Malachi 1:11=
+ 
+ 
+=Lent=
+ 
+If we say we have no sin, we deceive ourselves, and the truth
+is not in us, but if we confess our sins, God, who is faithful
+and just, will forgive our sins and cleanse us from all
+unrighteousness.  =1 John 1:8, 9=
+ 
+Rend your hearts and not your garments.  Return to the Lord
+your God, for he is gracious and merciful, slow to anger and
+abounding in steadfast love, and repents of evil.  =Joel 2:13=
+ 
+I will arise and go to my father, and I will say to him,
+"Father, I have sinned against heaven and before you; I am
+no longer worthy to be called your son."  =Luke 15:18, 19=
+ 
+To the Lord our God belong mercy and forgiveness, because
+we have rebelled against him and have not obeyed the voice
+of the Lord our God by following his laws which he set
+before us.  =Daniel 9:9, 10=
+ 
+Jesus said, "If anyone would come after me, let him deny
+himself and take up his cross and follow me."  =Mark 8:34=
+ 
+ 
+=Holy Week=
+ 
+All we like sheep have gone astray; we have turned every one
+<page 77>
+to his own way; and the Lord has laid on him the iniquity of
+us all.  =Isaiah 53:6=
+ 
+Is it nothing to you, all you who pass by?  Look and see if
+there is any sorrow like my sorrow which was brought upon
+me, whom the Lord has afflicted.  =Lamentations 1:12=
+ 
+ 
+=Easter Season, including Ascension Day
+and the Day of Pentecost=
+ 
+Alleluia! Christ is risen.
+=The Lord is risen indeed. Alleluia!=
+ 
+On this day the Lord has acted; we will rejoice and be glad in
+it.  =Psalm 118:24=
+ 
+Thanks be to God, who gives us the victory through our Lord
+Jesus Christ.  =1 Corinthians 15:57=
+ 
+If then you have been raised with Christ, seek the things that
+are above, where Christ is, seated at the right hand of God.
+=Colossians 3:1=
+ 
+Christ has entered, not into a sanctuary made with hands, a
+copy of the true one, but into heaven itself, now to appear in
+the presence of God on our behalf.  =Hebrews 9:24=
+ 
+You shall receive power when the Holy Spirit has come upon
+you; and you shall be my witness in Jerusalem, and in all
+Judea, and Samaria, and to the ends of the earth.  =Acts 1:8=
+ 
+ 
+=Trinity Sunday=
+ 
+Holy, holy, holy is the Lord God Almighty, who was, and is,
+and is to come!  =Revelation 4:8=
+ 
+ 
+=All Saints and other Major Saints' Days=
+ 
+We give thanks to the Father, who has made us worthy to
+share in the inheritance of the saints in light.  =Colossians 1:12=
+ 
+<page 78>
+ 
+You are no longer strangers and sojourners, but fellow
+citizens with the saints and members of the household of
+God.  =Ephesians 2:19=
+ 
+Their sound has gone out into all lands, and their message to
+the ends of the world.  =Psalm 19:4=
+ 
+ 
+=Occasions of Thanksgiving=
+ 
+Give thanks to the Lord, and call upon his Name; make
+known his deeds among the peoples.  =Psalm 105:1=
+ 
+ 
+=At any Time=
+ 
+Grace to you and peace from God our Father and the Lord
+Jesus Christ.  =Philippians 1:2=
+ 
+I was glad when they said to me, "Let us go to the house of
+the Lord."  =Psalm 122:1=
+ 
+Let the words of my mouth and the meditation of my heart
+be acceptable in you sight, O Lord, my strength and my
+redeemer.  =Psalm 19:14=
+ 
+Send out your light and your truth, that they may lead me,
+and bring me to your holy hill and to your dwelling.
+=Psalm 43:3=
+ 
+The Lord is in his holy temple; let all the earth keep silence
+before him.  =Habakkuk 2:20=
+ 
+The hour is coming, and now is, when the true worshipers
+will worship the Father in spirit and truth, for such the
+Father seeks to worship him.  =John 4:23=
+ 
+Thus says the high and lofty One who inhabits eternity,
+whose name is Holy, "I dwell in the high and holy place and
+also with the one who has a contrite and humble spirit, to
+revive the spirit of the humble and to revive the heart of the
+contrite."  =Isaiah 57:15=
+ 
+<page 79>
+ 
+*The following Confession of Sin may then be said; or the Office may
+continue at once with "Lord, open our lips."
+ 
+ 
+<Confession of Sin>
+ 
+*The Officiant says to the people*
+ 
+Dearly beloved, we have come together in the presence of
+Almighty God our heavenly Father, to set forth his praise, to
+hear his holy Word, and to ask, for ourselves and on behalf
+of others, those things that are necessary for our life and our
+salvation.  And so that we may prepare ourselves in heart and
+mind to worship him, let us kneel in silence, and with
+penitent and obedient hearts confess our sins, that we may
+obtain forgiveness by his infinite goodness and mercy.
+ 
+*or this*
+ 
+Let us confess our sins against God and our neighbor.
+ 
+*Silence may be kept.*
+ 
+*Officiant and People together, all kneeling*
+ 
+Most merciful God,
+we confess that we have sinned against you
+in thought, word, and deed,
+by what we have done,
+and by what we have left undone.
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
+that we may delight in your will,
+and walk in your ways,
+to the glory of your Name.  Amen.
+ 
+<page 80>
+ 
+*The Priest stands and says*
+ 
+Almighty God have mercy on you, forgive you all your sins
+through our Lord Jesus Christ, strengthen you in all
+goodness, and by the power of the Holy Spirit keep you in
+eternal life.  =Amen.=
+ 
+*A deacon or lay person using the preceding form remains kneeling, and
+substitutes "us" for "you" and "our" for "your."
+ 
+ 
+<The Invitatory and Psalter>
+ 
+*All stand*
+ 
+*Officiant* Lord, open our lips.
+*People*  And our mouth shall proclaim your praise.
+ 
+*Officiant and People*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: as
+it was in the beginning, is now, and will be for ever.  Amen.
+ 
+*Except in Lent, add*  Alleluia.
+ 
+ 
+*Then follows one of the Invitatory Psalms, Venite or Jubilate.*
+ 
+*One of the following Antiphons may be sung or said with the Invitatory
+Psalm*
+ 
+ 
+*In Advent*
+ 
+Our King and Savior now draws near:  Come let us adore him.
+ 
+ 
+*On the Twelve Days of Christmas*
+ 
+Alleluia.  To us a child is born:  Come let us adore him.  Alleluia.
+ 
+<page 81>
+ 
+*From the Epiphany through the Baptism of Christ, and on the Feasts of
+the Transfiguration and Holy Cross*
+ 
+The Lord has shown forth his glory:  Come let us adore him.
+ 
+ 
+*In Lent*
+ 
+The Lord is full of compassion and mercy:  Come let us
+adore him.
+ 
+ 
+*From Easter Day until the Ascension*
+ 
+Alleluia.  The Lord is risen indeed:  Come let us adore him.
+Alleluia.
+ 
+ 
+*From Ascension Day until the Day of Pentecost*
+ 
+Alleluia.  Christ has ascended into heaven:  Come let us adore him.
+Alleluia.
+ 
+ 
+*On the Day of Pentecost*
+ 
+Alleluia.  The Spirit of the Lord renews the face of the earth:
+Come let us adore him.  Alleluia.
+ 
+ 
+*On Trinity Sunday*
+ 
+Father, Son, and Holy Spirit, one God:  Come let us adore him.
+ 
+ 
+*On other Sundays and weekdays*
+ 
+The earth is the Lord's for he made it:  Come let us adore him.
+ 
+*or this*
+ 
+Worship the Lord in the beauty of his holiness:  Come let us
+adore him.
+ 
+*or this*
+ 
+The mercy of the Lord is everlasting:  Come let us adore him.
+ 
+<page 82>
+ 
+*The Alleluias in the following Antiphons are used only in Easter
+Season.*
+ 
+ 
+*On Feasts of the Incarnation*
+ 
+[Alleluia] The Word was made flesh and dwelt among us:
+Come let us adore him. [Alleluia]
+ 
+ 
+*On all Saints and other Major Saints' Days*
+ 
+[Alleluia.]  The Lord is glorious in his saints:  Come let us
+adore him.  [Alleluia.]
+ 
+ 
+<Venite>  =Psalm 95:1-7=
+ 
+Come let us sing to the Lord; *
+ let us shout for joy to the Rock of our salvation.
+ 
+Let us come before his presence with thanksgiving *
+ and raise a loud shout to him with psalms.
+ 
+ 
+For the Lord is a great God, *
+ and a great King above all gods.
+ 
+In his hand are the caverns of the earth, *
+ and the heights of the hills are his also.
+ 
+The sea is his, for he made it, *
+ and his hands have molded the dry land.
+ 
+ 
+Come, let us bow down, and bend the knee, *
+ and kneel before the Lord our Maker.
+ 
+For he is our God,
+and we are the people of his pasture and the sheep of his hand. *
+ Oh, that today you would hearken to his voice!
+ 
+*or Psalm 95, page 724.*
+ 
+ 
+<Jubilate>  =Psalm 100=
+ 
+Be joyful in the Lord, all you lands; *
+ serve the Lord with gladness
+ and come before his presence with song.
+ 
+<page 83>
+ 
+Know this:  The Lord himself is God; *
+ he himself has made us, and we are his;
+ we are his people and the sheep of his pasture.
+ 
+Enter his gates with thanksgiving;
+go into his courts with praise; *
+ give thanks to him and call upon his Name.
+ 
+For the Lord is good;
+his mercy is everlasting; *
+ and his faithfulness endures from age to age.
+ 
+*In Easter Week, in place of an Invitatory Psalm, the following is sung
+or said.  It may also be used daily until the Day of Pentecost.*
+ 
+ 
+<Christ our Passover>  =Pascha nostrum=
+ 
+=1 Corinthians 5:7-8; Romans 6:9-11; 1 Corinthians 15:20-22=
+ 
+Alleluia.
+Christ our Passover has been sacrificed for us; *
+ therfore let us keep the feast,
+ 
+Not with the old leaven, the leaven of malice and evil, *
+ but with the unleavened bread of sincerity and truth.  Alleluia.
+ 
+ 
+Christ being raised from the dead will never die again; *
+ death no longer has dominion over him.
+ 
+The death that he died, he died to sin, once for all; *
+ but the life he lives, he lives to God.
+ 
+So also consider yourselves dead to sin, *
+ and alive to God in Jesus Christ our Lord.  Alleluia.
+ 
+ 
+Christ has been raised from the dead, *
+ the first fruits of those who have fallen asleep.
+ 
+For since by a man came death, *
+ by a man has come also the resurrection of the dead.
+ 
+For as in Adam all die, *
+ so also in Christ shall all be made alive.  Alleluia.
+ 
+<page 84>
+ 
+*Then follows*
+ 
+<The Psalm or Psalms Appointed>
+ 
+*At the end of the Psalms is sung or said*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<The Lessons>
+ 
+*One or two lessons, as appointed, are read, the Reader first saying
+ 
+A Reading (Lesson) from &mdash..
+ 
+*A citation giving chapter and verse may be added.*
+ 
+ 
+*After each Lesson the Reader may say*
+ 
+The Word of the Lord.
+ 
+*Answer* Thanks be to God.
+ 
+*Or the Reader may say* Here ends the Lesson (Reading).
+ 
+ 
+*silence may be kept after each Reading.  One of the following
+Canticles, or one of those on pages 47-52 (Canticles 1-7), is sung or
+said after each Reading.  If three lessons are used, the Lesson from the
+Gospel is read after the second Canticle.*
+ 
+<page 85>
+ 
+ 
+<8 The Song of Moses>  =Cantemus Domino=
+ 
+=Exodus 15:1-6, 11-13, 17-18=
+ 
+*Especially suitable for use in Easter Season*
+ 
+I will sing to the Lord, for he is lofty and uplifted; *
+ the horse and its rider has he hurled into the sea.
+ 
+The Lord is my strength and my refuge; *
+ the Lord has become my Savior.
+ 
+This is my God and I will praise him, *
+ the God of my people and I will exalt him.
+ 
+The Lord is a mighty warrior; *
+ Yahweh is his Name.
+ 
+The chariots of Pharoah and his army has he hurled into the sea; *
+ the finest of those who bear armor have been
+/drowned in the Red Sea.
+ 
+The fathomless deep has overwhelmed them; *
+ they sank into the depths like a stone.
+ 
+Your right hand, O Lord, is glorious in might; *
+ your right hand, O Lord, has overthrown the enemy.
+ 
+Who can be compared with you, O Lord, among the gods? *
+ who is like you, glorious in holiness,
+ awesome in renown, and worker of wonders?
+ 
+You stretched forth your right hand; *
+ the earth swallowed them up.
+ 
+With your constant love you led the people you redeemed; *
+ with your might you brought them in safety to
+/your holy dwelling.
+ 
+You will bring them in and plant them *
+ on the mount of your possession,
+ 
+The resting-place you have made for yourself, O Lord, *
+ the sanctuary, O Lord, that your hand has established.
+ 
+The Lord shall reign *
+ for ever and for ever.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+<page 86>
+ 
+ 
+<Canticle 9> The First Song of Isaiah  =Ecce, Deus=
+ 
+=Isaiah 12:2-6=
+ 
+Surely, it is God who saves me; *
+ I will trust in him and not be afraid.
+ 
+For the Lord is my stronghold and my sure defense, *
+ and he will be my Savior.
+ 
+Therefore you shall draw water with rejoicing *
+ from the springs of salvation.
+ 
+And on that day you shall say, *
+ Give thanks to the Lord and call upon his Name;
+ 
+Make his deeds known among the peoples; *
+ see that they remember that his Name is exalted.
+ 
+Sing praises of the Lord, for he has done great things, *
+ and this is known in all the world.
+ 
+Cry aloud, inhabitants of Zion, ring out your joy, *
+ for the great one in the midst of you is the Holy One of Israel.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 10>  The Second Song of Isaiah =Quaerite Dominum=
+ 
+=Isaiah 55:6-11=
+ 
+Seek the Lord while he wills to be found; *
+ call upon him when he draws near.
+ 
+Let the wicked forsake their ways *
+ and the evil ones their thoughts;
+ 
+And let them turn to the Lord, and he will have compassion, *
+ and to our God, for he will richly pardon.
+ 
+For my thoughts are not your thoughts, *
+ nor your ways my ways, says the Lord.
+ 
+For as the heavens are higher than the earth, *
+ so are my ways higher than your ways,
+ and my thoughts than your thoughts.
+ 
+<page 87>
+ 
+For as rain and snow fall from the heavens *
+ and return not again, but water the earth,
+ 
+Bringing forth life and giving growth, *
+ seed for sowing and bread for eating,
+ 
+So is my word that goes forth from my mouth; *
+ it will not return to me empty;
+ 
+But it will accomplish that which I have purposed, *
+ and prosper in that for which I sent it.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+<Canticle 11>  The Third Song of Isaiah  =Surge, illuminare=
+ 
+=Isaiah 60:1-3, 11a, 14c, 18-19=
+ 
+Arise, shine, for your light has come, *
+ and the glory of the Lord has dawned upon you.
+ 
+For behold, darkness covers the land; *
+ deep gloom enshrouds the peoples.
+ 
+But over you the Lord will rise, *
+ and his glory will appear upon you.
+ 
+Nations will stream to your light, *
+ and kings to the brightness of your dawning.
+ 
+Your gates will always be open; *
+ by day or night they will never be shut.
+ 
+They will call you, The City of the Lord, *
+ The Zion of the Holy One of Israel.
+ 
+Violence will no more be heard in your land, *
+ ruin or destruction within your borders.
+ 
+You will call your walls, Salvation, *
+ and all your portals, Praise.
+ 
+The sun will no more be your light by day; *
+ by night you will not need the brightness of the moon.
+ 
+<page 88>
+ 
+The Lord will be your everlasting light, *
+ and your God will be your glory.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 12>  A Song of Creation  =Benedicite, omnia opera Domini=
+ 
+=Song of the Three Young Men, 35-65=
+ 
+*One or more sections of this Canticle may be used.  Whatever the
+selection, it begins with the Invocation and concludes with the
+Doxology.*
+ 
+=Invocation=
+ 
+Glorify the Lord, all you works of the Lord, *
+ praise him and highly exalt him for ever.
+ 
+In the firmament of his power, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+=I  The Cosmic Order=
+ 
+Glorify the Lord, you angels and all powers of the Lord, *
+ O heavens and all waters above the heavens.
+ 
+Sun and moon and stars of the sky, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+Glorify the Lord, every shower of rain and fall of dew, *
+ all winds and fire and heat.
+ 
+Winter and Summer, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+Glorify the Lord, O chill and cold, *
+ drops of dew and flakes of snow>
+ 
+Frost and cold, ice and sleet, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+Glorify the Lord, O nights and days, *
+ O shining light and enfolding dark.
+ 
+Storm clouds and thunderbolts, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+=II  The Earth and its Creatures=
+ 
+Let the earth glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+Glorify the Lord, O mountains and hills,
+and all that grows upon the earth, *
+ praise him and highly exalt him for ever.
+ 
+ 
+Glorify the Lord, O springs of water, seas, and streams, *
+ O whales and all that move in the waters.
+ 
+All birds of the air, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+Glorify the Lord, O beasts of the wild, *
+ and all you flocks and herds.
+ 
+O men and women everywhere, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+=III  The People of God=
+ 
+Let the people of God glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+Glorify the Lord, O priests and servants of the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+Glorify the Lord, O spirits and souls of the righteous, *
+ praise him and highly exalt him for ever.
+ 
+You that are holy and humble of heart, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+<page 90>
+ 
+=Doxology=
+ 
+Let us glorify the Lord:  Father, Son, and Holy Spirit; *
+ praise him and highly exalt him for ever.
+ 
+In the firmament of his power, glorify the Lord, *
+ praise him and highly exalt him for ever.
+ 
+ 
+<Canticle 13>  =Benedictus es, Domine=
+ 
+=Song of the Three Young Men, 29-34=
+ 
+Glory to you, Lord God of our fathers; *
+ you are worthy of praise; glory to you.
+ 
+Glory to you for the radiance of you holy Name; *
+ we will praise you and highly exalt you for ever.
+ 
+ 
+Glory to you in the splendor of you temple; *
+ on the throne of your majesty, glory to you.
+ 
+Glory to you, seated between the Cherubim; *
+ we will praise you and highly exalt you for ever.
+ 
+ 
+Glory to you, beholding the depths; *
+ in the high vault of heaven, glory to you.
+ 
+Glory to you, Father, Son, and Holy Spirit; *
+ we will praise you and highly exalt you for ever.
+ 
+ 
+<Canticle 14>  A Song of Penitence  =Kyrie Pantokrator=
+ 
+=Prayer of Manasseh 1-2, 4, 6-7, 11-15=
+ 
+*Especially suitable in Lent, and on other penitential occasions*
+ 
+O Lord and Ruler of the hosts of heaven, *
+ God of Abraham, Isaac, and Jacob,
+ and of all their righteous offspring:
+ 
+You made the heavens and the earth, *
+ with all their vast array.
+ 
+<page 91>
+ 
+All things quake with fear at your presence; *
+ they tremble because of your power.
+ 
+But your merciful promise is beyond all measure; *
+ it surpasses all that our minds can fathom.
+ 
+O Lord, you are full of compassion, *
+ long-suffering, and abounding in mercy.
+ 
+You hold back your hand; *
+ you do not punish as we deserve.
+ 
+In your great goodness, Lord,
+you have promised forgiveness to sinners, *
+ that they may repent of their sin and be saved.
+ 
+And now, O Lord, I bend the knee of my heart, *
+ and make my appeal, sure of your gracious goodness.
+ 
+I have sinned, O Lord, I have sinned, *
+ and I know my wickedness only too well.
+ 
+Therefore I make this prayer to you: *
+ Forgive me, Lord, forgive me.
+ 
+Do not let me perish in my sin, *
+ nor condemn me to the depths of the earth.
+ 
+For you, O Lord, are the God of those who repent, *
+ and in me you will show forth your goodness.
+ 
+Unworthy as I am, you will save me,
+in accordance with your great mercy, *
+ and I will praise you without ceasing all the days of my life.
+ 
+For all the powers of heaven sing your praises, *
+ and yours is the glory to ages of ages.  Amen.
+ 
+ 
+<Canticle 15>  The Song of Mary  =Magnificat=
+ 
+=Luke 1:46-55=
+ 
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior; *
+ for he has looked with favor on his lowly servant.
+ 
+<page 92>
+ 
+From this day all generations will call me blessed: *
+ the Almighty has done great things for me,
+ and holy is his Name.
+ 
+He has mercy on those who fear him *
+ in every generation.
+ 
+He has shown the strength of his arm, *
+ he has scattered the proud in their conceit.
+ 
+He has cast down the mighty from their thrones, *
+ and has lifted up the lowly.
+ 
+He has filled the hungry with good things, *
+ and the rich he has sent away empty.
+ 
+He has come to the help of his servant Israel, *
+ for he has remembered his promise of mercy,
+ 
+The promise he made to our fathers, *
+ to Abraham and his children for ever.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 16>  The Song of Zechariah  =Benedictus Dominus Deus=
+ 
+=Luke 1: 68-79=
+ 
+Blessed be the Lord, the God of Israel; *
+ he has come to his people and set them free.
+ 
+He has raised up for us a mighty savior, *
+ born of the house of his servant David.
+ 
+Through his holy prophets he promised of old,
+that he would save us from our enemies, *
+ from the hands of all who hate us.
+ 
+He promised to show mercy to our fathers *
+ and to remember his holy covenant.
+ 
+This was the oath he swore to our father Abraham, *
+ to set us free from the hands of our enemies,
+ 
+Free to worship him without fear, *
+ holy and righteous in his sight
+ all the days of our life.
+ 
+<page 93>
+ 
+You, my child, shall be called the prophet of the Most High, *
+ for you will go before the Lord to prepare his way,
+ 
+To give his people knowledge of salvation *
+ by the forgiveness of their sins.
+ 
+In the tender compassion of our God *
+ the dawn from on high shall break upon us,
+ 
+To shine on those who dwell in darkness and the shadow of death, *
+and to guide our feet into the way of peace.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 17>  The Song of Simeon  =Nunc Dimittis=
+ 
+=Luke 2:29-32=
+ 
+Lord, you now have set your servant free *
+ to go in peace as you have promised;
+ 
+For these eyes of mine have seen the Savior, *
+ whom you have prepared for all the world to see:
+ 
+A Light to enlighten the nations, *
+ and the glory of your people Israel.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 18>  A Song to the Lamb  =Dignus es=
+ 
+=Revelation 4:11, 5:9-10, 13=
+ 
+Splendor and honor and kingly power *
+ are yours by right, O Lord our God,
+ 
+For you created everything that is, *
+ and by your will they were created and have their being;
+ 
+<page 94>
+ 
+And yours by right, O Lamb that was slain, *
+ for with your blood you have redeemed for God,
+ 
+From every family, language, people, and nation, *
+ a kingdom of priests to serve our God.
+ 
+ 
+And so, to him who sits upon the throne, *
+ and to Christ the Lamb,
+ 
+Be worship and praise, dominion and splendor, *
+ for ever and for evermore.
+ 
+ 
+<Canticle 19>  The Song of the Redeemed  =Magna et mirabilia=
+ 
+=Revelation 15:3-4=
+ 
+O ruler of the universe, Lord God,
+great deeds are they that you have done, *
+ surpassing human understanding.
+ 
+Your ways are ways of righteousness and truth, *
+ O King of all the ages.
+ 
+ 
+Who can fail to do you homage, Lord,
+and sing the praises of your Name? *
+ for you only are the Holy One.
+ 
+All nations will draw near and fall down before you, *
+ because your just and holy works have been revealed.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<Canticle 20>  Glory to God  =Gloria in excelsis=
+ 
+Glory to God in the highest,
+ and peace to his people on earth.
+ 
+Lord God, heavenly King,
+almighty God and Father,
+<page 95>
+ we worship you, we give you thanks,
+ we praise you for your glory.
+ 
+Lord Jesus Christ, only Son of the Father,
+Lord God, Lamb of God,
+you take away the sin of the world:
+ have mercy on us;
+ 
+you are seated at the right hand of the Father:
+ receive our prayer.
+ 
+For you alone are the Holy One,
+you alone are the Lord,
+you alone are the Most High,
+ Jesus Christ,
+ with the Holy Spirit,
+ in the glory of God the Father.  Amen.
+ 
+ 
+<Canticle 21>  You are God  =Te Deum laudamus=
+ 
+You are God:  we praise you;
+You are the Lord; we acclaim you;
+You are the eternal Father:
+All creation worships you.
+To you all angels, all the powers of heaven,
+Cherubim and Seraphim, sing in endless praise:
+ Holy, holy, holy Lord, God of power and might,
+ heaven and earth are full of your glory.
+ 
+The glorious company of apostles praise you.
+The noble fellowship of prophets praise you.
+The white-robed army of martyrs praise you.
+Throughout the world the holy Church acclaims you;
+ Father, of majesty unbounded,
+ your true and only Son, worthy of all worship,
+ and the Holy Spirit, advocate and guide.
+ 
+<page 96>
+ 
+You, Christ, are the king of glory,
+the eternal Son of the Father.
+When you became man to set us free
+you did not shun the Virgin's womb.
+You overcame the sting of death
+and opened the kingdom of heaven to all believers.
+You are seated at God's right hand in glory.
+We believe that you will come and be our judge.
+ Come then, Lord, and help your people,
+ bought with the price of your own blood,
+ and bring us with your saints
+ to glory everlasting.
+ 
+<The Apostles' Creed>
+ 
+*Officiant and People together, all standing*
+ 
+I believe in God, the Father almighty,
+ creator of heaven and earth.
+ 
+I believe in Jesus Christ, his only son, our Lord.
+ He was conceived by the power of the Holy Spirit
+/and born of the Virgin Mary.
+ He suffered under Pontius Pilate,
+/was crucified, died, and was buried.
+ He descended to the dead.
+ On the third day he rose again.
+ He ascended into heaven,
+/and is seated at the right hand of the Father.
+ He will come again to judge the living and the dead.
+ 
+I believe in the Holy Spirit,
+ the holy catholic Church,
+ the communion of saints,
+ the forgiveness of sins,
+ the resurrection of the body,
+ and the life everlasting.  Amen.
+ 
+<page 97>
+ 
+<The Prayers>
+ 
+*The People stand or kneel*
+ 
+*Officiant*  The Lord be with you.
+ 
+*People*  And also with you.
+ 
+*Officiant*  Let us pray.
+ 
+*Officiant and People*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+/on earth as it is in heaven.
+ 
+Give us this day our daily bread.
+And forgive us our trespasses,
+ as we forgive those
+/who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+<parallel column>
+ 
+Our Father in heaven,
+ hallowed be you Name,
+ your kingdom come,
+ your will be done,
+/on earth as in heaven.
+ 
+Give us today our daily bread.
+Forgive us our sins
+ as we forgive those
+/who sin against us.
+ 
+Save us from the time of trial,
+ and deliver us from evil.
+ 
+For the kingdom, the power,
+ and the glory are yours,
+ now and for ever.  Amen.
+ 
+*Then follows one of these sets of Suffrages*
+ 
+<Suffrages A>
+ 
+&V.  Show us your mercy, O Lord;
+ 
+&R.  And grant us your salvation.
+ 
+&V.  Clothe your ministers with righteousness;
+ 
+&R.  Let your people sing with joy.
+ 
+&V.  Give peace, O Lord, in all the world;
+ 
+&R.  For only in you can we live in safety.
+ 
+<page 98>
+ 
+&V.  Lord, keep this nation under your care;
+ 
+&R.  And guide us in the way of justice and truth.
+ 
+&V.  Let your way be known upon earth;
+ 
+&R.  Your saving health among all nations.
+ 
+&V.  Let not the needy, O Lord, be forgotten;
+ 
+&R.  Nor the hope of the poor be taken away.
+ 
+&V.  Create in us clean hearts, O God;
+ 
+&R.  And sustain us by your Holy Spirit.
+ 
+<Suffrages B>
+ 
+&V.  Save your people, Lord, and bless your inheritance;
+ 
+&R.  Govern and uphold them, now and always.
+ 
+&V.  Day by day we bless you;
+ 
+&R.  We praise your name for ever.
+ 
+&V.  Lord, keep us from all sin today;
+ 
+&R.  Have mercy on us, Lord, have mercy.
+ 
+&V.  Lord, show us your love and mercy;
+ 
+&R.  For we put our trust in you.
+ 
+&V.  In you, Lord, is our hope;
+ 
+&R.  And we shall never hope in vain.
+ 
+*The Officiant then says one or more of the following Collects*
+ 
+*The Collect of the Day*
+ 
+*A Collect for Sundays*
+ 
+O God, you make us glad with the weekly remembrance of
+the glorious resurrection of you Son our Lord:  Give us this
+day such blessing through our worship of you, that the week
+to come may be spent in your favor; through Jesus Christ our
+Lord.  =Amen.=
+ 
+<page 99>
+ 
+*A Collect for Fridays*
+ 
+Almighty God, whose most dear Son went not up to joy but
+first he suffered pain, and entered not into glory before he
+was crucified:  Mercifully grant that we, walking in the way
+of the cross, may find it none other than the way of life and
+peace; through Jesus Christ your Son our Lord.  =Amen.=
+ 
+*A Collect for Saturdays*
+ 
+Almighty God, who after the creation of the world rested
+from all you works and sanctified a day of rest for all your
+creatures:  Grant that we, putting away all earthly anxieties,
+may be duly prepared for the service of your sanctuary, and
+that our rest here upon earth may be a preparation for the
+eternal rest promised to your people in heaven; through Jesus
+Christ our Lord.  =Amen.=
+ 
+*A Collect for the Renewal of Life*
+ 
+O God, the King eternal, whose light divides the day from the
+night and turns the shadow of death into the morning:  Drive
+far from us all wrong desires, incline our hearts to keep your
+law, and guide our feet into the way of peace; that, having
+done your will with cheerfulness during the day, we may,
+when night comes, rejoice to give you thanks; through Jesus
+Christ our Lord.  =Amen.=
+ 
+*A Collect for Peace*
+ 
+O God, the author of peace and lover of concord, to know
+you is eternal life and to serve you is perfect freedom:  Defend
+us, your humble servants, in all assaults of our enemies; that
+we, surely trusting in your defense, may not fear the power of
+any adversaries; through the might of Jesus Christ our Lord,
+=Amen.=
+ 
+<page 100>
+ 
+*A Collect for Grace*
+ 
+Lord God, almighty and everlasting Father, you have
+brought us in safety to this new day:  Preserve us with your
+mighty power, that we may not fall into sin, nor be overcome
+by adversity; and in all we do, direct us to the fulfilling of
+your purpose; through Jesus Christ our Lord.  =Amen.=
+ 
+*A Collect for Guidance*
+ 
+Heavenly Father, in you we live and move and have our
+being:  We humbly pray you so to guide and govern us by
+your Holy Spirit, that in all the cares and occupations of our
+life we may not forget you, but may remember that we are
+ever walking in your sight; through Jesus Christ our Lord.
+=Amen.=
+ 
+*Then, unless the Eucharist or a form of general intercession is to
+follow, one of these prayer for mission is added*
+ 
+Almighty and everlasting God, by whose Spirit the whole
+body of your faithful people is governed and sanctified:
+Receive our supplications and prayers which we offer before
+your for all members of you holy Church, that in their
+vocation and ministry they may truly and devoutly serve you;
+through our Lord and Savior Jesus Christ.  =Amen.=
+ 
+*or this*
+ 
+O God, you have made of one blood all the peoples of the
+earth, and sent your blessed Son to preach peace to those
+who are far off and to those who are near:  Grant that people
+everywhere may seek after you and find you; bring the
+nations into your fold; pour out your Spirit upon all flesh,
+and hasten the coming of your kingdom; through Jesus
+Christ our Lord.  =Amen.=
+ 
+*or the following*
+ 
+<page 101>
+ 
+Lord Jesus Christ, you stretched out your arms of love on
+the hard wood of the cross that everyone might come within
+the reach of your saving embrace:  So clothe us in your Spirit
+that we, reaching forth our hands in love, may bring those
+who do not know you to the knowledge and love of you; for
+the honor of your Name.  =Amen.=
+ 
+*Here may be sung a hymn or anthem.*
+ 
+*Authorized intercessions and thanksgivings may follow.*
+ 
+*Before the close of the Office one or both of the following may be
+used*
+ 
+*The General Thanksgiving*
+ 
+*Officiant and People*
+ 
+Almighty God, Father of all mercies,
+we your unworthy servants give you humble thanks
+for all your goodness and loving-kindness
+to us and to all whom you have made.
+We bless you for our creation, preservation,
+and all the blessings of this life;
+but above all for your immeasurable love
+in the redemption of the world by our Lord Jesus Christ;
+for the means of grace, and for the hope of glory.
+And, we pray, give us such an awareness of your mercies,
+that with truly thankful hearts we may show forth your praise,
+not only with our lips, but in our lives,
+by giving up our selves to your service,
+and by walking before you
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with you and the Holy Spirit,
+be honor and glory throughout all ages.  =Amen.=
+ 
+<page 102>
+ 
+*A Prayer of St. Chrysostom*
+ 
+Almighty God, you have given us grace at this time with one
+accord to make our common supplication to you; and you
+have promised through your well-beloved Son that when two
+or three are gathered together in his Name you will be in the
+midst of them:  Fulfill now, O Lord, our desires and petitions
+as may be best for us; granting us in this world knowledge of
+your truth, and in the age to come life everlasting.  =Amen.=
+ 
+*Then may be said*
+ 
+Let us bless the Lord.
+=Thanks be to God.=
+ 
+*From Easter Day through the Day of Pentecost "Alleluia, alleluia" may
+be added to the preceding versicle and response.*
+ 
+*The Officiant may then conclude with one of the following*
+ 
+The grace of our Lord Jesus Christ, and the love of God, and
+the fellowship of the Holy Spirit, be with us all evermore.
+=Amen.=  =2 Corinthians 13:14=
+ 
+May the God of hope fill us with all joy and peace in
+believing through the power of the Holy Spirit.  =Amen.=
+=Romans 15:13=
+ 
+Glory to God whose power, working in us, can do infinitely
+more than we can ask or imagine:  Glory to him from
+generation to generation in the Church, and in Christ Jesus
+for ever and ever.  =Amen.=  =Ephesians 3:20,21=
+ 
+<page 103>
+ 
+ 
+ 
+<An Order of Service
+for Noonday>
+ 
+*Officiant*  O God, make speed to save us.
+ 
+*People*  O Lord, make haste to help us.
+ 
+*Officiant and People*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: as
+it was in the beginning, is now, and will be for ever.  Amen.
+ 
+*Except in Lent, add*  Alleluia.
+ 
+*A suitable hymn may be sung.*
+ 
+*One or more of the following Psalms is sung or said.  Other suitable
+selections include Psalms 19,67, one or more sections of Psalm 119, or a
+selection from Psalms 120 through 133.*
+ 
+ 
+<Psalm 119>
+ 
+105  Your word is a lantern to my feet *
+ and a light upon my path.
+ 
+106  I have sworn and am determined *
+ to keep your righteous judgments.
+ 
+<page 104>
+ 
+107  I am deeply troubled; *
+ preserve my life, O Lord, according to your word.
+ 
+108  Accept, O LORD, the willing tribute of my lips, *
+ and teach me your judgments.
+ 
+109  My life is always in my hand, *
+ yet I do not forget your law.
+ 
+110  The wicked have set a trap for me, *
+ but I have not strayed from your commandments.
+ 
+111  Your decrees are my inheritance for ever; *
+ truly, they are the joy of my heart.
+ 
+112  I have applied my heart to fulfill your statues *
+ for ever and to the end.
+ 
+ 
+<Psalm 121>  =Levavi oculos=
+ 
+1  I lift up my eyes to the hills; *
+ from where is my help to come?
+ 
+2  My help comes from the LORD, *
+ the maker of heaven and earth.
+ 
+3  He will not let your foot be moved *
+ and he who watches over you will not fall asleep.
+ 
+4  Behold, he who keeps watch over Israel *
+ shall neither slumber nor sleep;
+ 
+5  The LORD himself watches over you; *
+ the LORD is your shade at your right hand,
+ 
+6  So that the sun shall not strike you by day, *
+ nor the moon by night.
+ 
+7  The LORD shall preserve you from all evil; *
+ it is he who shall keep you safe.
+ 
+<page 105>
+ 
+8  The LORD shall watch over your going out and your coming in, *
+ from this time forth for evermore.
+ 
+ 
+<Psalm 126>  =In convertendo=
+ 
+1  When the LORD restored the fortunes of Zion, *
+ then were we like those who dream.
+ 
+2  Then was our mouth filled with laughter, *
+ and our tongue with shouts of joy.
+ 
+3  Then they said among the nations, *
+ "The LORD has done great things for them."
+ 
+4  The LORD has done great things for us, *
+ and we are glad indeed.
+ 
+5  Restore our fortunes, O LORD, *
+ like the watercourses of the Negev.
+ 
+6  Those who sowed with tears *
+ will reap with songs of joy.
+ 
+7  Those who go out weeping, carrying the seed, *
+ will come again with joy, shouldering their sheaves.
+ 
+ 
+*At the end of the Psalms is sung or said*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+*One of the following, or some other suitable passage of Scripture, is
+read*
+ 
+The love of God has been poured into our hearts through the
+Holy Spirit that has been given to us.  =Romans 5:5=
+ 
+*People*  Thanks be to God.
+ 
+*or the following*
+ 
+<page 106>
+ 
+If anyone is in Christ he is a new creation; the old has passed
+away, behold the new has come.  All this is from God, who
+through Christ reconciled us to himself and gave us the ministry
+of reconciliation.  =2 Corinthians 5:17-18=
+ 
+*People*  Thanks be to God.
+ 
+*or this*
+ 
+From the rising of the sun to its setting my Name shall be
+great among the nations, and in every place incense shall be
+offered to my Name, and a pure offering; for my Name shall be
+great among the nations, says the Lord of Hosts.  =Malachi 1:11=
+ 
+*People*  Thanks be to God.
+ 
+*A meditation, silent or spoken, may follow.*
+ 
+ 
+*The Officiant then begins the Prayers*
+ 
+Lord, have mercy.
+ 
+=Christ, have mercy.=
+ 
+Lord, have mercy.
+ 
+*Officiant and People*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+/on earth as it is in heaven.
+ 
+Give us this day our daily bread.
+And forgive us our trespasses,
+ as we forgive those
+/who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+<parallel column>
+ 
+Our Father in heaven,
+ hallowed be you Name,
+ your kingdom come,
+ your will be done,
+/on earth as in heaven.
+ 
+Give us today our daily bread.
+Forgive us our sins
+ as we forgive those
+/who sin against us.
+ 
+Save us from the time of trial,
+ and deliver us from evil.
+ 
+For the kingdom, the power,
+ and the glory are yours,
+ now and for ever.  Amen.
+ 
+<page 107>
+ 
+ 
+*Officiant*  Lord, hear our prayer;
+ 
+*People*  And let our cry come to you.
+ 
+*Officiant*  Let us pray.
+ 
+*The Officiant then says one of the following Collect.  If desired, the
+Collect of the Day may be used.*
+ 
+Heavenly Father, send your Holy Spirit into our hearts, to
+direct and rule us according to your will, to comfort us in all
+our afflictions, to defend us from all error, and to lead us into
+all truth; through Jesus Christ our Lord.  =Amen.=
+ 
+Blessed Savior, at this hour you hung upon the cross,
+stretching out your loving arms:  Grant that all the peoples of
+the earth may look to you and be saved;  for your tender
+mercies' sake.  =Amen.=
+ 
+Almighty Savior, who at noonday called your servant Saint
+Paul to be an apostle to the Gentiles:  We pray you to illumine
+the world with the radiance of your glory, that all nations
+may come and worship you; for you live and reign for ever
+and ever.  =Amen.=
+ 
+Lord Jesus Christ, you said to your apostles, "Peace I give to
+you; my peace I leave with you:" Regard not our sins,
+but the faith of your Church, and give to us the peace and
+unity of that heavenly city, where with the Father and the
+Holy Spirit you live and reign, now and for ever.  =Amen.=
+ 
+*Free intercessions may be offered.*
+ 
+ 
+*The service concludes as follows*
+ 
+*Officiant*  Let us bless the Lord.
+ 
+*People*  Thanks be to God.
+ 
+<page 108>
+ 
+ 
+<Concerning the Service>
+ 
+*This Order provides a form of evening service or vespers for use on
+suitable occasions in the late afternoon or evening.  It may be used as
+a complete rite in place of Evening Prayer, or as the introduction to
+Evening Prayer or some other service, or as the prelude to an evening
+meal or other activity.  It is appropriate also for use in private
+houses.*
+ 
+*Any part or parts of this service may be lead by lay persons.  A priest
+or deacon, when presiding, should read the Prayer for Light, and the
+Blessing or Dismissal at the end.  The bishop, when present, should give
+the Blessing.*
+ 
+*This order is not appropriate for use on Monday, Tuesday, or Wednesday
+in Holy Week, or on Good Friday.  Easter Eve has its own form for the
+Lighting of the Paschal Candle.*
+ 
+*For the Short Lesson at the beginning of the service, any one of the
+following is also appropriate, especially for the seasons suggested:*
+ 
+<column 1>
+ 
+Isaiah 60:19-20 (Advent)
+ 
+Luke 12:35-37 (Advent)
+ 
+John 1:1-5 (Christmas)
+ 
+Isaiah 60:1-3 (Epiphany)
+ 
+1 John 1:5-7 (Lent)
+ 
+John 12:35-36a (Lent)
+ 
+<column 2>
+ 
+Revelation 21:10,22-24 (Easter)
+ 
+Psalm 36:5-9 (Ascension)
+ 
+Joel 2:28-30 (Whitsunday)
+ 
+Colossians 1:9,11-14 (Saints' Days)
+ 
+1 Peter 2:9 (Saints' Days)
+ 
+Revelation 22:1,4-5 (Saints' Days)
+ 
+*Any of the prayers in contemporary language may be adapted to
+traditional language by changing the pronouns and the corresponding
+verbs.*
+ 
+*Additional Directions are on page 142.*
+ 
+<page 109>
+ 
+ 
+ 
+<An Order of Worship
+for the Evening>
+ 
+*The church is dark, or partially so, when the service is to begin.*
+ 
+ 
+*All stand, and the Officiant greets the people with these words.*
+ 
+Light and Peace, in Jesus Christ our Lord.
+ 
+*People*  Thanks be to God.
+ 
+ 
+*In place of the above, from Easter Day through the Day of Pentecost*
+ 
+*Officiant*  Alleluia.  Christ is risen.
+*People*  The Lord is risen indeed.  Alleluia.
+ 
+ 
+*In Lent and on other penitential occasions*
+ 
+*Officiant*  Bless the Lord who forgives all our sins;
+ 
+*People*  His mercy endures for ever.
+ 
+ 
+*One of the following, or some other Short Lesson of Scripture
+appropriate to the occasion or to the season, may then be read*
+ 
+Jesus said, "You are the light of the world.  A city built on a
+hill cannot be hid.  No one lights a lamp to put it under a
+bucket, but on a lamp-stand where it gives light for everyone
+in the house.  And you, like the lamp, must shed light among
+your fellow men, so that they may see the deed you do, and
+give glory to your Father in heaven."  =Matthew 5:14-16=
+ 
+<page 110>
+ 
+It is not ourselves that we proclaim; we proclaim Christ
+Jesus as Lord, and ourselves as your servants, for Jesus' sake.
+For the same God who said, "Out of darkness let light shine,"
+has caused his light to shine within us, to give the light of
+revelation--the revelation of the glory of God in the face of
+Jesus Christ.  =2 Corinthians 4:5-6=
+ 
+If I say, "Surely the darkness will cover me, and the light
+around me turn to night," darkness is not dark to you, O
+Lord; the night is as bright as the day; darkness and light to
+you are both alike.  =Psalm 139:10-11=
+ 
+ 
+*The Officiant then says the Prayer for Light, using any one of the
+following for some other suitable prayer, first saying*
+ 
+Let us pray.
+ 
+Almighty God, we give you thanks for surrounding us, as
+daylight fades, with the brightness of the vesper light; and we
+implore you of your great mercy that, as you enfold us with
+the radiance of this light, so you would shine into our hearts
+the brightness of your Holy Spirit; through Jesus Christ our
+Lord.  =Amen.=
+ 
+Grant us, Lord, the lamp of charity which never fails, that it
+may burn in us and shed its light on those around us, and
+that by its brightness we may have a vision of that holy City,
+where dwells the true and never-failing Light, Jesus Christ
+our Lord.  =Amen.=
+ 
+O Lord God Almighty, as you have taught us to call the
+evening, the morning, and the noonday one day; and have
+made the sun to know its going down:  Dispel the darkness of
+our hearts, that by your brightness we may know you to be
+the true God and eternal light, living and reigning for ever
+and ever.  =Amen.=
+ 
+<page 111>
+ 
+Lighten our darkness, we beseech thee, O Lord; and by thy
+great mercy defend us from all perils and dangers of this
+night; for the love of thy only Son, our Savior, Jesus Christ.
+=Amen.=
+ 
+ 
+*Advent*
+ 
+*Collect for the First Sunday of Advent*
+ 
+ 
+*Christmas, Epiphany, and other Feasts of the Incarnation*
+ 
+*Collect for the First Sunday after Christmas*
+ 
+ 
+*Lent and other times of penitence*
+ 
+Almighty and most merciful God, kindle within us the fire of
+love, that by its cleansing flame we may be purged of all our
+sins and made worthy to worship you in spirit and in truth;
+through Jesus Christ our Lord.  =Amen.=
+ 
+ 
+*Easter Season*
+ 
+Eternal God, who led your ancient people into freedom by a
+pillar of cloud by day and a pillar of fire by night:  Grant that
+we who walk in the light of your presence may rejoice in the
+liberty of the children of God; through Jesus Christ our Lord.
+=Amen.=
+ 
+ 
+*Festivals of Saints*
+ 
+Lord Christ, your saints have been the lights of the world
+in every generation:  Grant that we who follow in their
+footsteps may be made worthy to enter with them into that
+heavenly country where you live and reign for ever and ever.
+=Amen.=
+ 
+<page 112>
+ 
+ 
+*The candles at the Altar are now lighted, as are other candles and
+lamps as may be convenient.*
+ 
+*During the candle-lighting, an appropriate anthem or psalm may be
+sung, or silence kept.*
+ 
+ 
+*The following hymn, or a metrical version of it, or some other hymn, is
+then sung*
+ 
+ 
+<O Gracious Light> =Phos hilaron=
+ 
+O gracious light,
+pure brightness of the everliving Father in heaven,
+O Jesus Christ, holy and blessed!
+ 
+Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing your praised, O God:  Father, Son, and Holy Spirit.
+ 
+You are worthy at all times to be praised by happy voices,
+O Son of God, O Giver of Life,
+and to be glorified through all the worlds.
+ 
+ 
+*The service may then continue in any of the following ways:*
+ 
+*With Evening Prayer, beginning with the Psalms; or with some other
+Office or Devotion;*
+ 
+*With the celebration of the Holy Eucharist, beginning with the
+Salutation and Collect of the Day;*
+ 
+*Or, it may be followed by a meal or other activity, in which case Phos
+hilaron may be followed by the Lord's Prayer and a grace or blessing;*
+ 
+*Or, it may continue as a complete evening Office with the following
+elements:*
+ 
+<Selection from the Psalter.>  *Silence, or a suitable Collect, or both,
+may follow the Psalmody.*
+ 
+<Bible Reading.>  *A sermon or homily, a passage from Christian
+literature,
+or a brief silence, may follow the Reading.*
+ 
+<Canticle.>  *The Magnificat or other canticle, or some other hymn of
+praise.*
+ 
+<Prayers.>  *A litany, or other suitable devotions, including the Lord's
+Prayer.*
+ 
+<Blessing or Dismissal,> *or both.  The Peace may then be exchanged.
+ 
+ 
+*On feasts or other days of special significance, the Collect of the
+Day, or one proper to the season, may precede the Blessing or Dismissal.
+On other days, either of the following, or one of the Collects from
+Evening Prayer or from Compline, may be so used.*
+ 
+Blessed are you, O Lord, the God of our fathers, creator
+of the changes of day and night, giving rest to the weary,
+renewing the strength of those who are spent, bestowing
+upon us occasions of song in the evening.  As you have
+protected us in the day that is past, so be with us in the
+coming night; keep us from every sin, every evil, and every
+fear; for you are our light and salvation, and the strength of
+our life.  To you be glory for endless ages.  =Amen.=
+ 
+Almighty, everlasting God, let our prayer in your sight be as
+incense, the lifting up of our hands as the evening sacrifice.
+Give us grace to behold you, present in your Word and
+Sacraments, and to recognize you in the lives of those around
+us.  Stir up in us the flame of that love which burned in the
+heart of your Son as he bore his passion, and let it burn in us
+to eternal life and to the ages of ages.  =Amen.=
+ 
+<page 114>
+ 
+ 
+*A bishop or priest may use the following or some other blessing or
+grace*
+ 
+The Lord bless you and keep you.  =Amen.=
+ 
+The Lord make his face to shine upon you and be gracious to you.
+=Amen.=
+ 
+The Lord lift up his countenance upon you and give you peace.  =Amen.=
+ 
+*A deacon or lay person using the preceding blessing substitutes "us"
+for "you."*
+ 
+ 
+*A dismissal may be used (adding "Alleluia, alleluia" in Easter Season)*
+ 
+ 
+*The People respond*
+ 
+Thanks be to God.
+ 
+ 
+*In Easter Season the People respond*
+ 
+Thanks be to God.  Alleluia, alleluia.
+ 
+<page 115>
+ 
+ 
+ 
+<Daily Evening Prayer:
+Rite Two>
+ 
+*The Officiant begins the service with one or more of the following
+sentences of Scripture, or of those on pages 75-78;*
+ 
+*or with the Service of Light on pages 109-112, and continuing with the
+appointed Psalmody;*
+ 
+*or with the versicle "O God, make speed to save us" on page 117*
+ 
+Let my prayer be set forth in your sight as incense, the lifting
+up of my hands as the evening sacrifice.  =Psalm 141:2=
+ 
+Grace to you and peace from God our Father and from the
+Lord Jesus Christ.  =Philippians 1:2=
+ 
+Worship the Lord in the beauty of his holiness; let the whole earth
+tremble before him.  =Psalm 96:9=
+ 
+Yours is the day, O God, yours also the night; you established
+the moon and the sun.  You fixed all the boundaries of the
+earth; you made both summer and winter.  =Psalm 74:15,16=
+ 
+I will bless the Lord who gives me counsel; my heart teaches
+me, night after night.  I have set the Lord always before me;
+because he is at my right hand, I shall not fall.  =Psalm 16:7,8=
+ 
+Seek him who made the Pleiades and Orion, and turns deep
+darkness into the morning, and darkens the day into night;
+who calls for the waters of the sea and pours them out upon
+the surface of the earth:  The Lord is his name.  =Amos 5:8=
+ 
+<page 116>
+ 
+If I say, "Surely the darkness will cover me, and the light
+around me turn to night,"  darkness is not dark to you, O
+Lord; the night is as bright as the day; darkness and light to
+you are both alike.  =Pslam 139:10,11=
+ 
+Jesus said, "I am the light of the world; whoever follows me
+will not walk in darkness, but will have the light of life."
+=John 8:12=
+ 
+*The following Confession of Sin may then be said; or the Office may
+continue at once with "O God make speed to save us."*
+ 
+ 
+<Confession of Sin>
+ 
+*The Officiant says to the people*
+ 
+Dearly beloved, we have come together in the presence of
+Almighty god our heavenly Father, to set forth his praise, to
+hear his holy Word, and to ask, for ourselves and on behalf
+of others, those things that are necessary for our life and our
+salvation.  And so that we may prepare ourselves in heart and
+mind to worship him, let us kneel in silence, and with
+penitent and obedient hearts confess our sins, that we may
+obtain forgiveness by his infinite goodness and mercy.
+ 
+*or this*
+ 
+Let us confess our sins against God and our neighbor.
+ 
+*Silence may be kept.*
+ 
+*Officiant and People together, all kneeling*
+ 
+Most merciful God,
+we confess that we have sinned against you
+in thought, word, and deed,
+by what we have done,
+and by what we have left undone.
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+<page 117>
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
+that we may delight in your will,
+and walk in your ways,
+to the glory of your Name.  Amen.
+ 
+*The Priest alone stands and says*
+ 
+Almighty God have mercy on you, forgive you all your sins
+through our Lord Jesus Christ, strengthen you in all
+goodness, and by the power of the Holy Spirit keep you in
+eternal life.  =Amen.=
+ 
+*A deacon or lay person using the preceding form remains kneeling, and
+substitutes "us" for "you" and "our" for "your."
+ 
+ 
+<The Invitatory and Psalter>
+ 
+*All stand*
+ 
+*Officiant* O God, make speed to save us.
+ 
+*People*  O Lord, make haste to help us.
+ 
+*Officiant and People*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: as
+it was in the beginning, is now, and will be for ever.  Amen.
+ 
+*Except in Lent, add*  Alleluia.
+ 
+*The following, or some other suitable hymn, or an Invitatory Psalm, may
+be sung or said.*
+ 
+ 
+<O Gracious Light>  =Phos hilaron=
+ 
+O gracious light,
+pure brightness of the everliving Father in heaven,
+O Jesus Christ, holy and blessed!
+ 
+Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing your praised, O God:  Father, Son, and Holy Spirit.
+ 
+You are worthy at all times to be praised by happy voices,
+O Son of God, O Giver of Life,
+and to be glorified through all the worlds.
+ 
+*Then follows*
+ 
+<The Psalm or Psalms Appointed>
+ 
+*At the end of the Psalms is sung or said*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<The Lessons>
+ 
+*One or two lessons, as appointed, are read, the Reader first saying
+ 
+A Reading (Lesson) from &mdash..
+ 
+*A citation giving chapter and verse may be added.*
+ 
+<page 119>
+ 
+*After each Lesson the Reader may say*
+ 
+The Word of the Lord.
+ 
+*Answer* Thanks be to God.
+ 
+*Or the Reader may say* Here ends the Lesson (Reading).
+ 
+*Silence may be kept after each Reading.  One of the following
+Canticles, or one of those on pages 47-52, or 85-95, is sung or said
+after each Reading.  If three lessons are used, the Lesson from the
+Gospel is read after the second Canticle.*
+ 
+ 
+<The Song of Mary>  =Magnificat=
+ 
+=Luke 1:46-55=
+ 
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior; *
+ for he has looked with favor on his lowly servant.
+ 
+From this day all generations will call me blessed: *
+ the Almighty has done great things for me,
+ and holy is his Name.
+ 
+He has mercy on those who fear him *
+ in every generation.
+ 
+He has shown the strength of his arm, *
+ he has scattered the proud in their conceit.
+ 
+He has cast down the mighty from their thrones, *
+ and has lifted up the lowly.
+ 
+He has filled the hungry with good things, *
+ and the rich he has sent away empty.
+ 
+He has come to the help of his servant Israel, *
+ for he has remembered his promise of mercy,
+ 
+The promise he made to our fathers, *
+ to Abraham and his children for ever.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+<page 120>
+ 
+ 
+<Song of Simeon>  =Nunc Dimittis=
+ 
+=Luke 2:29-32=
+ 
+Lord, you now have set your servant free *
+ to go in peace as you have promised;
+ 
+For these eyes of mine have seen the Savior, *
+ whom you have prepared for all the world to see:
+ 
+A Light to enlighten the nations, *
+ and the glory of your people Israel.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+<The Apostles' Creed>
+ 
+*Officiant and People together, all standing*
+ 
+I believe in God, the Father almighty,
+ creator of heaven and earth.
+ 
+I believe in Jesus Christ, his only son, our Lord.
+ He was conceived by the power of the Holy Spirit
+/and born of the Virgin Mary.
+ He suffered under Pontius Pilate,
+/was crucified, died, and was buried.
+ He descended to the dead.
+ On the third day he rose again.
+ He ascended into heaven,
+/and is seated at the right hand of the Father.
+ He will come again to judge the living and the dead.
+ 
+I believe in the Holy Spirit,
+ the holy catholic Church,
+ the communion of saints,
+ the forgiveness of sins,
+ the resurrection of the body,
+ and the life everlasting.  Amen.
+ 
+<page 121>
+ 
+ 
+<The Prayers>
+ 
+*The People stand or kneel*
+ 
+*Officiant*  The Lord be with you.
+ 
+*People*  And also with you.
+ 
+*Officiant*  Let us pray.
+ 
+*Officiant and People*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+/on earth as it is in heaven.
+ 
+Give us this day our daily bread.
+And forgive us our trespasses,
+ as we forgive those
+/who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+<parallel column>
+ 
+Our Father in heaven,
+ hallowed be you Name,
+ your kingdom come,
+ your will be done,
+/on earth as in heaven.
+ 
+Give us today our daily bread.
+Forgive us our sins
+ as we forgive those
+/who sin against us.
+ 
+Save us from the time of trial,
+ and deliver us from evil.
+ 
+For the kingdom, the power,
+ and the glory are yours,
+ now and for ever.  Amen.
+ 
+ 
+*Then follows one of these sets of Suffrages*
+ 
+<Suffrages A>
+ 
+&V.  Show us your mercy, O Lord;
+ 
+&R.  And grant us your salvation.
+ 
+&V.  Clothe your ministers with righteousness;
+ 
+&R.  Let your people sing with joy.
+ 
+&V.  Give peace, O Lord, in all the world;
+ 
+&R.  For only in you can we live in safety.
+ 
+<page 122>
+ 
+&V.  Lord, keep this nation under your care;
+ 
+&R.  And guide us in the way of justice and truth.
+ 
+&V.  Let your way be known upon earth;
+ 
+&R.  Your saving health among all nations.
+ 
+&V.  Let not the needy, O Lord, be forgotten;
+ 
+&R.  Nor the hope of the poor be taken away.
+ 
+&V.  Create in us clean hearts, O God;
+ 
+&R.  And sustain us by your Holy Spirit.
+ 
+ 
+<Suffrages B>
+ 
+That this evening may be holy, good, and peaceful,
+=We entreat you, O Lord.=
+ 
+That your holy angels may lead us in paths of peace and
+goodwill,
+=We entreat you, O Lord.=
+ 
+That we may be pardoned and forgiven for our sins
+and offenses,
+=We entreat you, O Lord.=
+ 
+That there may be peace to your Church and to the whole
+world,
+=We entreat you, O Lord.=
+ 
+That we may depart this life in your faith and fear,
+and not be condemned before the great judgment seat
+of Christ,
+=We entreat you, O Lord.=
+ 
+That we may be bound together by your Holy Spirit in
+the communion of [&3m. and ] all your saints,
+entrusting one another and all our life to Christ,
+=We entreat you, O Lord.=
+ 
+*The Officiant then says one or more of the following Collects*
+ 
+*The Collect of the Day*
+ 
+<page 123>
+ 
+ 
+*A Collect for Sundays*
+ 
+O God, you make us glad with the weekly remembrance of
+the glorious resurrection of you Son our Lord:  Give us this
+day such blessing through our worship of you, that the week
+to come may be spent in your favor; through Jesus Christ our
+Lord.  =Amen.=
+ 
+ 
+*A Collect for Fridays*
+ 
+Almighty God, whose most dear Son went not up to joy but
+first he suffered pain, and entered not into glory before he
+was crucified:  Mercifully grant that we, walking in the way
+of the cross, may find it none other than the way of life and
+peace; through Jesus Christ your Son our Lord.  =Amen.=
+ 
+ 
+*A Collect for Saturdays*
+ 
+Almighty God, who after the creation of the world rested
+from all you works and sanctified a day of rest for all your
+creatures:  Grant that we, putting away all earthly anxieties,
+may be duly prepared for the service of your sanctuary, and
+that our rest here upon earth may be a preparation for the
+eternal rest promised to your people in heaven; through Jesus
+Christ our Lord.  =Amen.=
+ 
+ 
+*A Collect for Peace*
+ 
+O God, the author of peace and lover of concord, to know
+you is eternal life and to serve you is perfect freedom:  Defend
+us, your humble servants, in all assaults of our enemies; that
+we, surely trusting in your defense, may not fear the power of
+any adversaries; through the might of Jesus Christ our Lord,
+=Amen.=
+ 
+ 
+*A Collect for Aid against Perils*
+ 
+Be our light in the darkness, O Lord, and in your great mercy
+defend us from all perils and dangers of this night; for the love
+of your only Son, our Savior Jesus Christ.  =Amen.=
+ 
+<page 124>
+ 
+ 
+*A Collect for Projection*
+ 
+O God, the life of all who live, the light of the faithful, the
+strength of those who labor, and the repose of the dead:  We
+thank you for the blessings of the day that is past, and
+humbly ask for your protection through the coming night.
+Bring us in safety to the morning hours; through him who
+died and rose again for us, your Son our Savior Jesus Christ.
+=Amen.=
+ 
+ 
+*A Collect for the Presence of Christ*
+ 
+Lord Jesus, stay with us, for evening is at hand and the day
+is past; be our companion in the way, kindle our hearts, and
+awaken hope, that we may know you as you are revealed in
+Scripture and the breaking of bread.  Grant this for the sake
+of your love.  =Amen.=
+ 
+ 
+*Then, unless the Eucharist or a form of general intercession is to
+follow, one of these prayer for mission is added*
+ 
+O God and Father of all, whom the whole heavens adore:
+Let the whole earth also worship you, all nations obey you,
+all tongues confess and bless you, and mean and women
+everywhere love you and serve you in peace; through Jesus
+Christ our Lord.  =Amen.=
+ 
+*or this*
+ 
+Keep watch, dear Lord, with those who work, or watch, or
+weep this night, and give your angels charge over those who
+sleep.  Tend the sick, Lord Christ; give rest to the weary, bless
+the dying, soothe the suffering, pity the afflicted, shield the
+joyous; and all for your love's sake.  =Amen.=
+ 
+*or the following*
+ 
+<page 125>
+ 
+O God, you manifest in your servants the signs of your
+presence:  Send forth upon us the spirit of love, that in
+companionship with one another your abounding grace may
+increase among us; through Jesus Christ our Lord.  =Amen.=
+ 
+*Here may be sung a hymn or anthem.*
+ 
+*Authorized intercessions and thanksgivings may follow.*
+ 
+*Before the close of the Office one or both of the following may be
+used*
+ 
+ 
+*The General Thanksgiving*
+ 
+*Officiant and People*
+ 
+Almighty God, Father of all mercies,
+we your unworthy servants give you humble thanks
+for all your goodness and loving-kindness
+to us and to all whom you have made.
+We bless you for our creation, preservation,
+and all the blessings of this life;
+but above all for your immeasurable love
+in the redemption of the world by our Lord Jesus Christ;
+for the means of grace, and for the hope of glory.
+And, we pray, give us such an awareness of your mercies,
+that with truly thankful hearts we may show forth your praise,
+not only with our lips, but in our lives,
+by giving up our selves to your service,
+and by walking before you
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with you and the Holy Spirit,
+be honor and glory throughout all ages.  =Amen.=
+ 
+<page 126>
+ 
+ 
+*A Prayer of St. Chrysostom*
+ 
+Almighty God, you have given us grace at this time with one
+accord to make our common supplication to you; and you
+have promised through your well-beloved Son that when two
+or three are gathered together in his Name you will be in the
+midst of them:  Fulfill now, O Lord, our desires and petitions
+as may be best for us; granting us in this world knowledge of
+your truth, and in the age to come life everlasting.  =Amen.=
+ 
+*Then may be said*
+ 
+Let us bless the Lord.
+=Thanks be to God.=
+ 
+*From Easter Day through the Day of Pentecost "Alleluia, alleluia" may
+be added to the preceding versicle and response.*
+ 
+ 
+*The Officiant may then conclude with one of the following*
+ 
+The grace of our Lord Jesus Christ, and the love of God, and
+the fellowship of the Holy Spirit, be with us all evermore.
+=Amen.=  =2 Corinthians 13:14=
+ 
+May the God of hope fill us with all joy and peace in
+believing through the power of the Holy Spirit.  =Amen.=
+=Romans 15:13=
+ 
+Glory to God whose power, working in us, can do infinitely
+more than we can ask or imagine:  Glory to him from
+generation to generation in the Church, and in Christ Jesus
+for ever and ever.  =Amen.=  =Ephesians 3:20,21=
+ 
+<page 127>
+ 
+ 
+ 
+<An Order for Compline>
+ 
+*The Officiant begins*
+ 
+The Lord Almighty grant us a peaceful night and a perfect
+end.  =Amen.=
+ 
+*Officiant*  Our help is in the Name of the Lord;
+ 
+*People*  The maker of heaven and earth.
+ 
+ 
+*The Officiant may then say*
+ 
+Let us confess our sins to God.
+ 
+*Officiant and People*
+ 
+Almighty God, our heavenly Father:
+We have sinned against you,
+through our own fault,
+in thought, and word, and deed,
+and in what we have left undone.
+For the sake of your Son our Lord Jesus Christ,
+forgive us all our offenses;
+and grant that we may serve you
+in newness of life,
+to the glory of your Name.  Amen.
+ 
+*Officiant*
+ 
+May the Almighty God grant us forgiveness of all our sins,
+and the grace and comfort of the Holy Spirit.  =Amen.=
+ 
+ 
+*The Officiant then says*
+ 
+O God, make speed to save us.
+ 
+*People*  O Lord, make haste to help us.
+ 
+*Officiant and People*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit:  as
+it was in the beginning, is now, and will be for ever.  Amen.
+ 
+*Except in Lent, add*  Alleluia.
+ 
+*One or more of the following Psalms are sung or said.  Other suitable
+selections may be substituted.*
+ 
+ 
+<Psalm 4>  =Cum invocarem=
+ 
+1  Answer me when I call, O God, defender of my cause; *
+ you set me free when I am hard-pressed;
+ have mercy on me and hear my prayer.
+ 
+2  "You mortals, how long will you dishonor my glory; *
+ how long will you worship dumb idols
+ and run after false gods?"
+ 
+3  Know that the LORD does wonders for the faithful; *
+ when I call upon the LORD, he will hear me.
+ 
+4  Tremble, then, and do not sin; *
+ speak to your heart in silence upon your bead.
+ 
+5  Offer the appointed sacrifices *
+ and put your trust in the LORD.
+ 
+<page 129>
+ 
+6  Many are saying,
+"Oh, that we might see better times!" *
+ Lift up the light of your countenance upon us, O LORD.
+ 
+7  You have put gladness in my heart, *
+ more than when grain and wine and oil increase.
+ 
+8  I lie down in peace; at once I fall asleep; *
+ for only you, LORD, make me dwell in safety.
+ 
+ 
+<Psalm 31>  =In te, Domine, speravi=
+ 
+1  In you, O LORD, have I taken refuge;
+let me never be put to shame: *
+ deliver me in your righteousness.
+ 
+2  Incline your ear to me; *
+ make haste to deliver me.
+ 
+3  Be my strong rock, a castle to keep me safe,
+for you are my crag and my stronghold; *
+ for the sake of your Name, lead me and guide me.
+ 
+4  Take me out of the net that they have secretly set for me, *
+ for you are my tower of strength.
+ 
+5  Into your hands I commend my spirit, *
+ for you have redeemed me,
+ O LORD, O God of truth.
+ 
+ 
+<Psalm 91> =Qui habitat=
+ 
+1  He who dwells in the shelter of the Most High *
+ abides under the shadow of the Almighty.
+ 
+2  He shall say to the LORD,
+"You are my refuge and my stronghold, *
+ my God in whom I put my trust."
+ 
+<page 130>
+ 
+3  He shall deliver you from the snare of the hunter *
+ and from the deadly pestilence.
+ 
+4  he shall cover you with his pinions,
+and you shall find refuge under his wings; *
+ his faithfulness shall be a shield and buckler.
+ 
+5  You shall not be afraid of any terror by night, *
+ nor of the arrow that flies by day;
+ 
+6  Of the plague that stalks in the darkness, *
+ nor of the sickness that lays waste at mid-day.
+ 
+7  A thousand shall fall at your side
+and ten thousand at your right hand, *
+ but it shall not come near you.
+ 
+8  Your eyes only have to behold *
+ to see the reward of the wicked.
+ 
+9  Because you have made the LORD your refuge, *
+ and the Most High your habitation,
+ 
+10  There shall no evil happen to you, *
+ neither shall any plague come near your dwelling.
+ 
+11  For he shall give his angels charge over you, *
+ to keep you in all your ways.
+ 
+12  They shall bear you in their hands, *
+ lest you dash your foot against a stone.
+ 
+13  You shall tread upon the lion and the adder; *
+ you shall trample the young lion and the serpent
+/under your feet.
+ 
+14  Because he is bound to me in love,
+therefore will I deliver him; *
+ I will protect him, because he knows my Name.
+ 
+<page 131>
+ 
+15  He shall call upon me, and I will answer him; *
+ I am with him in trouble;
+ I will rescue him and bring him to honor.
+ 
+16  With long life will I satisfy him, *
+ and show him my salvation.
+ 
+ 
+<Psalm 134>  =Ecce nunc=
+ 
+1  Behold now, bless the LORD, all you servants of the LORD, *
+ you that stand by night in the house of the LORD.
+ 
+2  Lift up your hands in the holy place and bless the LORD; *
+ the LORD who made heaven and earth bless you out of Zion.
+ 
+ 
+*At the end of the Psalms is sung or said*
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit:  *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+*One of the following, or some other suitable passage of Scripture, is
+read*
+ 
+Lord, you are in the midst of us, and we are called by your
+Name:  Do not forsake us, O Lord our God.  =Jeremiah 14:9,22=
+ 
+*People*  Thanks be to God.
+ 
+*or this*
+ 
+Come to me, all who labor and are heavy-laden, and I will
+give you rest.  Take my yoke upon you, and learn from me;
+for I am gentle and lowly in heart, and you will find rest for
+your souls.  For my yoke is easy, and my burden is light.
+=Matthew 11:28-30=
+ 
+*People*  Thanks be to God.
+ 
+*or the following*
+ 
+<page 132>
+ 
+May the God of peace, who brought again from the dead our
+Lord Jesus, and great shepherd of the sheep, by the blood of
+the eternal covenant, equip you with everything good that you
+may do his will, working in you that which is pleasing in his
+sight; through Jesus Christ, to whom be glory for ever and
+ever.  =Hebrews 13:20-21=
+ 
+*People*  Thanks be to God.
+ 
+*or this*
+ 
+Be sober, be watchful.  Your adversary the devil prowls
+around like a roaring lion, seeking someone to devour.
+Resist him, firm in your faith.  =1 Peter 5:8-9a=
+ 
+*People*  Thanks be to God.
+ 
+*A hymn suitable for the evening may be sung.*
+ 
+ 
+*Then follows*
+ 
+&V.  Into your hands, O Lord, I commend my spirit;
+ 
+&R.  For you have redeemed me, O Lord, O God of truth.
+ 
+&V.  Keep us, O Lord, as the apple of your eye;
+ 
+&R.  Hide us under the shadow of your wings.
+ 
+ 
+Lord, have mercy.
+ 
+=Christ, have mercy.=
+ 
+Lord, have mercy.
+ 
+ 
+*Officiant and People*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+/on earth as it is in heaven.
+ 
+<page 133>
+ 
+Give us this day our daily bread.
+And forgive us our trespasses,
+ as we forgive those
+/who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+<parallel column>
+ 
+Our Father in heaven,
+ hallowed be you Name,
+ your kingdom come,
+ your will be done,
+/on earth as in heaven.
+ 
+Give us today our daily bread.
+Forgive us our sins
+ as we forgive those
+/who sin against us.
+ 
+Save us from the time of trial,
+ and deliver us from evil.
+ 
+For the kingdom, the power,
+ and the glory are yours,
+ now and for ever.  Amen.
+ 
+ 
+*Officiant*  Lord, hear our prayer;
+ 
+*People*  And let our cry come to you.
+ 
+*Officiant*  Let us pray.
+ 
+ 
+*The Officiant then says one of the following Collects*
+ 
+Be our light in the darkness, O Lord, and in your great mercy
+defend us from all perils and dangers of this night; for the
+love of your only Son, our Savior Jesus Christ.  =Amen.=
+ 
+Be present, O merciful God, and protect us through the hours
+of this night, so that we who are wearied by the changes and
+chances of this life may rest in your eternal changelessness;
+through Jesus Christ our Lord.  =Amen.=
+ 
+Look down, O Lord, from your heavenly throne, and
+illumine this night with your celestial brightness; that by
+night as by day your people may glorify your holy Name;
+through Jesus Christ our Lord.  =Amen.=
+ 
+Visit this place, O Lord, and drive far from it all snare of the
+enemy; let your holy angels dwell with us to preserve us in
+peace; and let your blessing be upon us always; through Jesus
+Christ our Lord.  =Amen.=
+ 
+<page 134>
+ 
+ 
+*A Collect for Saturdays*
+ 
+We give thanks, O God, for revealing your Son Jesus
+Christ to us by the light of his resurrection:  Grant that as we
+sing your glory at the close of this day, our joy may abound
+in the morning as we celebrate the Paschal mystery; through
+Jesus Christ our Lord.  =Amen.=
+ 
+ 
+*One of the following prayers may be added*
+ 
+Keep watch, dear Lord, with those who work, or watch, or
+weep this night, and give your angels charge over those who
+sleep.  Tend the sick, Lord Christ; give rest to the weary, bless
+the dying, soothe the suffering, pity the afflicted, shield the
+joyous; and all for your love's sake.  =Amen.=
+ 
+*or this*
+ 
+O God, your unfailing providence sustains the world we live
+in and the life we live:  Watch over those, both night and day,
+who work while others sleep, and grant that we may never
+forget that our common life depends upon each other's toil;
+through Jesus Christ our Lord.  =Amen.=
+ 
+*Silence may be kept, and free intercessions and thanksgivings may be
+offered.*
+ 
+ 
+*The service concludes with the Song of Simeon with this Antiphon, which
+is sung or said by all*
+ 
+Guide us waking, O Lord, and guard us sleeping; that awake
+we may watch with Christ, and asleep we may rest in peace.
+ 
+*In Easter Season, add*  Alleluia, alleluia, alleluia.
+ 
+<page 135>
+ 
+Lord, you now have set your servant free *
+ to go in peace as you have promised;
+ 
+For these eyes of mine have seen the Savior, *
+ whom you have prepared for all the world to see:
+ 
+A Light to enlighten the nations, *
+ and the glory of your people Israel.
+ 
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+Guide us waking, O Lord, and guard us sleeping; that awake
+we may watch with Christ, and asleep we may rest in peace.
+ 
+*In Easter Season, add*  Alleluia, alleluia, alleluia.
+ 
+ 
+*Officiant*  Let us bless the Lord.
+ 
+*People*  Thanks be to God.
+ 
+*The Officiant concludes*
+ 
+The almighty and merciful Lord, Father, Son, and Holy Spirit,
+bless us and keep us.  =Amen.=
+ 
+<page 136>
+ 
+ 
+ 
+<Daily Devotions for
+Families and Individuals>
+ 
+*These devotions follow the basic structure of the Daily Office of the
+Church.*
+ 
+*When more than one person is present, the Reading and the Collect
+should be read by one person, and the other parts said in unison, or in
+some other convenient manner.  (For suggestions about reading the
+Psalms, see page 582.)*
+ 
+*For convenience, appropriate Psalms, Readings, and Collects are
+provided in each service.  When desired, however, the Collect of the
+Day, or any of the Collects appointed in the Daily Offices, may be used
+instead.*
+ 
+*The Psalms and Readings may be replaced by those appointed in*
+ 
+*a) the Lectionary for Sundays, Holy Days, the Common of Saints, and
+Various Occasions, page 888.*
+ 
+*b) the Daily Office Lectionary, page 934*
+ 
+*c) some other manual of devotion which provides daily selections for
+the
+Church Year.*
+ 
+ 
+<In the Morning>
+ 
+*From Psalm 51*
+ 
+Open my lips, O Lord, *
+ and my mouth shall proclaim your praise.
+ 
+Create in me a clean heart, O God, *
+ and renew a right spirit within me.
+ 
+Cast me not away from your presence *
+ and take not your holy Spirit from me.
+ 
+Give me the joy of your saving help again *
+ and sustain me with your bountiful Spirit.
+ 
+Glory to the Father, and to the Son, and to the Holy Spirit: *
+ as it was in the beginning, is now, and will be for ever.  Amen.
+ 
+ 
+*A Reading*
+ 
+Blessed be the God and Father of our Lord Jesus Christ!
+By his great mercy we have been born anew to a living hope
+through the resurrection of Jesus Christ from the dead.
+=1 Peter 1:3=
+ 
+*A period of silence my follow.*
+ 
+*A hymn or canticle may be used; the Apostles' Creed may be said.*
+ 
+*Prayers may be offered for ourselves and others.*
+ 
+*The Lord's Prayer*
+ 
+*The Collect*
+ 
+Lord God, almighty and everlasting Father, you have brought
+us in safety to this new day:  Preserve us with your mighty
+power, that we may not fall into sin, nor be overcome by
+adversity; and in all we do, direct us to the fulfilling of your
+purpose; through Jesus Christ our Lord.  =Amen.=
+ 
+<page 138>
+ 
+ 
+<At Noon>
+ 
+*From Psalm 113*
+ 
+Give praise, you servants of the LORD; *
+ praise the Name of the LORD.
+ 
+Let the Name of the LORD be blessed, *
+ from this time forth for evermore.
+ 
+From the rising of the sun to its going down *
+ let the Name of the LORD be praised.
+ 
+The LORD is high above all nations, *
+ and his glory above the heavens.
+ 
+*A Reading*
+ 
+O God, you will keep in perfect peace those whose minds are
+fixed on you; for in returning and rest we shall be saved; in
+quietness and trust shall be our strength.  =Isaiah 26:3; 30:15=
+ 
+*Prayers may be offered for ourselves and others.*
+ 
+*The Lord's Prayer*
+ 
+*The Collect*
+ 
+Blessed Savior, at this hour you hung upon the cross,
+stretching out your loving arms:  Grant that all the peoples of
+the earth may look to you and be saved; for your mercies'
+sake.  =Amen.=
+ 
+*or this*
+ 
+Lord Jesus Christ, you said to your apostles, "Peace I give to
+you; my own peace I leave with you:"  Regard not our sins,
+but the faith of your Church, and give to us the peace and
+unity of that heavenly City, where with the Father and the
+Holy Spirit you live and reign, now and for ever.  =Amen.=
+ 
+<page 138>
+ 
+ 
+<In the Early Evening>
+ 
+*This devotion my be used before or after the evening meal.*
+ 
+*The Order of Worship for the Evening, page 109, may be used instead.*
+ 
+O gracious light,
+pure brightness of the everliving Father in heaven,
+O Jesus Christ, holy and blessed!
+ 
+Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing your praised, O God:  Father, Son, and Holy Spirit.
+ 
+You are worthy at all times to be praised by happy voices,
+O Son of God, O Giver of Life,
+and to be glorified through all the worlds.
+ 
+*A Reading*
+ 
+It is not ourselves that we proclaim; we proclaim Christ
+Jesus as Lord, and ourselves as your servants, for Jesus' sake.
+For the same God who said, "Out of darkness let light
+shine," has caused his light to shine within us, to give the
+light of revelation--the revelation of the glory of God in the
+face of Jesus Christ.  =2 Corinthians 4:5-6=
+ 
+*Prayers may be offered for ourselves and others.*
+ 
+*The Lord's Prayer*
+ 
+*The Collect*
+ 
+Lord Jesus, stay with us, for evening is at hand and the day is
+past; be our companion in the way, kindle our hearts, and
+awaken hope, that we may know you as you are revealed in
+Scripture and the breaking of bread.  Grant this for the sake
+of your love.  =Amen.=
+ 
+<page 140>
+ 
+ 
+<At the Close of Day>
+ 
+ 
+<Psalm 134>
+ 
+Behold now, bless the LORD, all you servants of the LORD, *
+ you that stand by night in the house of the LORD.
+ 
+Lift up your hands in the holy place and bless the LORD; *
+ the LORD who made heaven and earth bless you out of Zion.
+ 
+*A Reading*
+ 
+Lord, you are in the midst of us and we are called by your
+Name:  Do not forsake us, O Lord our God.  =Jeremiah 14:9,22=
+ 
+*The following may be said*
+ 
+Lord, you now have set your servant free *
+ to go in peace as you have promised;
+ 
+For these eyes of mine have seen the Savior, *
+ whom you have prepared for all the world to see;
+ 
+A Light to enlighten the nations, *
+ and the glory of your people Israel.
+ 
+*Prayers for ourselves and others may follow.  It is appropriate that
+prayers of thanksgiving for the blessings of the day, and penitence for
+our
+sins, be included.*
+ 
+*The Lord's Prayer*
+ 
+*The Collect*
+ 
+Visit this place, O Lord, and drive far from it all snares of the
+enemy; let your holy angles dwell with us to preserve us in
+peace; and let your blessing be upon us always; through Jesus
+Christ our Lord.  =Amen.=
+ 
+The almighty and merciful Lord, Father, Son, and Holy Spirit,
+bless us and keep us.  =Amen.=
+ 
+<page 141>
+ 
+ 
+<Additional Directions>
+ 
+ 
+*Morning and Evening Prayer*
+ 
+*Any of the opening sentences of Scripture, including those listed for
+specific seasons or days, may be used at any time according to the
+discretion of the officiant.*
+ 
+*The proper antiphons on pages 43-44 and 80-82 may be used as refrains
+with either of the invitatory Psalms.*
+ 
+*Antiphons drawn from the Psalms themselves, or from the opening
+sentences given in the Offices, or from other passages of Scripture may
+be used with the Psalms and biblical Canticles.*
+ 
+*Gloria Patri is always sung or said at the conclusion of the entire
+portion of the Psalter; and may be used after the Invitatory Psalm or
+the Canticle "Christ our Passover," after each Psalm, and after each
+section of Psalm 119.*
+ 
+*The Gloria printed at the conclusion of certain Canticles may be
+omitted when desired.*
+ 
+*The following pointing of the Gloria may be used:*
+ 
+Glory to the Father, and to the Son, *
+ and to the Holy Spirit:
+ 
+As it was in the beginning, is now, *
+ and will be for ever.  Amen.
+ 
+*In Rite One services of Morning Prayer and Evening Prayer, the
+following form of the Gloria may be used:*
+ 
+Glory be to the Father, and to the Son, *
+ and to the Holy Ghost:
+ 
+As it was in the beginning, is now, and ever shall be, *
+ world without end.  Amen.
+ 
+*Metrical versions of the Invitatory Psalms, and of the Canticles after
+the Readings, may be used.*
+ 
+<page 142>
+ 
+*In special circumstances, in place of a Canticle, a hymn may be sung.*
+ 
+*The Apostles' Creed is omitted from the Office when the Eucharist with
+its own Creed is to follow.  It may also be omitted at one of the
+Offices on weekdays.*
+ 
+*The Lord's Prayer may be omitted from the Office when the Litany or the
+Eucharist is to follow immediately.*
+ 
+*In the Intercessions and Thanksgivings, opportunity may be given for
+the members of the congregation to express intentions or objects of
+prayer and thanksgiving, either at the bidding, or in the course of the
+prayer; and opportunity may be given for silent prayer.*
+ 
+*A sermon may be preached after the Office; or, within the Office, after
+the Readings or at the time of the hymn or anthem after the Collects.*
+ 
+*On occasion, at the discretion of the Minister, a reading from
+non-biblical Christian literature may follow the biblical Readings.*
+ 
+*An offering may be received and presented at the Office.*
+ 
+ 
+*When there is Communion*
+ 
+*When Morning or Evening Prayer is used as the Liturgy of the Word at
+the Eucharist, the Nicene Creed may take the place of the Apostles'
+Creed, and the officiant may pass at once from the salutation "The Lord
+be with you," and its response, to the Collect of the Day.  A Lesson
+from the Gospel is always included.*
+ 
+*The Intercessions on such occasions are to conform to the directions on
+page 383.*
+ 
+*The service then continues with the [Peace and] Offeratory.*
+ 
+ 
+*Order of Worship for the Evening*
+ 
+*Before this service, there should be as little artificial light as
+possible in
+the church.  A musical prelude or processional is not appropriate.*
+ 
+*When the ministers enter, one or two lighted candles may be carried
+<page 143>
+before them, and used to provide light for reading the opening Short
+Lesson and Prayer for Light.  From Easter Day through the Day of
+Pentecost, the Paschal Candle, if used, should be burning in its
+customary place before the people assemble; the officiant then goes to a
+place close by it to begin the service by its light.*
+ 
+*The Short Lessons may be read from any version of the Scriptures
+authorized for public worship in this Church, and should be read without
+announcement or conclusion.  When one or more Scripture Lessons are to
+be read later in the service, the Short Lesson may be omitted.*
+ 
+*For the lighting of the candles at the Altar and elsewhere, in Easter
+Season the flame may be taken from the Paschal Candle.  At other times,
+the candle or candles carried in at the beginning of the service may be
+placed on or near the Altar, and other candles may be lighted from them.
+During Advent, the lighting of an Advent Wreath may take place after
+the Prayer for Light.  On special occasions, lighted candles may be
+distributed to members of the congregation.*
+ 
+*When this service is used in private houses, candles may be lighted at
+the dining table, or at some other convenient place.*
+ 
+*If incense is to be used, it is appropriate after the candles have been
+lighted and while the hymn Phos hilaron is being sung.*
+ 
+*When this service continues as a complete Office, Psalms and Lessons
+from the Office Lectionary or the Proper of the Day, or ones suitable to
+the season or the occasion, may be used.  Psalms generally appropriate
+to the evening include:  8, 23, 27, 36, 84, 93, 113, 114, 117, 121, 134,
+139, 141, 143.  When desired, more than one Lesson may be read, with
+silence or singing between them.*
+ 
+*If an additional hymn is desired, it may be sung immediately before the
+Blessing or Dismissal.*
+ 
+*When a meal is to follow, a blessing over food may serve as the
+conclusion of this form of service.*
+ 
+<page 144>
+ 
+ 
+<Suggested Canticles at Morning Prayer>
+ 
+: After the Old Testament Reading; After the New Testament Reading
+ 
+Sun. : 4. or 16. Benedictus Dominus; 7. or 21. Te Deum laudamus
+  Advent : 11. Surge, illuminare; 4. or 16. Benedictus Dominus
+  Lent : 14. Kyrie Pantokrator; 4. or 16. Benedictus Dominus
+  Easter : 8. Cantemus Domino
+ 
+Mon. : 9. Ecce, Deus; 19. Magna et mirabilia
+ 
+Tue. : 2. or 13. Benedictus es; 18. Dignus es
+ 
+Wed. : 11. Surge, illuminare; 4. or 16. Benedictus Dominus
+  Lent : 14. Kyrie Pantokrator;
+ 
+Thu. : 8. Cantemus Domino ; 6. or 20. Gloria in excelsis
+  Advent and Lent : ; 19. Magna et mirabilia
+ 
+Fri. : 10. =Quaerite Dominum=; 18. =Dignus es=
+  Lent : 14. Kyrie Pantokrator;
+ 
+Sat. : 1. or 12. Benedicite; 19.  Magna et mirabilia
+ 
+*On Feasts of our Lord and other Major Feasts* :
+  4. or 16 Benedictus Dominus; 7. or 21. Te Deum laudamus
+ 
+<page 145>
+ 
+ 
+<Suggested Canticles at Evening Prayer>
+ 
+: After the Old Testament Reading; After the New Testament Reading
+ 
+Sun. : Magnificat; Nunc Dimittis **
+ 
+Mon. : 8. Cantemus Domino; Nunc Dimittis
+  Lent: 14. Kyrie Pantokrator;
+ 
+Tue. : 10. Quaerite Dominum; Magnificat
+ 
+Wed. : 1. or 12. Benedicite; Nunc Dimittis
+ 
+Thu. : 11. Surge, illuminare; Magnificat
+ 
+Fri. : 2. or 13. Benedictus es; Nunc Dimittis
+ 
+Sat. : 9. Ecce, Deus; Magnificat
+ 
+*On Feasts of our Lord and other Major Feasts* :
+  Magnificat; Nunc Dimittis**
+ 
+** *If only one Reading is used, the suggested Canticle is the
+Magnificat.*
+ 
+<page 146>
+ 
+ 
+<Psalm 95:  Traditional> =Venite, exultemus=
+ 
+O come, let us sing unto the Lord; *
+ let us heartily rejoice in the strength of our salvation.
+ 
+Let us come before his presence with thanksgiving, *
+ and show ourselves glad in him with psalms.
+ 
+ 
+For the Lord is a great God, *
+ and a great King above all gods.
+ 
+In his hand are all the corners of the earth, *
+ and the strength of the hills are his also.
+ 
+The sea is his and he made it, *
+ and his hands prepared the dry land.
+ 
+ 
+O come, let us worship and fall down *
+ and kneel before the Lord our Maker.
+ 
+For he is the lord our God, *
+ and we are the people of his pasture
+ and the sheep of his hand.
+ 
+ 
+Today if ye will hear his voice, harden not your hearts *
+ as in the provocation,
+ and as in the day of temptation in the wilderness;
+ 
+When your fathers tempted me, *
+ proved me, and saw my works.
+ 
+ 
+Forty years long was I grieved with this generation, and said, *
+ It is a people that do err in their hearts,
+ for they have not known my ways.
+ 
+Unto whom I sware in my wrath, *
+ that they should not enter into my rest.
+ 
+<page 147>
+ 
+The Great Litany
+ 
+<page 148>
+ 
+ 
+ 
+<The Great Litany>
+ 
+*To be said or sung, kneeling, standing, or in procession; before the
+Eucharist or after the Collects of Morning or Evening Prayer; or
+separately; especially in Lent and on Rogation days.*
+ 
+O God the Father, Creator of heaven and earth,
+=Have mercy upon us.=
+ 
+O God the Son, Redeemer of the world,
+=Have mercy upon us.=
+ 
+O God the Holy Spirit, Sanctifier of the faithful,
+=Have mercy upon us.=
+ 
+O holy, blessed, and glorious Trinity, one God,
+=Have mercy upon us.=
+ 
+Remember not, Lord Christ, our offenses, nor the offenses
+of our forefathers; neither reward us according to our sins.
+Spare us, good Lord, spare thy people, whom thou hast
+redeemed with thy most precious blood, and by thy mercy
+preserve us, for ever.
+=Spare us, good Lord.=
+ 
+From all evil and wickedness; from sin; from the crafts
+and assaults of the devil; and from everlasting damnation,
+=Good Lord, deliver us.=
+ 
+<page 149>
+ 
+From all blindness of heart; from pride, vainglory,
+and hypocrisy; from envy, hatred, and malice; and from all want
+of charity,
+=Good Lord, deliver us.=
+ 
+From all inordinate and sinful affections; and from all the
+deceits of the world, the flesh, and the devil,
+=Good Lord, deliver us.=
+ 
+From all false doctrine, heresy, and schism; from hardness
+of heart, and contempt of thy Word and commandment,
+=Good Lord, deliver us.=
+ 
+From lightening and tempest; from earthquake, fire, and
+flood; from plague, pestilence, and famine,
+=Good Lord, deliver us.=
+ 
+From all oppression, conspiracy, and rebellion; from
+violence, battle, and murder; and from dying suddenly
+and unprepared,
+=Good Lord, deliver us.=
+ 
+By the mystery of thy holy Incarnation; by thy holy Nativity
+and submission to the Law; by thy Baptism, Fasting, and
+Temptation,
+=Good Lord, deliver us.=
+ 
+By thine Agony and Bloody Sweat; by thy Cross and Passion;
+by thy precious Death and Burial; by thy glorious Resurrection
+and Ascension; and by the Coming of thy Holy Ghost,
+=Good Lord, deliver us.=
+ 
+In all time of our tribulation; in all time of our prosperity; in
+the hour of death, and in the day of judgment,
+=Good Lord, deliver us.=
+ 
+<page 150>
+ 
+We sinners do beseech the to hear us, O Lord God; and that
+it may please thee to rule and govern thy holy Church
+Universal in the right way,
+=We beesech thee to hear us, good Lord.=
+ 
+That it may please thee to illumine all bishops, priests, and
+deacons, with true knowledge and understanding of thy
+Word; and that both by their preaching and living, they may
+set it forth, and show it accordingly,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to bless and keep all thy people,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to send forth laborers into thy
+harvest, and to draw all mankind into thy kingdom,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to give to all people increase of grace
+to hear and receive thy Word, and to bring forth the fruits of
+the Spirit,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to bring into the way of truth all such
+as have erred, and are deceived,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to give us a heart to love and fear
+thee, and diligently to live after thy commandments,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee so to rule the hearts of thy servants,
+the President of the United States (=or= of this nation), and all
+others in authority, that they may do justice, and love mercy,
+and walk in the ways of truth,
+=We beseech thee to hear us, good Lord.=
+ 
+<page 151>
+ 
+That it may please thee to make wars to cease in all the world;
+to give to all nations unity, peace, and concord; and to
+bestow freedom upon all peoples,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to show thy pity upon all prisoners
+and captives, the homeless and the hungry, and all who are
+desolate and oppressed,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to give and preserve to our use the
+bountiful fruits of the earth, so that in due time all may enjoy
+them,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to inspire us, in our several callings,
+to do the work which thou givest us to do with singleness of
+heart as thy servants, and for the common good,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to preserve all who are in danger by
+reason of their labor or their travel,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to preserve, and provide for, all
+women in childbirth, young children and orphans, the
+widowed, and all whose homes are broken or torn by strife,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to visit the lonely; to strengthen all
+who suffer in mind, body, and spirit; and to comfort with thy
+presence those who are failing and infirm,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to support, help, and comfort all who
+are in danger, necessity, and tribulation,
+=We beseech thee to hear us, good Lord.=
+ 
+<page 152>
+ 
+That it may please thee to have mercy upon all mankind,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to give us true repentance; to forgive
+us all our sins, negligences, and ignorances; and to endue
+us with the grace of thy Holy Spirit to amend our lives
+according to thy holy Word,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to forgive our enemies, persecutors,
+and slanderers, and to turn their hearts,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to strengthen such as do stand; to
+comfort and help the weak-hearted; to raise up those who
+fall; and finally to beat down Satan under our feet,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to grant to all the faithful departed
+eternal life and peace,
+=We beseech thee to hear us, good Lord.=
+ 
+That it may please thee to grant that, in the fellowship of
+[&mdash. and] all the saints, we may attain to thy
+heavenly kingdom,
+=We beseech thee to hear us, good Lord.=
+ 
+Son of God, we beseech thee to hear us.
+=Son of God, we beseech thee to hear us.=
+ 
+O Lamb of God, that takest away the sins of the world,
+=Have mercy upon us.=
+ 
+O Lamb of God, that takest away the sins of the world,
+=Have mercy upon us.=
+ 
+O Lamb of God, that takest away the sins of the world,
+=Grant us thy peace.=
+ 
+<page 153>
+ 
+O Christ, hear us.
+=O Christ, hear us.=
+ 
+Lord, have mercy upon us.
+=Christ have mercy upon us.
+Lord, have mercy upon us.
+ 
+*or*
+ 
+Kyrie Eleison.
+=Christe Eleison.=
+Kyrie Eleison.
+ 
+*When the Litany is sung or said immediately before the Eucharist, the
+Litany concludes here, and the Eucharist begins with the Salutation and
+the Collect of the Day.*
+ 
+*On all other occasions, the Officiant and People say together*
+ 
+Our Father, who art in heaven,
+ hallowed be they Name,
+ thy kingdom come,
+ thy will be done,
+/on earth as it is in heaven.
+ 
+Give us this day our daily bread.
+And forgive us our trespasses,
+ as we forgive those
+/who trespass against us.
+ 
+And lead us not into temptation,
+ but deliver us from evil.
+ 
+For thine is the kingdom,
+ and the power, and the glory,
+ for ever and ever.  Amen.
+ 
+&V.  O Lord, let thy mercy be showed upon us;
+ 
+&R.  As we do put our trust in thee.
+ 
+*The Officiant concludes with the following or some other Collect*
+ 
+Let us pray.
+ 
+Almighty God, who hast promised to hear the petitions of
+those who ask in thy Son's Name: We beseech thee mercifully
+to incline thine ear to us who have now made our prayers
+and supplications unto thee; and grant that those things
+which we have asked faithfully according to thy will, may be
+obtained effectually, to the relief of our necessity, and to the
+setting forth of thy glory; through Jesus Christ our Lord. =Amen.=
+ 
+<page 154>
+ 
+*The Officiant may add other Prayers, and end the Litany, saying*
+ 
+The grace of our Lord Jesus Christ, and the love of God, and the
+fellowship of the Holy Ghost, be with us all evermore.
+=Amen.=
+ 
+ 
+<The Supplication>
+ 
+*For use in the Litany in place of the Versicle and Collect which
+follows the Lord's Prayer; or at the end or Morning or Evening Prayer;
+or as a separate devotion; especially in times of war, or of national
+anxiety, or of disaster.*
+ 
+O Lord, arise, help us;
+=And deliver us for thy Name's sake.=
+ 
+O God, we have heard with our ears, and our fathers have
+declared unto us, the noble works that thou didst in their
+days, and in the old time before them.
+ 
+=O Lord, arise, help us;
+and deliver us for thy Name's sake.=
+ 
+Glory be to the Father, and to the Son, and to the Holy
+Ghost; as it was in the beginning, is now, and ever shall be,
+world without end. Amen.
+ 
+=O Lord, arise, help us;
+and deliver us for thy Name's sake.=
+ 
+&V.  From our enemies defend us, O Christ;
+ 
+&R.  Graciously behold our afflictions.
+ 
+&V.  With pity behold the sorrows of our hearts;
+ 
+&R.  Mercifully forgive the sins of thy people.
+ 
+<page 155>
+ 
+&V.  Favorably with mercy hear our prayers;
+ 
+&R.  O Son of David, have mercy upon us.
+ 
+&V.  Both now and ever vouchsafe to hear us, O Christ;
+ 
+&R.  Graciously hear us, O Christ; graciously hear us, O Lord Christ.
+ 
+*The Officiant concludes*
+ 
+Let us pray.
+ 
+We humbly beseech thee, O Father, mercifully to look upon
+our infirmities; and, for the glory of your Name, turn from us
+all those evils that we most justly have deserved; and grant
+that in all our troubles we may put our whole trust and
+confidence in thy mercy, and evermore serve thee in holiness
+and pureness of living, to thy honor and glory; through our
+only Mediator and Advocate, Jesus Christ our Lord.  =Amen.=
+ 
+<page 156>
+ 
+<page 157>
+ 
+ 
+-------------------(BCPOFFCE.TXT Version 1.0)------------------
