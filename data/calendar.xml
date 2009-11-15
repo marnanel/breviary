@@ -13,170 +13,171 @@
       Feasts with respect to Easter
     -->
 
-  <feast easter="-47" prec="7" name="Shrove Tuesday" colour="white"/>
-  <feast easter="-46" prec="7" name="Ash Wednesday" colour="purple"/>
-  <feast easter="-2" prec="7" name="Good Friday" colour="purple"/>
-  <feast easter="-1" prec="7" name="Easter Eve" colour="purple"/>
-  <feast easter="0" prec="9" name="Easter"/>
-  <feast easter="39" prec="9" name="Ascension"/>
-  <feast easter="49" prec="9" name="Pentecost" colour="red"/>
-  <feast easter="50" name="Book of Common Prayer"/>
-  <feast easter="56" prec="9" name="Trinity"/>
+  <feast date="-47" prec="7" name="Shrove Tuesday" colour="white"/>
+  <feast date="-46" prec="7" name="Ash Wednesday" colour="purple"/>
+  <feast date="-2" prec="7" name="Good Friday" colour="purple"/>
+  <feast date="-1" prec="7" name="Easter Eve" colour="purple"/>
+  <feast date="+0" prec="9" name="Easter"/>
+  <feast date="+39" prec="9" name="Ascension"/>
+  <feast date="+49" prec="9" name="Pentecost" colour="red"/>
+  <feast date="+50" name="Book of Common Prayer"/>
+  <feast date="+56" prec="9" name="Trinity"/>
 
   <!--
       Feasts with respect to Christmas
     -->
 
-  <feast day="1" month="1" prec="7" name="Holy Name"/>
-  <feast day="6" month="1" prec="9" name="Epiphany"/>
-  <feast day="10" month="1" name="William Laud"/>
-  <feast day="13" month="1" name="Hilary"/>
-  <feast day="17" month="1" name="Antony"/>
-  <feast day="18" month="1" prec="4" name="Confession of Saint Peter"/>
-  <feast day="19" month="1" name="Wulfstan"/>
-  <feast day="20" month="1" name="Fabian"/>
-  <feast day="21" month="1" name="Agnes"/>
-  <feast day="22" month="1" name="Vincent" martyr="1"/>
-  <feast day="23" month="1" name="Phillips Brooks"/>
-  <feast day="25" month="1" prec="4" name="Conversion of Saint Paul"/>
-  <feast day="26" month="1" name="Timothy and Titus"/>
-  <feast day="27" month="1" name="John Chrysostom"/>
-  <feast day="28" month="1" name="Thomas Aquinas"/>
-  <feast day="2" month="2" prec="7" name="Presentation of our Lord"/>
-  <feast day="3" month="2" name="Anskar"/>
-  <feast day="4" month="2" name="Cornelius"/>
-  <feast day="5" month="2" name="Martyrs of Japan" martyr="1"/>
-  <feast day="13" month="2" name="Absalom Jones"/>
-  <feast day="14" month="2" name="Cyril and Methodius"/>
-  <feast day="15" month="2" name="Thomas Bray"/>
-  <feast day="23" month="2" name="Polycarp" martyr="1"/>
-  <feast day="24" month="2" prec="4" name="Matthias"/>
-  <feast day="27" month="2" name="George Herbert"/>
-  <feast day="1" month="3" name="David"/>
-  <feast day="2" month="3" name="Chad"/>
-  <feast day="3" month="3" name="John and Charles Wesley"/>
-  <feast day="7" month="3" name="Perpetua and her companions" martyr="1"/>
-  <feast day="8" month="3" name="Gregory of Nyssa"/>
-  <feast day="9" month="3" name="Gregory the Great"/>
-  <feast day="17" month="3" name="Patrick"/>
-  <feast day="18" month="3" name="Cyril"/>
-  <feast day="19" month="3" prec="4" name="Joseph"/>
-  <feast day="20" month="3" name="Cuthbert"/>
-  <feast day="21" month="3" name="Thomas Ken"/>
-  <feast day="22" month="3" name="James De Koven"/>
-  <feast day="23" month="3" name="Gregory the Illuminator"/>
-  <feast day="25" month="3" prec="4" name="Annunciation of our Lord" bvm="1"/>
-  <feast day="27" month="3" name="Charles Henry Brent"/>
-  <feast day="29" month="3" name="John Keble"/>
-  <feast day="31" month="3" name="John Donne"/>
-  <feast day="1" month="4" name="Frederick Denison Maurice"/>
-  <feast day="2" month="4" name="James Lloyd Breck"/>
-  <feast day="3" month="4" name="Richard of Chichester"/>
-  <feast day="8" month="4" name="William Augustus Muhlenberg"/>
-  <feast day="9" month="4" name="William Law"/>
-  <feast day="11" month="4" name="George Augustus Selwyn"/>
-  <feast day="19" month="4" name="Alphege" martyr="1"/>
-  <feast day="21" month="4" name="Anselm"/>
-  <feast day="25" month="4" prec="4" name="Mark the Evangelist"/>
-  <feast day="29" month="4" name="Catherine of Siena"/>
-  <feast day="1" month="5" prec="4" name="Philip and James"/>
-  <feast day="2" month="5" name="Athanasius"/>
-  <feast day="4" month="5" name="Monnica"/>
-  <feast day="8" month="5" name="Julian of Norwich"/>
-  <feast day="9" month="5" name="Gregory of Nazianzus"/>
-  <feast day="19" month="5" name="Dustan"/>
-  <feast day="20" month="5" name="Alcuin"/>
-  <feast day="24" month="5" name="Jackson Kemper"/>
-  <feast day="25" month="5" name="Bede"/>
-  <feast day="26" month="5" name="Augustine of Canterbury"/>
-  <feast day="31" month="5" prec="4" name="Visitation of Mary" bvm="1"/>
-  <feast day="1" month="6" name="Justin"/>
-  <feast day="2" month="6" name="Martyrs of Lyons" martyr="1"/>
-  <feast day="3" month="6" name="Martyrs of Uganda" martyr="1"/>
-  <feast day="5" month="6" name="Boniface"/>
-  <feast day="9" month="6" name="Columba"/>
-  <feast day="10" month="6" name="Ephrem of Edessa"/>
-  <feast day="11" month="6" prec="4" name="Barnabas"/>
-  <feast day="14" month="6" name="Basil the Great"/>
-  <feast day="16" month="6" name="Joseph Butler"/>
-  <feast day="18" month="6" name="Bernard Mizeki"/>
-  <feast day="22" month="6" name="Alban" martyr="1"/>
-  <feast day="24" month="6" name="Nativity of John the Baptist"/>
-  <feast day="28" month="6" name="Irenaeus"/>
-  <feast day="29" month="6" name="Peter and Paul" martyr="1"/>
-  <feast day="4" month="7" name="Independence Day"/>
-  <feast day="11" month="7" name="Benedict of Nursia"/>
-  <feast day="17" month="7" name="William White"/>
-  <feast day="22" month="7" prec="4" name="Mary Magdalene"/>
-  <feast day="24" month="7" name="Thomas a Kempis"/>
-  <feast day="25" month="7" prec="4" name="James the Apostle"/>
-  <feast day="26" month="7" name="Parents of the Blessed Virgin Mary" bvm="1"/>
-  <feast day="27" month="7" name="William Reed Huntington"/>
-  <feast day="29" month="7" prec="4" name="Mary and Martha"/>
-  <feast day="30" month="7" name="William Wilberforce"/>
-  <feast day="31" month="7" name="Joseph of Arimathaea"/>
-  <feast day="1" month="8" name="Aidan"/>
-  <feast day="6" month="8" prec="4" name="Transfiguration"/>
-  <feast day="7" month="8" name="John Mason Neale"/>
-  <feast day="8" month="8" name="Dominic"/>
-  <feast day="10" month="8" name="Lawrence" martyr="1"/>
-  <feast day="11" month="8" name="Clare"/>
-  <feast day="13" month="8" name="Jeremy Taylor"/>
-  <feast day="15" month="8" prec="4" name="Mary the Virgin" bvm="1"/>
-  <feast day="18" month="8" name="William Porcher DuBose"/>
-  <feast day="20" month="8" name="Bernard"/>
-  <feast day="24" month="8" prec="4" name="Bartholemew"/>
-  <feast day="25" month="8" name="Louis"/>
-  <feast day="28" month="8" name="Augustine of Hippo"/>
-  <feast day="2" month="9" name="Martyrs of New Guinea" martyr="1"/>
-  <feast day="12" month="9" name="John Henry Hobart"/>
-  <feast day="13" month="9" name="Cyprian"/>
-  <feast day="14" month="9" prec="4" name="Holy Cross"/>
-  <feast day="16" month="9" name="Ninian"/>
-  <feast day="18" month="9" name="Edward Bouverie Pusey"/>
-  <feast day="19" month="9" name="Theodore of Tarsus"/>
-  <feast day="20" month="9" name="John Coleridge Patteson and companions" martyr="1"/>
-  <feast day="21" month="9" prec="4" name="Matthew" martyr="1"/>
-  <feast day="25" month="9" name="Sergius"/>
-  <feast day="26" month="9" name="Lancelot Andrewes"/>
-  <feast day="29" month="9" prec="4" name="Michael and All Angels"/>
-  <feast day="30" month="9" name="Jerome"/>
-  <feast day="1" month="10" name="Remigius"/>
-  <feast day="4" month="10" name="Francis of Assisi"/>
-  <feast day="6" month="10" name="William Tyndale"/>
-  <feast day="9" month="10" name="Robert Grosseteste"/>
-  <feast day="15" month="10" name="Samuel Isaac Joseph Schereschewsky"/>
-  <feast day="16" month="10" name="Hugh Latimer, Nicholas Ridley, Thomas Cranmer" martyr="1"/>
-  <feast day="17" month="10" name="Ignatius" martyr="1"/>
-  <feast day="18" month="10" prec="4" name="Luke"/>
-  <feast day="19" month="10" name="Henry Martyn"/>
-  <feast day="23" month="10" prec="4" name="James of Jerusalem" martyr="1"/>
-  <feast day="26" month="10" name="Alfred the Great"/>
-  <feast day="28" month="10" prec="4" name="Simon and Jude"/>
-  <feast day="29" month="10" name="James Hannington and his companions" martyr="1"/>
-  <feast day="1" month="11" prec="4" name="All Saints"/>
-  <feast day="2" month="11" name="All Faithful Departed"/>
-  <feast day="3" month="11" name="Richard Hooker"/>
-  <feast day="7" month="11" name="Willibrord"/>
-  <feast day="10" month="11" name="Leo the Great"/>
-  <feast day="11" month="11" name="Martin of Tours"/>
-  <feast day="12" month="11" name="Charles Simeon"/>
-  <feast day="14" month="11" name="Consecration of Samuel Seabury"/>
-  <feast day="16" month="11" name="Margaret"/>
-  <feast day="17" month="11" name="Hugh"/>
-  <feast day="18" month="11" name="Hilda"/>
-  <feast day="19" month="11" name="Elizabeth of Hungary"/>
-  <feast day="23" month="11" name="Clement of Rome"/>
-  <feast day="30" month="11" prec="4" name="Andrew"/>
-  <feast day="1" month="12" name="Nicholas Ferrar"/>
-  <feast day="2" month="12" name="Channing Moore Williams"/>
-  <feast day="4" month="12" name="John of Damascus"/>
-  <feast day="5" month="12" name="Clement of Alexandria"/>
-  <feast day="6" month="12" name="Nicholas"/>
-  <feast day="7" month="12" name="Ambrose"/>
-  <feast day="21" month="12" prec="4" name="Thomas"/>
-  <feast day="25" month="12" prec="9" name="Christmas"/>
-  <feast day="26" month="12" prec="4" name="Stephen" martyr="1"/>
-  <feast day="27" month="12" prec="4" name="John the Apostle"/>
-  <feast day="28" month="12" prec="4" name="Holy Innocents" martyr="1"/>
+  <feast date="1-1" prec="7" name="Holy Name"/>
+  <feast date="1-6" prec="9" name="Epiphany"/>
+  <feast date="1-10" name="William Laud"/>
+  <feast date="1-13" name="Hilary"/>
+  <feast date="1-17" name="Antony"/>
+  <feast date="1-18" prec="4" name="Confession of Saint Peter"/>
+  <feast date="1-19" name="Wulfstan"/>
+  <feast date="1-20" name="Fabian"/>
+  <feast date="1-21" name="Agnes"/>
+  <feast date="1-22" name="Vincent" martyr="1"/>
+  <feast date="1-23" name="Phillips Brooks"/>
+  <feast date="1-25" prec="4" name="Conversion of Saint Paul"/>
+  <feast date="1-26" name="Timothy and Titus"/>
+  <feast date="1-27" name="John Chrysostom"/>
+  <feast date="1-28" name="Thomas Aquinas"/>
+  <feast date="2-2" prec="7" name="Presentation of our Lord"/>
+  <feast date="2-3" name="Anskar"/>
+  <feast date="2-4" name="Cornelius"/>
+  <feast date="2-5" name="Martyrs of Japan" martyr="1"/>
+  <feast date="2-13" name="Absalom Jones"/>
+  <feast date="2-14" name="Cyril and Methodius"/>
+  <feast date="2-15" name="Thomas Bray"/>
+  <feast date="2-23" name="Polycarp" martyr="1"/>
+  <feast date="2-24" prec="4" name="Matthias"/>
+  <feast date="2-27" name="George Herbert"/>
+  <feast date="3-1" name="David"/>
+  <feast date="3-2" name="Chad"/>
+  <feast date="3-3" name="John and Charles Wesley"/>
+  <feast date="3-7" name="Perpetua and her companions" martyr="1"/>
+  <feast date="3-8" name="Gregory of Nyssa"/>
+  <feast date="3-9" name="Gregory the Great"/>
+  <feast date="3-17" name="Patrick"/>
+  <feast date="3-18" name="Cyril"/>
+  <feast date="3-19" prec="4" name="Joseph"/>
+  <feast date="3-20" name="Cuthbert"/>
+  <feast date="3-21" name="Thomas Ken"/>
+  <feast date="3-22" name="James De Koven"/>
+  <feast date="3-23" name="Gregory the Illuminator"/>
+  <feast date="3-25" prec="4" name="Annunciation of our Lord" bvm="1"/>
+  <feast date="3-27" name="Charles Henry Brent"/>
+  <feast date="3-29" name="John Keble"/>
+  <feast date="3-31" name="John Donne"/>
+  <feast date="4-1" name="Frederick Denison Maurice"/>
+  <feast date="4-2" name="James Lloyd Breck"/>
+  <feast date="4-3" name="Richard of Chichester"/>
+  <feast date="4-8" name="William Augustus Muhlenberg"/>
+  <feast date="4-9" name="William Law"/>
+  <feast date="4-11" name="George Augustus Selwyn"/>
+  <feast date="4-19" name="Alphege" martyr="1"/>
+  <feast date="4-21" name="Anselm"/>
+  <feast date="4-25" prec="4" name="Mark the Evangelist"/>
+  <feast date="4-29" name="Catherine of Siena"/>
+  <feast date="5-1" prec="4" name="Philip and James"/>
+  <feast date="5-2" name="Athanasius"/>
+  <feast date="5-4" name="Monnica"/>
+  <feast date="5-8" name="Julian of Norwich"/>
+  <feast date="5-9" name="Gregory of Nazianzus"/>
+  <feast date="5-19" name="Dustan"/>
+  <feast date="5-20" name="Alcuin"/>
+  <feast date="5-24" name="Jackson Kemper"/>
+  <feast date="5-25" name="Bede"/>
+  <feast date="5-26" name="Augustine of Canterbury"/>
+  <feast date="5-31" prec="4" name="Visitation of Mary" bvm="1"/>
+  <feast date="6-1" name="Justin"/>
+  <feast date="6-2" name="Martyrs of Lyons" martyr="1"/>
+  <feast date="6-3" name="Martyrs of Uganda" martyr="1"/>
+  <feast date="6-5" name="Boniface"/>
+  <feast date="6-9" name="Columba"/>
+  <feast date="6-10" name="Ephrem of Edessa"/>
+  <feast date="6-11" prec="4" name="Barnabas"/>
+  <feast date="6-14" name="Basil the Great"/>
+  <feast date="6-16" name="Joseph Butler"/>
+  <feast date="6-18" name="Bernard Mizeki"/>
+  <feast date="6-22" name="Alban" martyr="1"/>
+  <feast date="6-24" name="Nativity of John the Baptist"/>
+  <feast date="6-28" name="Irenaeus"/>
+  <feast date="6-29" name="Peter and Paul" martyr="1"/>
+  <feast date="7-4" name="Independence Day"/>
+  <feast date="7-11" name="Benedict of Nursia"/>
+  <feast date="7-17" name="William White"/>
+  <feast date="7-22" prec="4" name="Mary Magdalene"/>
+  <feast date="7-24" name="Thomas a Kempis"/>
+  <feast date="7-25" prec="4" name="James the Apostle"/>
+  <feast date="7-26" name="Parents of the Blessed Virgin Mary" bvm="1"/>
+  <feast date="7-27" name="William Reed Huntington"/>
+  <feast date="7-29" prec="4" name="Mary and Martha"/>
+  <feast date="7-30" name="William Wilberforce"/>
+  <feast date="7-31" name="Joseph of Arimathaea"/>
+  <feast date="8-1" name="Aidan"/>
+  <feast date="8-6" prec="4" name="Transfiguration"/>
+  <feast date="8-7" name="John Mason Neale"/>
+  <feast date="8-8" name="Dominic"/>
+  <feast date="8-10" name="Lawrence" martyr="1"/>
+  <feast date="8-11" name="Clare"/>
+  <feast date="8-13" name="Jeremy Taylor"/>
+  <feast date="8-15" prec="4" name="Mary the Virgin" bvm="1"/>
+  <feast date="8-18" name="William Porcher DuBose"/>
+  <feast date="8-20" name="Bernard"/>
+  <feast date="8-24" prec="4" name="Bartholemew"/>
+  <feast date="8-25" name="Louis"/>
+  <feast date="8-28" name="Augustine of Hippo"/>
+  <feast date="9-2" name="Martyrs of New Guinea" martyr="1"/>
+  <feast date="9-12" name="John Henry Hobart"/>
+  <feast date="9-13" name="Cyprian"/>
+  <feast date="9-14" prec="4" name="Holy Cross"/>
+  <feast date="9-16" name="Ninian"/>
+  <feast date="9-18" name="Edward Bouverie Pusey"/>
+  <feast date="9-19" name="Theodore of Tarsus"/>
+  <feast date="9-20" name="John Coleridge Patteson and companions" martyr="1"/>
+  <feast date="9-21" prec="4" name="Matthew" martyr="1"/>
+  <feast date="9-25" name="Sergius"/>
+  <feast date="9-26" name="Lancelot Andrewes"/>
+  <feast date="9-29" prec="4" name="Michael and All Angels"/>
+  <feast date="9-30" name="Jerome"/>
+  <feast date="10-1" name="Remigius"/>
+  <feast date="10-4" name="Francis of Assisi"/>
+  <feast date="10-6" name="William Tyndale"/>
+  <feast date="10-9" name="Robert Grosseteste"/>
+  <feast date="10-15" name="Samuel Isaac Joseph Schereschewsky"/>
+  <feast date="10-16" name="Hugh Latimer, Nicholas Ridley, Thomas Cranmer" martyr="1"/>
+  <feast date="10-17" name="Ignatius" martyr="1"/>
+  <feast date="10-18" prec="4" name="Luke"/>
+  <feast date="10-19" name="Henry Martyn"/>
+  <feast date="10-23" prec="4" name="James of Jerusalem" martyr="1"/>
+  <feast date="10-26" name="Alfred the Great"/>
+  <feast date="10-28" prec="4" name="Simon and Jude"/>
+  <feast date="10-29" name="James Hannington and his companions" martyr="1"/>
+  <feast date="11-1" prec="4" name="All Saints"/>
+  <feast date="11-2" name="All Faithful Departed"/>
+  <feast date="11-3" name="Richard Hooker"/>
+  <feast date="11-7" name="Willibrord"/>
+  <feast date="11-10" name="Leo the Great"/>
+  <feast date="11-11" name="Martin of Tours"/>
+  <feast date="11-12" name="Charles Simeon"/>
+  <feast date="11-14" name="Consecration of Samuel Seabury"/>
+  <feast date="11-16" name="Margaret"/>
+  <feast date="11-17" name="Hugh"/>
+  <feast date="11-18" name="Hilda"/>
+  <feast date="11-19" name="Elizabeth of Hungary"/>
+  <feast date="11-23" name="Clement of Rome"/>
+  <feast date="11-30" prec="4" name="Andrew"/>
+  <feast date="12-1" name="Nicholas Ferrar"/>
+  <feast date="12-2" name="Channing Moore Williams"/>
+  <feast date="12-4" name="John of Damascus"/>
+  <feast date="12-5" name="Clement of Alexandria"/>
+  <feast date="12-6" name="Nicholas"/>
+  <feast date="12-7" name="Ambrose"/>
+  <feast date="12-21" prec="4" name="Thomas"/>
+  <feast date="12-25" prec="9" name="Christmas"/>
+  <feast date="12-26" prec="4" name="Stephen" martyr="1"/>
+  <feast date="12-27" prec="4" name="John the Apostle"/>
+  <feast date="12-28" prec="4" name="Holy Innocents" martyr="1"/>
+
 </calendar>
