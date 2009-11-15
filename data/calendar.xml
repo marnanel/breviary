@@ -10,6 +10,27 @@
 <calendar>
 
   <!--
+      The seasons
+    -->
+
+  <season name="Advent" start="ADVENT SUNDAY" end="12-24"/>
+  <season name="Christmas" start="12-25" end="1-5"/>
+  <season name="Epiphany" start="1-6" end="-47"/>
+  <season name="Lent" start="-46" end="-1"/>
+  <season name="Easter" start="+0" end="+49"/>
+  <!--
+      Notes:
+
+      * obviously Pentecost season ends on the day *before*
+      Advent Sunday, but if you read top to bottom there is
+      no danger of confusion, and this saves having to do
+      date arithmetic on the date of Advent Sunday;
+
+      * Pentecost itself is not in Pentecost season.
+    -->
+  <season name="Pentecost" start="+50" end="ADVENT SUNDAY"/>
+
+  <!--
       Feasts with respect to Easter
     -->
 
