@@ -1,9 +1,10 @@
 from PySide.QtCore import *
 import string
 
+# TO DO:
+#  - Colours
+#  - Actual checks
 
-# Easter 2010 is:
-# April 4th
 
 def easter(y):
 
@@ -231,10 +232,16 @@ class Calendar:
 
         self.celebrating = self._celebrating(date)
 
-        print [
-            self.m_season,
-            self.celebrating,
-            ]
+        feasts = sorted(self.celebrating,
+                       lambda a, b: cmp(b['prec'], a['prec']))
+
+        if feasts:
+            self.m_feast = feasts[0]['name']
+        else:
+            self.m_feast = None
+
+        # Stub:
+        self.m_colour = 'green'
 
     def _celebrating(self, date, firstPass=True):
         # "The Church Year consists of two cycles of feasts and holy days: one is
@@ -245,12 +252,19 @@ class Calendar:
         fromChristmas = 10000 + date.month()*100 + date.day()
         fromEaster = easter(date.year()).daysTo(date)
 
+        if date.month()<3:
+            daysAfterChristmas = QDate(date.year()-1, 12, 25).daysTo(date)
+        else:
+            daysAfterChristmas = QDate(date.year(), 12, 25).daysTo(date)
+
+        daysAfterAdventSunday = adventSunday(date.year()).daysTo(date)
+
         # Work out the season (but only on the first pass)
         # FIXME; TO HERE; This is broken
         if firstPass:
             if fromEaster>-47 and fromEaster<0:
                 self.m_season = 'Lent'
-                #$weekno = ($easter_point+50)/7
+                weekNumber = (fromEaster+50)/7
                 # FIXME: The ECUSA calendar seems to indicate that Easter Eve ends
                 # Lent *and* begins the Easter season. I'm not sure how. Maybe it's
                 # in both? Maybe the daytime is in Lent and the night is in Easter?
@@ -259,20 +273,20 @@ class Calendar:
                 # Pentecost season actually begins on the day after Pentecost.
                 # Its proper name is "The Season After Pentecost".
                 self.m_season = 'Easter'
-                #$weekno = $easter_point/7;
-            elif adventSunday(date.year()).daysTo(date) and fromChristmas<=-1:
+                weekNumber = fromEaster/7
+            elif daysAfterAdventSunday>=0 and daysAfterChristmas<=-1:
                 self.m_season = 'Advent'
-                #$weekno = 1+($christmas_point-$advent_sunday)/7
-            elif fromChristmas>=0 and fromChristmas<=11:
+                weekNumber = 1+daysAfterAdventSunday/7
+            elif daysAfterChristmas>=0 and daysAfterChristmas<=11:
                 # The Twelve Days of Christmas.
                 self.m_season = 'Christmas'
-                #$weekno = 1+$christmas_point/7;
-            elif fromChristmas>=12 and fromEaster <= -47:
+                weekNumber = 1+daysAfterChristmas/7
+            elif daysAfterChristmas>=12 and fromEaster <= -47:
                 self.m_season = 'Epiphany'
-                #$weekno = 1+($christmas_point-12)/7;
+                weekNumber = 1+(daysAfterChristmas-12)/7
             else:
                 self.m_season = 'Pentecost'
-                #$weekno = 1+($easter_point-49)/7;
+                weekNumber = 1+(fromEaster-49)/7
 
         # So, what are we celebrating today?
 
@@ -297,20 +311,38 @@ class Calendar:
         # Sundays don't transfer!)
 
         if firstPass and date.dayOfWeek()==7:
-            celebrating.append({'name': '%s (weekno)' % (self.m_season,
-                                                         ),
+            if weekNumber==1 and self.m_season in ('Easter'):
+                name = self.m_season
+            else:
+                name = '%s %d' % (self.m_season,
+                                  weekNumber)
+            celebrating.append({'name': name,
                                 'prec': 5})
 
         return celebrating
+
+    def season(self):
+        return self.m_season
+
+    def feast(self):
+        return self.m_feast
+
+    def colour(self):
+        return self.m_colour
         
 
 def self_test():
     for test in file('tests/2006.txt').readlines():
         fields = string.split(test[:-1], None, 3)
-        print fields
+        print fields[0]
         (y, m, d) = fields[0].split('-')
+
+        fields = fields[1:]
+
         date = QDate(int(y), int(m), int(d))
         calendar = Calendar(date)
+        print fields
+        print [calendar.colour(), calendar.season(), calendar.feast()]
 
 if __name__=="__main__":
     print 'Running self-tests.'
