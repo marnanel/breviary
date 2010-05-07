@@ -41,7 +41,7 @@ class Calendar:
         -1 : { "name": 'Easter Eve', "colour":'purple', "prec":7 },
         -2 : { "name": 'Good Friday', "colour":'purple', "prec":7 },
 
-        50 : { "name": 'Book of Common Prayer', "prec":3 },
+        50 : { "name": 'Book of Common Prayer', "prec":4 },
 
         # Dates relative to Christmas are encoded as 10000 + 100*m + d
         # for simplicity.
@@ -224,24 +224,37 @@ class Calendar:
         11228 : {"name":'Holy Innocents', "martyr":1, "prec":4},
         }
 
-    def __init__(self, date=None):
+    def __init__(self, date=None, options={}):
         if not date:
             date = QDate.currentDate()
 
         # Now, what feasts are we celebrating today?
 
-        self.celebrating = self._celebrating(date)
-
-        feasts = sorted(self.celebrating,
-                       lambda a, b: cmp(b['prec'], a['prec']))
+        (self.m_season, feasts) = self._celebrating(date)
 
         if feasts:
-            self.m_feast = feasts[0]['name']
+            self.m_feast = feasts[0]
         else:
             self.m_feast = None
 
-        # Stub:
-        self.m_colour = 'green'
+        if self.m_feast and self.m_feast.has_key('colour'):
+            self.m_colour = self.m_feast['colour']
+        elif self.m_feast and self.m_feast.has_key('martyr'):
+            self.m_colour = 'red'
+        elif self.m_feast and self.m_feast.has_key('bvm') and options.has_key('bvmblue'):
+            self.m_colour = 'blue'
+        elif self.m_feast and self.m_feast.has_key('rose') and options.has_key('rose'):
+            self.m_colour = 'rose'
+        elif self.m_feast and self.m_feast['prec']!=5:
+            # Feasts, other than Sundays
+            self.m_colour = 'white'
+        elif self.m_season=='Advent' and options.has_key('adventblue'):
+            self.m_colour = 'blue'
+        elif self.m_season in ('Lent', 'Advent'):
+            self.m_colour = 'purple'
+        else:
+            # The great fallback
+            self.m_colour = 'green'
 
     def _celebrating(self, date, firstPass=True):
         # "The Church Year consists of two cycles of feasts and holy days: one is
@@ -259,34 +272,32 @@ class Calendar:
 
         daysAfterAdventSunday = adventSunday(date.year()).daysTo(date)
 
-        # Work out the season (but only on the first pass)
-        # FIXME; TO HERE; This is broken
-        if firstPass:
-            if fromEaster>-47 and fromEaster<0:
-                self.m_season = 'Lent'
-                weekNumber = (fromEaster+50)/7
-                # FIXME: The ECUSA calendar seems to indicate that Easter Eve ends
-                # Lent *and* begins the Easter season. I'm not sure how. Maybe it's
-                # in both? Maybe the daytime is in Lent and the night is in Easter?
-            elif fromEaster>=0 and fromEaster<=49:
-                # yes, this is correct: Pentecost itself is in Easter season;
-                # Pentecost season actually begins on the day after Pentecost.
-                # Its proper name is "The Season After Pentecost".
-                self.m_season = 'Easter'
-                weekNumber = fromEaster/7
-            elif daysAfterAdventSunday>=0 and daysAfterChristmas<=-1:
-                self.m_season = 'Advent'
-                weekNumber = 1+daysAfterAdventSunday/7
-            elif daysAfterChristmas>=0 and daysAfterChristmas<=11:
-                # The Twelve Days of Christmas.
-                self.m_season = 'Christmas'
-                weekNumber = 1+daysAfterChristmas/7
-            elif daysAfterChristmas>=12 and fromEaster <= -47:
-                self.m_season = 'Epiphany'
-                weekNumber = 1+(daysAfterChristmas-12)/7
-            else:
-                self.m_season = 'Pentecost'
-                weekNumber = 1+(fromEaster-49)/7
+        # Work out the season
+        if fromEaster>-47 and fromEaster<0:
+            season = 'Lent'
+            weekNumber = (fromEaster+50)/7
+            # FIXME: The ECUSA calendar seems to indicate that Easter Eve ends
+            # Lent *and* begins the Easter season. I'm not sure how. Maybe it's
+            # in both? Maybe the daytime is in Lent and the night is in Easter?
+        elif fromEaster>=0 and fromEaster<=49:
+            # yes, this is correct: Pentecost itself is in Easter season;
+            # Pentecost season actually begins on the day after Pentecost.
+            # Its proper name is "The Season After Pentecost".
+            season = 'Easter'
+            weekNumber = fromEaster/7
+        elif daysAfterAdventSunday>=0 and daysAfterChristmas<=-1:
+            season = 'Advent'
+            weekNumber = 1+daysAfterAdventSunday/7
+        elif daysAfterChristmas>=0 and daysAfterChristmas<=11:
+            # The Twelve Days of Christmas.
+            season = 'Christmas'
+            weekNumber = 1+daysAfterChristmas/7
+        elif daysAfterChristmas>=12 and fromEaster <= -47:
+            season = 'Epiphany'
+            weekNumber = 1+(daysAfterChristmas-12)/7
+        else:
+            season = 'Pentecost'
+            weekNumber = 1+(fromEaster-49)/7
 
         # So, what are we celebrating today?
 
@@ -304,45 +315,78 @@ class Calendar:
                 return feast
             celebrating.extend([transferred(x)
                                 for x in self._celebrating(yesterday,
-                                                           False)][1:])
+                                                           False)[1][1:]
+                                if x['prec']!=5 # don't transfer Sundays
+                                ])
 
         # Maybe it's a Sunday.
-        # (But only check if firstPass, because
-        # Sundays don't transfer!)
 
-        if firstPass and date.dayOfWeek()==7:
-            if weekNumber==1 and self.m_season in ('Easter'):
-                name = self.m_season
+        if date.dayOfWeek()==7:
+            if weekNumber==1 and season in ('Easter'):
+                name = season
             else:
-                name = '%s %d' % (self.m_season,
+                name = '%s %d' % (season,
                                   weekNumber)
             celebrating.append({'name': name,
                                 'prec': 5})
 
-        return celebrating
+        # Mark Rose Sundays
+        rose = False
+        if season=='Lent' and fromEaster==-28:
+            rose = True
+        elif season=='Advent' and daysAfterAdventSunday==7:
+            rose = True
+
+        if rose:
+            for feast in celebrating:
+                feast['rose'] = 1
+
+        # Sort them.
+        celebrating.sort(lambda a, b: cmp(b['prec'], a['prec']))
+
+        # All done!
+        return (season, celebrating)
 
     def season(self):
         return self.m_season
 
     def feast(self):
-        return self.m_feast
+        if self.m_feast:
+            return self.m_feast['name']
+        else:
+            return None
 
     def colour(self):
         return self.m_colour
-        
 
+################################################################
+        
 def self_test():
     for test in file('tests/2006.txt').readlines():
         fields = string.split(test[:-1], None, 3)
-        print fields[0]
+        field_string = fields[0]
         (y, m, d) = fields[0].split('-')
 
         fields = fields[1:]
 
         date = QDate(int(y), int(m), int(d))
-        calendar = Calendar(date)
-        print fields
-        print [calendar.colour(), calendar.season(), calendar.feast()]
+        options = {
+            'adventblue': 1,
+            'bvmblue': 1,
+            'rose': 1,
+            }
+        calendar = Calendar(date, options)
+        if len(fields)==2:
+            fields.append(None)
+        result = [calendar.colour(), calendar.season(), calendar.feast()]
+
+        if fields==result:
+            print field_string, 'ok', fields
+        else:
+            print field_string, 'fail:', 'want', fields, 'got', result
+
+
+################################################################
 
 if __name__=="__main__":
     print 'Running self-tests.'
