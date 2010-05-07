@@ -34,7 +34,7 @@ class Calendar:
         56 : { "name": 'Trinity', "prec":9 },
 
         # And others:
-            -46 : { "name": 'Ash Wednesday', "colour":'purple', "prec":7 },
+        -46 : { "name": 'Ash Wednesday', "colour":'purple', "prec":7 },
         # is the colour of Shrove Tuesday right?
         -47 : { "name": 'Shrove Tuesday', "colour":'white', "prec":7 }, 
         # Actually, Easter Eve doesn't have a colour
@@ -340,6 +340,21 @@ class Calendar:
         if rose:
             for feast in celebrating:
                 feast['rose'] = 1
+
+        # Two special cases:
+        # Advent 1 is called Advent Sunday:
+        for feast in celebrating:
+            if feast['name']=='Advent 1':
+                feast['name'] = 'Advent Sunday'
+                feast['colour'] = 'white'
+
+        # and the Sunday *before* Advent Sunday
+        # is the feast of Christ the King.
+        if daysAfterAdventSunday==-7:
+            for feast in celebrating:
+                if feast['prec']==5:
+                    feast['name'] = 'Christ the King'
+                    feast['colour'] = 'white'
 
         # Sort them.
         celebrating.sort(lambda a, b: cmp(b['prec'], a['prec']))
