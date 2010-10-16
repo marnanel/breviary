@@ -57,18 +57,41 @@ submit (LoadIntoDatabaseContext *context)
 
   for (i=0; i<context->fields; i++)
     {
+      int is_number = 0;
+      char *value = context->values[i];
+
       printf ("Value %d: %s\n",
 	      i+1,
-	      context->values[i]);
+	      value);
 
-      /*
-	FIXME: This needs to use sqlite3_bind_int
-	IF the field is entirely digits
-      */
-      sqlite3_bind_text (context->statement,
-			 i+1,
-			 context->values[i],
-			 -1, NULL);
+      if (value && value[0])
+	{
+	  char *cursor = value;
+	  while (*cursor>='0' &&
+		 *cursor<='9')
+	    {
+	      cursor++;
+	    }
+
+	  if (*cursor==0)
+	    {
+	      is_number = 1;
+	    }
+	}
+
+      if (is_number)
+	{
+	  sqlite3_bind_int (context->statement,
+			    i+1,
+			    atoi (value));
+	}
+      else
+	{
+	  sqlite3_bind_text (context->statement,
+			     i+1,
+			     context->values[i],
+			     -1, NULL);
+	}
     }
 
   sqlite3_step (context->statement);
