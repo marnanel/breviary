@@ -1,0 +1,803 @@
+Setup: CREATE TABLE feasts (day INTEGER, name STRING, precedence INTEGER, flags INTEGER);
+Setup: CREATE UNIQUE INDEX feastidx ON feasts (day);
+Query: INSERT INTO feasts (day, name, precedence, flags) VALUES (?, ?, ?, ?);
+
+40499
+Easter Eve
+7
+1
+
+40498
+Good Friday
+7
+1
+
+40454
+Ash Wednesday
+7
+1
+
+40453
+Shrove Tuesday
+7
+3
+
+40500
+Easter
+9
+3
+
+10101
+Holy Name
+7
+3
+
+10106
+Epiphany
+9
+3
+
+10110
+William Laud
+3
+3
+
+10113
+Hilary
+3
+3
+
+10117
+Antony
+3
+3
+
+10118
+Confession of Saint Peter
+4
+3
+
+10119
+Wulfstan
+3
+3
+
+10120
+Fabian
+3
+3
+
+10121
+Agnes
+3
+3
+
+10122
+Vincent
+3
+2
+
+10123
+Phillips Brooks
+3
+3
+
+10125
+Conversion of Saint Paul
+4
+3
+
+10126
+Timothy and Titus
+3
+3
+
+10127
+John Chrysostom
+3
+3
+
+10128
+Thomas Aquinas
+3
+3
+
+10202
+Presentation of our Lord
+7
+3
+
+10203
+Anskar
+3
+3
+
+10204
+Cornelius
+3
+3
+
+10205
+Martyrs of Japan
+3
+2
+
+10213
+Absalom Jones
+3
+3
+
+10214
+Cyril and Methodius
+3
+3
+
+10215
+Thomas Bray
+3
+3
+
+10223
+Polycarp
+3
+2
+
+10224
+Matthias
+4
+3
+
+10227
+George Herbert
+3
+3
+
+10301
+David
+3
+3
+
+10302
+Chad
+3
+3
+
+10303
+John and Charles Wesley
+3
+3
+
+10307
+Perpetua and her companions
+3
+2
+
+10308
+Gregory of Nyssa
+3
+3
+
+10309
+Gregory the Great
+3
+3
+
+10317
+Patrick
+3
+3
+
+10318
+Cyril
+3
+3
+
+10319
+Joseph
+4
+3
+
+10320
+Cuthbert
+3
+3
+
+10321
+Thomas Ken
+3
+3
+
+10322
+James De Koven
+3
+3
+
+10323
+Gregory the Illuminator
+3
+3
+
+10325
+Annunciation of our Lord
+4
+6
+
+10327
+Charles Henry Brent
+3
+3
+
+10329
+John Keble
+3
+3
+
+10331
+John Donne
+3
+3
+
+10401
+Frederick Denison Maurice
+3
+3
+
+10402
+James Lloyd Breck
+3
+3
+
+10403
+Richard of Chichester
+3
+3
+
+10408
+William Augustus Muhlenberg
+3
+3
+
+10409
+William Law
+3
+3
+
+10411
+George Augustus Selwyn
+3
+3
+
+10419
+Alphege
+3
+2
+
+10421
+Anselm
+3
+3
+
+10425
+Mark the Evangelist
+4
+3
+
+10429
+Catherine of Siena
+3
+3
+
+10501
+Philip and James
+4
+3
+
+10502
+Athanasius
+3
+3
+
+10504
+Monnica
+3
+3
+
+10508
+Julian of Norwich
+3
+3
+
+10509
+Gregory of Nazianzus
+3
+3
+
+10519
+Dustan
+3
+3
+
+10520
+Alcuin
+3
+3
+
+10524
+Jackson Kemper
+3
+3
+
+10525
+Bede
+3
+3
+
+10526
+Augustine of Canterbury
+3
+3
+
+10531
+Visitation of Mary
+4
+6
+
+10601
+Justin
+3
+3
+
+10602
+Martyrs of Lyons
+3
+2
+
+10603
+Martyrs of Uganda
+3
+2
+
+10605
+Boniface
+3
+3
+
+10609
+Columba
+3
+3
+
+10610
+Ephrem of Edessa
+3
+3
+
+10611
+Barnabas
+4
+3
+
+10614
+Basil the Great
+3
+3
+
+10616
+Joseph Butler
+3
+3
+
+10618
+Bernard Mizeki
+3
+3
+
+10622
+Alban
+3
+2
+
+10624
+Nativity of John the Baptist
+3
+3
+
+10628
+Irenaeus
+3
+3
+
+10629
+Peter and Paul
+3
+2
+
+10704
+Independence Day
+3
+3
+
+10711
+Benedict of Nursia
+3
+3
+
+10717
+William White
+3
+3
+
+10722
+Mary Magdalene
+4
+3
+
+10724
+Thomas a Kempis
+3
+3
+
+10725
+James the Apostle
+4
+3
+
+10726
+Parents of the Blessed Virgin Mary
+3
+6
+
+10727
+William Reed Huntington
+3
+3
+
+10729
+Mary and Martha
+4
+3
+
+10730
+William Wilberforce
+3
+3
+
+10731
+Joseph of Arimathaea
+3
+3
+
+10801
+Aidan
+3
+3
+
+10806
+Transfiguration
+4
+3
+
+10807
+John Mason Neale
+3
+3
+
+10808
+Dominic
+3
+3
+
+10810
+Lawrence
+3
+2
+
+10811
+Clare
+3
+3
+
+10813
+Jeremy Taylor
+3
+3
+
+10815
+Mary the Virgin
+4
+6
+
+10818
+William Porcher DuBose
+3
+3
+
+10820
+Bernard
+3
+3
+
+10824
+Bartholemew
+4
+3
+
+10825
+Louis
+3
+3
+
+10828
+Augustine of Hippo
+3
+3
+
+10902
+Martyrs of New Guinea
+3
+2
+
+10912
+John Henry Hobart
+3
+3
+
+10913
+Cyprian
+3
+3
+
+10914
+Holy Cross
+4
+3
+
+10916
+Ninian
+3
+3
+
+10918
+Edward Bouverie Pusey
+3
+3
+
+10919
+Theodore of Tarsus
+3
+3
+
+10920
+John Coleridge Patteson and companions
+3
+2
+
+10921
+Matthew
+4
+2
+
+10925
+Sergius
+3
+3
+
+10926
+Lancelot Andrewes
+3
+3
+
+10929
+Michael and All Angels
+4
+3
+
+10930
+Jerome
+3
+3
+
+11001
+Remigius
+3
+3
+
+11004
+Francis of Assisi
+3
+3
+
+11006
+William Tyndale
+3
+3
+
+11009
+Robert Grosseteste
+3
+3
+
+11015
+Samuel Isaac Joseph Schereschewsky
+3
+3
+
+11016
+Hugh Latimer, Nicholas Ridley, Thomas Cranmer
+3
+2
+
+11017
+Ignatius
+3
+2
+
+11018
+Luke
+4
+3
+
+11019
+Henry Martyn
+3
+3
+
+11023
+James of Jerusalem
+4
+2
+
+11026
+Alfred the Great
+3
+3
+
+11028
+Simon and Jude
+4
+3
+
+11029
+James Hannington and his companions
+3
+2
+
+11101
+All Saints
+4
+3
+
+11102
+All Faithful Departed
+3
+3
+
+11103
+Richard Hooker
+3
+3
+
+11107
+Willibrord
+3
+3
+
+11110
+Leo the Great
+3
+3
+
+11111
+Martin of Tours
+3
+3
+
+11112
+Charles Simeon
+3
+3
+
+11114
+Consecration of Samuel Seabury
+3
+3
+
+11116
+Margaret
+3
+3
+
+11117
+Hugh
+3
+3
+
+11118
+Hilda
+3
+3
+
+11119
+Elizabeth of Hungary
+3
+3
+
+11123
+Clement of Rome
+3
+3
+
+11130
+Andrew
+4
+3
+
+11201
+Nicholas Ferrar
+3
+3
+
+11202
+Channing Moore Williams
+3
+3
+
+11204
+John of Damascus
+3
+3
+
+11205
+Clement of Alexandria
+3
+3
+
+11206
+Nicholas
+3
+3
+
+11207
+Ambrose
+3
+3
+
+11221
+Thomas
+4
+3
+
+11225
+Christmas
+9
+3
+
+11226
+John the Apostle
+4
+3
+
+11228
+Holy Innocents
+4
+2
+
+40539
+Ascension
+9
+3
+
+40549
+Pentecost
+9
+2
+
+40550
+Book of Common Prayer
+3
+3
+
+40556
+Trinity
+9
+3
