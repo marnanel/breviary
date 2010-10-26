@@ -343,8 +343,8 @@ breviary_ensure_initialised (Breviary *breviary)
       sunday_before_season_start_serial -= 7;
     }
 
-  if (target_serial ==
-      advent_sunday_serial-7)
+  if (target_serial >= advent_sunday_serial-7 &&
+      target_serial < advent_sunday_serial)
     {
       /*
        * The feast of Christ the King gets a
