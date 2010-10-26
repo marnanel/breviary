@@ -355,6 +355,17 @@ breviary_ensure_initialised (Breviary *breviary)
 
       breviary->facets[2] += 990;
     }
+  else if (target_serial >= easter_serial-49 &&
+	   target_serial <= easter_serial-47)
+    {
+      /*
+       * The last week of Epiphany is coded
+       * similarly.
+       */
+      breviary->facets[2] =
+	(breviary->facets[2] / 1000)*1000 +
+	990;
+    }
   else
     {
       breviary->facets[2] += 10 *
